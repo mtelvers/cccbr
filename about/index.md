@@ -36,8 +36,8 @@ A vibrant community of ringers; with bell ringing widely valued as an enjoyable 
 To support and encourage ringing by:
 
 1. Find alternative long-term sources of recruits who have the potential to be good ringers
-2.  That no ringer should hit a barrier to their own progression
-3.  The pursuit of excellence in everything we do
-4.  The sound of church bells remains part of our cultural soundscape and is appreciated and understood
-5.  The pursuit of method ringing is not the only measure of success for a ringer
-6.  The Church continues to value our contribution
+2. That no ringer should hit a barrier to their own progression
+3. The pursuit of excellence in everything we do
+4. The sound of church bells remains part of our cultural soundscape and is appreciated and understood
+5. The pursuit of method ringing is not the only measure of success for a ringer
+6. The Church continues to value our contribution
