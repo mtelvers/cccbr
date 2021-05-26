@@ -1,0 +1,29 @@
+main:
+  - title: "About"
+    url: /about
+  - title: "Bells and Ringing"
+    url: /bellringing
+
+about:
+  - title: About
+    children:
+      - title: "About the Council"
+        url: /about
+      - title: "Continuing CCCBR Reforms"
+        url: /about/reforms/
+      - title: "Governance"
+        url: /about/governance/
+  - title: Executive
+    children:
+      - title: "Officers"
+        url: /about/executive/
+      - title: "Meetings"
+        url: /about/executive/meetings/
+
+covid:
+  - title: Coronavirus
+    children:
+      - title: "Can I go ringing safely?"
+        url: /coronavirus/can-i-go-ringing-safely
+      - title: "Carbon Dioxide monitoring whilst ringing"
+        url: /coronavirus/carbon-dioxide-monitoring-whilst-ringing
