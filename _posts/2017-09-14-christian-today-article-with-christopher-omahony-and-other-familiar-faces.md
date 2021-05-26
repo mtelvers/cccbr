@@ -3,7 +3,7 @@ id: 11126
 title: 'Christian Today article with Christopher O&apos;Mahony and other familiar faces'
 date: 2017-09-14T23:28:29+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11126
 permalink: /2017/09/14/christian-today-article-with-christopher-omahony-and-other-familiar-faces/
 wp_featherlight_disable:

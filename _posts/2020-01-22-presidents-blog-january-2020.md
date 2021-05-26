@@ -3,7 +3,7 @@ id: 18995
 title: 'President&apos;s Blog - January 2020'
 date: 2020-01-22T19:16:53+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18995
 permalink: /2020/01/22/presidents-blog-january-2020/
 xyz_fbap_future_to_publish:

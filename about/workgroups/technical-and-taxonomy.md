@@ -3,7 +3,7 @@ id: 14736
 title: Technical and Taxonomy
 date: 2018-12-04T21:58:09+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=14736
 classic-editor-remember:
   - block-editor

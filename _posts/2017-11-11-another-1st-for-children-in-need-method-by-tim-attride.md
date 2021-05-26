@@ -3,7 +3,7 @@ id: 11636
 title: 'Another 1st for Children in Need - method by Tim Attride'
 date: 2017-11-11T17:32:04+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11636
 permalink: /2017/11/11/another-1st-for-children-in-need-method-by-tim-attride/
 wp_featherlight_disable:

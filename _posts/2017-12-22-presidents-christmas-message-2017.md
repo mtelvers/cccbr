@@ -3,7 +3,7 @@ id: 11991
 title: 'President&apos;s Christmas message 2017'
 date: 2017-12-22T01:00:31+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11991
 permalink: /2017/12/22/presidents-christmas-message-2017/
 wp_featherlight_disable:

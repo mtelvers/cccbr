@@ -3,7 +3,7 @@ id: 17115
 title: Friends of the Central Council Library
 date: 2019-05-25T16:43:04+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=17115
 xyz_fbap:
   - "1"

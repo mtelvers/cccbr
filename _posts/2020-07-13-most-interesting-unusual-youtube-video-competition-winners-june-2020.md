@@ -3,7 +3,7 @@ id: 20797
 title: Most Interesting/Unusual YouTube Video Competition winners, June 2020
 date: 2020-07-13T12:02:14+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=20797
 permalink: /2020/07/13/most-interesting-unusual-youtube-video-competition-winners-june-2020/
 xyz_fbap_future_to_publish:

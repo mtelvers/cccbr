@@ -3,7 +3,7 @@ id: 23040
 title: Competition
 date: 2021-04-16T12:30:50+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=23040
 classic-editor-remember:
   - block-editor

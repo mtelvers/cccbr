@@ -3,7 +3,7 @@ id: 8511
 title: 'Last Day - CRAG Submissions'
 date: 2016-10-31T13:52:50+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8511
 permalink: /2016/10/31/last-day-crag-submissions/
 image: /wp-content/uploads/2016/08/CRAG.jpg

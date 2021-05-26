@@ -3,7 +3,7 @@ id: 12240
 title: Want to see how you can successfully get your Ringing Remembers or other campaign into your local press?
 date: 2018-01-21T23:59:40+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12240
 permalink: /2018/01/21/want-to-see-how-you-can-successfully-get-your-ringing-remembers-or-other-campaign-into-your-local-press/
 wp_featherlight_disable:

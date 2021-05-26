@@ -3,7 +3,7 @@ id: 12492
 title: Telecoms Equipment Guidance
 date: 2018-02-18T21:17:18+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12492
 permalink: /2018/02/18/telecoms-equipment-guidance/
 wp_featherlight_disable:

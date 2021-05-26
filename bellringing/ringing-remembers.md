@@ -3,7 +3,7 @@ id: 14849
 title: Ringing Remembers
 date: 2018-12-05T20:11:09+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=14849
 ep_tilt_migration:
   - "1"

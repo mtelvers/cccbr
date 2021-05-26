@@ -3,7 +3,7 @@ id: 22277
 title: CCCBR sponsors ART Award for technology
 date: 2020-12-28T10:06:49+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22277
 permalink: /2020/12/28/cccbr-sponsors-art-award-for-technology/
 classic-editor-remember:

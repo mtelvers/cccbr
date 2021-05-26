@@ -3,7 +3,7 @@ id: 22199
 title: Former historic anniversaries
 date: 2020-12-26T22:28:16+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22199
 xyz_fbap:
   - "1"

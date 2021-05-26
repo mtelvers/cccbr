@@ -3,7 +3,7 @@ id: 4931
 title: 'Latest President&apos;s Blog'
 date: 2016-05-21T11:59:24+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4931
 permalink: /2016/05/21/latest-presidents-blog-4/
 catchbox-sidebarlayout:

@@ -3,7 +3,7 @@ id: 20215
 title: 'Stewardship & Management Workgroup When We Ring Again'
 date: 2020-05-29T05:58:27+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20215
 permalink: /2020/05/29/stewardship-management-workgroup-when-we-ring-again/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 13551
 title: Annual Meeting Live Broadcasts
 date: 2018-05-24T15:57:40+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13551
 permalink: /2018/05/24/annual-meeting-live-broadcasts/
 wp_featherlight_disable:

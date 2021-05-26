@@ -3,7 +3,7 @@ id: 8658
 title: Record Peals
 date: 2016-11-17T16:50:54+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: http:///?page_id=8658
 wp_featherlight_disable:
   - ""

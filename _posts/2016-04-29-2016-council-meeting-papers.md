@@ -3,7 +3,7 @@ id: 4737
 title: 2016 Council Meeting Papers
 date: 2016-04-29T22:24:56+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4737
 permalink: /2016/04/29/2016-council-meeting-papers/
 catchbox-sidebarlayout:

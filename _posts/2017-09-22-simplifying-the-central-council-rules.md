@@ -3,7 +3,7 @@ id: 11217
 title: Simplifying the Central Council Rules
 date: 2017-09-22T00:01:12+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11217
 permalink: /2017/09/22/simplifying-the-central-council-rules/
 wp_featherlight_disable:

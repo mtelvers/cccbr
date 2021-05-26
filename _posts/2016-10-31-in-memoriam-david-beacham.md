@@ -3,7 +3,7 @@ id: 8514
 title: 'In Memoriam - David Beacham'
 date: 2016-10-31T16:33:31+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8514
 permalink: /2016/10/31/in-memoriam-david-beacham/
 image: /wp-content/uploads/2016/05/inmemoriam.jpg

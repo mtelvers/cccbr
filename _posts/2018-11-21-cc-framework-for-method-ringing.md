@@ -3,7 +3,7 @@ id: 14610
 title: CC Framework for Method Ringing
 date: 2018-11-21T22:11:20+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14610
 permalink: /2018/11/21/cc-framework-for-method-ringing/
 xyz_fbap:

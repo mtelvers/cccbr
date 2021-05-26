@@ -3,7 +3,7 @@ id: 12819
 title: Armistice 100 featured on BBC Radio Essex
 date: 2018-03-28T17:34:28+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12819
 permalink: /2018/03/28/armistice-100-featured-on-bbc-radio-essex/
 wp_featherlight_disable:

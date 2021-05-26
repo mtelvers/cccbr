@@ -3,7 +3,7 @@ id: 4393
 title: Bell Restoration Guidance Note 7
 date: 2016-03-23T12:01:50+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4393
 permalink: /2016/03/23/bell-restoration-guidance-note-7/
 catchbox-sidebarlayout:

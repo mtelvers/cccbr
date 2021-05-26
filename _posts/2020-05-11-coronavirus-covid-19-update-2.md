@@ -3,7 +3,7 @@ id: 20045
 title: Coronavirus (COVID-19) Update
 date: 2020-05-11T16:41:42+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20045
 permalink: /2020/05/11/coronavirus-covid-19-update-2/
 xyz_fbap_future_to_publish:

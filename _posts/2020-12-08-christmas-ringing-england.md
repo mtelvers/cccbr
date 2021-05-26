@@ -3,7 +3,7 @@ id: 22067
 title: 'Christmas ringing - England'
 date: 2020-12-08T20:56:28+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22067
 permalink: /2020/12/08/christmas-ringing-england/
 classic-editor-remember:

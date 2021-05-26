@@ -3,7 +3,7 @@ id: 20989
 title: 'Annual Meeting 2020 Agenda & Meeting Papers now available'
 date: 2020-08-07T15:47:50+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=20989
 permalink: /2020/08/07/annual-meeting-2020-agenda-meeting-papers-now-available/
 xyz_fbap_future_to_publish:

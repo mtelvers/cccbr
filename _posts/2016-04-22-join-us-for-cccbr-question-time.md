@@ -3,7 +3,7 @@ id: 4731
 title: Join us for CCCBR Question Time
 date: 2016-04-22T22:17:08+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4731
 permalink: /2016/04/22/join-us-for-cccbr-question-time/
 catchbox-sidebarlayout:

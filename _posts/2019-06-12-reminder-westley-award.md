@@ -3,7 +3,7 @@ id: 17414
 title: 'Reminder - Westley Award'
 date: 2019-06-12T11:53:44+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17414
 permalink: /2019/06/12/reminder-westley-award/
 xyz_fbap_future_to_publish:

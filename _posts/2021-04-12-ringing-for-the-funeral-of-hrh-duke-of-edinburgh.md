@@ -3,7 +3,7 @@ id: 23028
 title: Ringing for the funeral of HRH Duke of Edinburgh
 date: 2021-04-12T20:08:04+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=23028
 permalink: /2021/04/12/ringing-for-the-funeral-of-hrh-duke-of-edinburgh/
 classic-editor-remember:

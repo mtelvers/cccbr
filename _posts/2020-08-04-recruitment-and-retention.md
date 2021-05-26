@@ -3,7 +3,7 @@ id: 20957
 title: Recruitment and Retention
 date: 2020-08-04T17:24:43+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20957
 permalink: /2020/08/04/recruitment-and-retention/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 18654
 title: Ringing thriving in Devon
 date: 2019-11-20T19:31:48+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18654
 permalink: /2019/11/20/ringing-thriving-in-devon/
 xyz_fbap_future_to_publish:

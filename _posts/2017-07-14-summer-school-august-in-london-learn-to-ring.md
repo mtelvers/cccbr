@@ -3,7 +3,7 @@ id: 10765
 title: 'Summer school August in London - learn to ring!'
 date: 2017-07-14T08:15:01+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10765
 permalink: /2017/07/14/summer-school-august-in-london-learn-to-ring/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 14789
 title: My account
 date: 2018-12-05T10:46:03+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /my-account/
 xyz_fbap:
   - "1"

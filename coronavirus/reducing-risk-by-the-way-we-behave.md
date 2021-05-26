@@ -3,7 +3,7 @@ id: 21726
 title: Reducing risk by the way we behave
 date: 2020-10-23T17:02:15+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=21726
 classic-editor-remember:
   - block-editor

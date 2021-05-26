@@ -3,7 +3,7 @@ id: 19512
 title: 'President&apos;s Blog #6'
 date: 2020-03-27T21:09:51+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=19512
 permalink: /2020/03/27/presidents-blog-6/
 complete_open_graph:

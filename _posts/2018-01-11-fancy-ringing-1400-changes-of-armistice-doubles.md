@@ -3,7 +3,7 @@ id: 12180
 title: Fancy ringing 1400 changes of Armistice Doubles?
 date: 2018-01-11T17:13:53+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12180
 permalink: /2018/01/11/fancy-ringing-1400-changes-of-armistice-doubles/
 wp_featherlight_disable:

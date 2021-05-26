@@ -3,7 +3,7 @@ id: 13620
 title: 'Christopher O&apos;Mahony on BBC Radio Leeds'
 date: 2018-05-29T22:29:32+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13620
 permalink: /2018/05/29/christopher-omahony-on-bbc-radio-leeds/
 xyz_fbap:

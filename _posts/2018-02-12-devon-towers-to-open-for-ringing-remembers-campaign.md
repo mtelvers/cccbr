@@ -3,7 +3,7 @@ id: 12442
 title: Devon towers to open for Ringing Remembers campaign
 date: 2018-02-12T22:56:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12442
 permalink: /2018/02/12/devon-towers-to-open-for-ringing-remembers-campaign/
 wp_featherlight_disable:

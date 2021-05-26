@@ -3,7 +3,7 @@ id: 10875
 title: Kilifi ringers summer visit
 date: 2017-08-04T20:47:30+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10875
 permalink: /2017/08/04/kilifi-ringers-summer-visit/
 wp_featherlight_disable:

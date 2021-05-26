@@ -3,7 +3,7 @@ id: 13004
 title: Ringing Remembers on BBC Radio Derby
 date: 2018-04-16T08:59:19+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13004
 permalink: /2018/04/16/ringing-remembers-on-bbc-radio-derby/
 xyz_fbap:

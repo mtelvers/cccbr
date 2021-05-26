@@ -3,7 +3,7 @@ id: 8736
 title: Lighting in and around church towers
 date: 2016-12-15T21:51:47+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8736
 permalink: /2016/12/15/lighting-in-and-around-church-towers/
 wp_featherlight_disable:

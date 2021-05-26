@@ -3,7 +3,7 @@ id: 21618
 title: 'Further development of Coronavirus guidance - the Path Ahead'
 date: 2020-10-09T06:22:40+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21618
 permalink: /2020/10/09/further-development-of-coronavirus-guidance-the-path-ahead/
 classic-editor-remember:

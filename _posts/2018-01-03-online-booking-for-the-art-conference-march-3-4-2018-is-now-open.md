@@ -3,7 +3,7 @@ id: 12137
 title: Online booking for the ART Conference March 3/4 2018 is now open
 date: 2018-01-03T21:43:21+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12137
 permalink: /2018/01/03/online-booking-for-the-art-conference-march-3-4-2018-is-now-open/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 18295
 title: 'This week in The Ringing World - 27th September'
 date: 2019-09-27T09:17:49+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18295
 permalink: /2019/09/27/this-week-in-the-ringing-world-27th-september/
 xyz_fbap_future_to_publish:

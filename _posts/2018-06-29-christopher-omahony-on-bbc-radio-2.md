@@ -3,7 +3,7 @@ id: 13833
 title: 'Christopher O&apos;Mahony on BBC Radio 2'
 date: 2018-06-29T16:52:15+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13833
 permalink: /2018/06/29/christopher-omahony-on-bbc-radio-2/
 xyz_fbap:

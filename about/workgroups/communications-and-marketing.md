@@ -3,7 +3,7 @@ id: 14729
 title: Communications and Marketing
 date: 2018-12-04T21:54:06+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=14729
 classic-editor-remember:
   - block-editor

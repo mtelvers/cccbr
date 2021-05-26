@@ -3,7 +3,7 @@ id: 11497
 title: Latest Safeguarding Update
 date: 2017-10-26T09:08:41+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11497
 permalink: /2017/10/26/latest-safeguarding-update/
 wp_featherlight_disable:

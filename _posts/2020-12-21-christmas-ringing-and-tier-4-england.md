@@ -3,7 +3,7 @@ id: 22159
 title: 'Christmas ringing and Tier 4 - England'
 date: 2020-12-21T09:00:22+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22159
 permalink: /2020/12/21/christmas-ringing-and-tier-4-england/
 classic-editor-remember:

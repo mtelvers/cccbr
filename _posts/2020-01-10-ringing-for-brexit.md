@@ -3,7 +3,7 @@ id: 18889
 title: Ringing for Brexit
 date: 2020-01-10T16:48:09+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18889
 permalink: /2020/01/10/ringing-for-brexit/
 xyz_fbap_future_to_publish:

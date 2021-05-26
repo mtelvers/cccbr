@@ -3,7 +3,7 @@ id: 11997
 title: The Taylor Review
 date: 2017-12-20T19:43:29+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11997
 permalink: /2017/12/20/the-taylor-review/
 wp_featherlight_disable:

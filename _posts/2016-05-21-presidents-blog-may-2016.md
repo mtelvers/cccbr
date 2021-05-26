@@ -3,7 +3,7 @@ id: 9966
 title: 'President&apos;s Blog - May 2016'
 date: 2016-05-21T16:42:49+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9966
 permalink: /2016/05/21/presidents-blog-may-2016/
 wp_featherlight_disable:

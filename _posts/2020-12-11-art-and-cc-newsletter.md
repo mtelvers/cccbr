@@ -3,7 +3,7 @@ id: 22096
 title: ART and CC Newsletter
 date: 2020-12-11T16:05:07+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22096
 permalink: /2020/12/11/art-and-cc-newsletter/
 classic-editor-remember:

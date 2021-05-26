@@ -3,7 +3,7 @@ id: 18684
 title: 'Nottingham 2020 - Save the date!'
 date: 2019-11-29T07:00:51+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18684
 permalink: /2019/11/29/nottingham-2020-save-the-date/
 xyz_fbap_future_to_publish:

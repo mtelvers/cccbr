@@ -4,7 +4,7 @@ title: Ringing Remembers project comes to an end
 date: 2019-03-12T16:28:12+00:00
 author: Doug Davis
 excerpt: |
-layout: post
+layout: single
 guid: /?p=15338
 permalink: /2019/03/12/ringing-remembers-project-comes-to-an-end/
 xyz_fbap:

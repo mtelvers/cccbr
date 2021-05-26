@@ -3,7 +3,7 @@ id: 20841
 title: 'Ringing for VJ Day 75: 11am Saturday 15th August 2020'
 date: 2020-07-19T15:51:29+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20841
 permalink: /2020/07/19/ringing-for-vj-day-75-11am-saturday-15th-august-2020/
 xyz_fbap_future_to_publish:

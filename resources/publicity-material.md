@@ -3,7 +3,7 @@ id: 15623
 title: Publicity Material
 date: 2019-03-20T23:37:38+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=15623
 xyz_fbap:
   - "1"

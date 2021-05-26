@@ -3,7 +3,7 @@ id: 20195
 title: Index of YouTube training videos
 date: 2020-05-27T21:41:41+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=20195
 permalink: /2020/05/27/index-of-youtube-training-videos/
 complete_open_graph:

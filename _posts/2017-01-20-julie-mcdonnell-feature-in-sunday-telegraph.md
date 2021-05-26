@@ -3,7 +3,7 @@ id: 9085
 title: 'Julie McDonnell - Feature in Sunday Telegraph'
 date: 2017-01-20T11:46:26+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9085
 permalink: /2017/01/20/julie-mcdonnell-feature-in-sunday-telegraph/
 wp_featherlight_disable:

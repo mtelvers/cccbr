@@ -3,7 +3,7 @@ id: 20249
 title: 'May YouTube competition - playlist'
 date: 2020-06-01T06:09:08+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=20249
 permalink: /2020/06/01/may-youtube-competition-playlist/
 complete_open_graph:

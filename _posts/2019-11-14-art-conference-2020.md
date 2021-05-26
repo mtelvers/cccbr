@@ -3,7 +3,7 @@ id: 18622
 title: ART Conference 2020
 date: 2019-11-14T14:35:26+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18622
 permalink: /2019/11/14/art-conference-2020/
 xyz_fbap_future_to_publish:

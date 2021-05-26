@@ -3,7 +3,7 @@ id: 20522
 title: Can I go ringing safely?
 date: 2020-06-23T14:41:13+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=20522
 classic-editor-remember:
   - block-editor

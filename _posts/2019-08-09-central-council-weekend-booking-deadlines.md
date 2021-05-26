@@ -3,7 +3,7 @@ id: 18007
 title: 'Central Council Weekend - Booking deadlines'
 date: 2019-08-09T07:05:14+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18007
 permalink: /2019/08/09/central-council-weekend-booking-deadlines/
 xyz_fbap_future_to_publish:

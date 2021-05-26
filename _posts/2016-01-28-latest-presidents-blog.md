@@ -3,7 +3,7 @@ id: 1285
 title: 'Latest President&apos;s Blog'
 date: 2016-01-28T15:44:58+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=1285
 permalink: /2016/01/28/latest-presidents-blog/
 colormag_page_layout:

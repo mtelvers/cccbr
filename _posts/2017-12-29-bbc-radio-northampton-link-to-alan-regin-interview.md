@@ -3,7 +3,7 @@ id: 12087
 title: BBC Radio Northampton link to Alan Regin interview
 date: 2017-12-29T21:44:26+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12087
 permalink: /2017/12/29/bbc-radio-northampton-link-to-alan-regin-interview/
 wp_featherlight_disable:

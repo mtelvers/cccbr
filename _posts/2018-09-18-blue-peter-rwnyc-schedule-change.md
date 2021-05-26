@@ -3,7 +3,7 @@ id: 14322
 title: 'Blue Peter RWNYC - Schedule Change'
 date: 2018-09-18T13:29:02+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14322
 permalink: /2018/09/18/blue-peter-rwnyc-schedule-change/
 xyz_fbap:

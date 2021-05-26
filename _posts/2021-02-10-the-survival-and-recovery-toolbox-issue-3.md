@@ -3,7 +3,7 @@ id: 22614
 title: 'The Survival and Recovery Toolbox - Issue 3'
 date: 2021-02-10T19:49:26+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22614
 permalink: /2021/02/10/the-survival-and-recovery-toolbox-issue-3/
 classic-editor-remember:

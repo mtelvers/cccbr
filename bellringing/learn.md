@@ -3,7 +3,7 @@ id: 39
 title: Learn to ring
 date: 2018-11-24T16:13:15+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=39
 ep_tilt_migration:
   - "1"

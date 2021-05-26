@@ -3,7 +3,7 @@ id: 14777
 title: Things to ring for
 date: 2018-12-04T23:21:26+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=14777
 xyz_fbap:
   - "1"

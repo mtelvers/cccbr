@@ -3,7 +3,7 @@ id: 15242
 title: Order of Australia Medal for Australian bellringer Ron Shepherd
 date: 2019-02-01T08:27:19+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14896
 permalink: /2019/02/01/order-of-australia-medal-for-australian-bellringer-ron-shepherd/
 xyz_fbap:

@@ -3,7 +3,7 @@ id: 19106
 title: Captain’s Blog, Stardate 2020.2.15
 date: 2020-02-16T13:49:47+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19106
 permalink: /2020/02/16/captains-blog-stardate-2020-2-15/
 xyz_fbap_future_to_publish:

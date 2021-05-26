@@ -3,7 +3,7 @@ id: 11664
 title: 'Radio feature re Devon ringing - a must-listen'
 date: 2017-11-12T15:48:29+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11664
 permalink: /2017/11/12/radio-feature-re-devon-ringing-a-must-listen/
 wp_featherlight_disable:

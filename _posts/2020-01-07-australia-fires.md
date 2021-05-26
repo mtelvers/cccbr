@@ -3,7 +3,7 @@ id: 18873
 title: Australia Fires
 date: 2020-01-07T18:37:55+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18873
 permalink: /2020/01/07/australia-fires/
 xyz_fbap_future_to_publish:

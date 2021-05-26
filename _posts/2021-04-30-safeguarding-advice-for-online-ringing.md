@@ -3,7 +3,7 @@ id: 23174
 title: Safeguarding advice for online ringing
 date: 2021-04-30T19:28:57+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=23174
 permalink: /2021/04/30/safeguarding-advice-for-online-ringing/
 classic-editor-remember:

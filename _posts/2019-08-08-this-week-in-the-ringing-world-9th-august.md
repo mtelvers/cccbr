@@ -3,7 +3,7 @@ id: 18000
 title: 'This week in The Ringing World - 9th August'
 date: 2019-08-08T18:27:22+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18000
 permalink: /2019/08/08/this-week-in-the-ringing-world-9th-august/
 xyz_fbap_future_to_publish:

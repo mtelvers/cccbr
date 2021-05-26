@@ -3,7 +3,7 @@ id: 13014
 title: Grants available for Bell Restoration
 date: 2018-04-16T22:07:41+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13014
 permalink: /2018/04/16/grants-available-for-bell-restoration/
 wp_featherlight_disable:

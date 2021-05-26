@@ -3,7 +3,7 @@ id: 13437
 title: Ringing Remembers at Angmering
 date: 2018-05-05T17:27:32+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13437
 permalink: /2018/05/05/ringing-remembers-at-angmering/
 wp_featherlight_disable:

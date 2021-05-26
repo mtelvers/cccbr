@@ -3,7 +3,7 @@ id: 17226
 title: 'This week in The Ringing World - 24th May'
 date: 2019-05-21T16:33:38+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=15627
 permalink: /2019/05/21/this-week-in-the-ringing-world-24th-may/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 14472
 title: Warwick Poppies 2018 and the Warwick Bellringers’ Poppy Bell
 date: 2018-10-31T13:42:59+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14472
 permalink: /2018/10/31/warwick-poppies-2018-and-the-warwick-bellringers-poppy-bell/
 xyz_fbap:

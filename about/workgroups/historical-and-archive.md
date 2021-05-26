@@ -3,7 +3,7 @@ id: 14749
 title: Historical and Archive
 date: 2018-12-04T22:31:44+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=14749
 classic-editor-remember:
   - block-editor

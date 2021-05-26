@@ -3,7 +3,7 @@ id: 15202
 title: Sitemap
 date: 2019-02-13T14:38:00+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=15202
 ep_tilt_migration:
   - "1"

@@ -3,7 +3,7 @@ id: 10479
 title: York Minster appoints Head of Tower
 date: 2017-06-09T13:15:51+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10479
 permalink: /2017/06/09/york-minster-appoints-head-of-tower/
 wp_featherlight_disable:

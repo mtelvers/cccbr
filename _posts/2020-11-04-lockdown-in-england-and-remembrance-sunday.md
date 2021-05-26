@@ -3,7 +3,7 @@ id: 21775
 title: Lockdown in England and Remembrance Sunday
 date: 2020-11-04T18:30:52+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21775
 permalink: /2020/11/04/lockdown-in-england-and-remembrance-sunday/
 classic-editor-remember:

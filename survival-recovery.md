@@ -3,7 +3,7 @@ id: 22653
 title: 'Survival & Recovery'
 date: 2021-02-16T19:59:53+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22653
 classic-editor-remember:
   - block-editor

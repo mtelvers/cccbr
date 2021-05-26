@@ -3,7 +3,7 @@ id: 19645
 title: Arrangements for the 2020 CCCBR Weekend
 date: 2020-04-05T14:02:47+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=19645
 permalink: /2020/04/05/arrangements-for-the-2020-cccbr-weekend/
 xyz_fbap_future_to_publish:

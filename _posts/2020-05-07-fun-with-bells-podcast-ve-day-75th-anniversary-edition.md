@@ -3,7 +3,7 @@ id: 19971
 title: 'Fun with Bells podcast - VE Day 75th Anniversary Edition'
 date: 2020-05-07T10:12:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19971
 permalink: /2020/05/07/fun-with-bells-podcast-ve-day-75th-anniversary-edition/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 10908
 title: 'Big Ben replacement - Christopher O&apos;Mahony speaks to media'
 date: 2017-08-16T23:15:41+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10908
 permalink: /2017/08/16/big-ben-replacement-christopher-omahony-speaks-to-media/
 wp_featherlight_disable:

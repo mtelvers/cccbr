@@ -3,7 +3,7 @@ id: 9385
 title: 'Julie McDonnell - Telegraph Article'
 date: 2017-02-16T21:56:08+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9385
 permalink: /2017/02/16/julie-mcdonnell-telegraph-article/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 19301
 title: 'President&apos;s Blog #4'
 date: 2020-03-01T09:06:48+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19301
 permalink: /2020/03/01/presidents-blog-4/
 xyz_fbap_future_to_publish:

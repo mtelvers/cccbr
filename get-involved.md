@@ -3,7 +3,7 @@ id: 18594
 title: Get Involved
 date: 2019-11-05T22:24:15+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=18594
 ---
 ##### Why Volunteer?

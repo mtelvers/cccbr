@@ -3,7 +3,7 @@ id: 17223
 title: Grant nominations now open!
 date: 2019-05-02T12:07:52+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=15542
 permalink: /2019/05/02/grant-nominations-now-open/
 wp_featherlight_disable:

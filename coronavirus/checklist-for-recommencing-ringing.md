@@ -3,7 +3,7 @@ id: 20506
 title: Checklist for recommencing ringing
 date: 2020-06-23T14:31:59+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=20506
 classic-editor-remember:
   - block-editor

@@ -3,7 +3,7 @@ id: 20944
 title: July competition playlist
 date: 2020-08-01T15:44:52+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=20944
 permalink: /2020/08/01/july-youtube-competition-playlist/
 complete_open_graph:

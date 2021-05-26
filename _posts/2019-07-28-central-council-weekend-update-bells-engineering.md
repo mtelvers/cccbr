@@ -3,7 +3,7 @@ id: 17939
 title: 'Central Council Weekend Update - Bells & Engineering'
 date: 2019-07-28T22:47:43+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17939
 permalink: /2019/07/28/central-council-weekend-update-bells-engineering/
 xyz_fbap_future_to_publish:

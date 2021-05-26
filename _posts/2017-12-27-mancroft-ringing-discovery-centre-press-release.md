@@ -3,7 +3,7 @@ id: 12041
 title: 'Mancroft Ringing Discovery Centre - press release!'
 date: 2017-12-27T14:02:21+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12041
 permalink: /2017/12/27/mancroft-ringing-discovery-centre-press-release/
 wp_featherlight_disable:

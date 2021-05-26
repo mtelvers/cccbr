@@ -3,7 +3,7 @@ id: 20427
 title: 'Volunteering & Leadership Workgroup Update – June 2020'
 date: 2020-06-14T18:27:52+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20427
 permalink: /2020/06/14/volunteering-leadership-workgroup-update-june-2020/
 xyz_fbap_future_to_publish:

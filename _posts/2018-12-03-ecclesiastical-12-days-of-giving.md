@@ -3,7 +3,7 @@ id: 15238
 title: Ecclesiastical 12 Days of Giving
 date: 2018-12-03T00:35:18+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14670
 permalink: /2018/12/03/ecclesiastical-12-days-of-giving/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 17227
 title: 'This week in The Ringing World - 31st May'
 date: 2019-05-29T09:18:58+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=15653
 permalink: /2019/05/29/this-week-in-the-ringing-world-31st-may/
 complete_open_graph:

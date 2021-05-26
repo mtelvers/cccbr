@@ -3,7 +3,7 @@ id: 18356
 title: Congratulations to Will Bosworth
 date: 2019-10-10T21:17:42+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18356
 permalink: /2019/10/10/congratulations-to-will-bosworth/
 xyz_fbap_future_to_publish:

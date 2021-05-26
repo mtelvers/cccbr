@@ -3,7 +3,7 @@ id: 14406
 title: Ringing for the Centenary of the WWI Armistice
 date: 2018-10-11T13:27:33+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14406
 permalink: /2018/10/11/ringing-for-the-centenary-of-the-wwi-armistice/
 xyz_fbap:

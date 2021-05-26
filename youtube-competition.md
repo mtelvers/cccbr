@@ -3,7 +3,7 @@ id: 19836
 title: YouTube Competition
 date: 2020-04-27T07:33:48+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=19836
 ep_tilt_migration:
   - "1"

@@ -3,7 +3,7 @@ id: 6345
 title: Members Help
 date: 2016-10-19T22:55:43+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: http:///?page_id=6345
 wp_featherlight_disable:
   - ""

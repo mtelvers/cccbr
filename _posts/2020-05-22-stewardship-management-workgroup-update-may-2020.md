@@ -3,7 +3,7 @@ id: 20104
 title: 'Stewardship & Management Workgroup Update - May 2020'
 date: 2020-05-22T05:30:47+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20104
 permalink: /2020/05/22/stewardship-management-workgroup-update-may-2020/
 xyz_fbap_future_to_publish:

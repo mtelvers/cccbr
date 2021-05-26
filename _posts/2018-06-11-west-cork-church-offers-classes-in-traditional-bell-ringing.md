@@ -3,7 +3,7 @@ id: 13704
 title: West Cork church offers classes in traditional bell-ringing
 date: 2018-06-11T13:12:25+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13704
 permalink: /2018/06/11/west-cork-church-offers-classes-in-traditional-bell-ringing/
 xyz_fbap:

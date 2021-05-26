@@ -3,7 +3,7 @@ id: 15243
 title: Dove 11 Now Available!
 date: 2019-02-04T09:00:37+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14913
 permalink: /2019/02/04/dove-11-now-available/
 xyz_fbap_insert_og:

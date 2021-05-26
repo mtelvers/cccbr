@@ -3,7 +3,7 @@ id: 20599
 title: Champing holidays at CCT churches
 date: 2020-06-26T08:07:25+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20599
 permalink: /2020/06/26/champing-holidays-at-cct-churches/
 xyz_fbap_future_to_publish:

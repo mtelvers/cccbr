@@ -3,7 +3,7 @@ id: 10461
 title: Logo available for download
 date: 2017-06-07T09:09:40+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10461
 permalink: /2017/06/07/logo-available-for-download/
 wp_featherlight_disable:

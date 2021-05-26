@@ -3,7 +3,7 @@ id: 10030
 title: March Bells in the News
 date: 2017-04-03T22:23:49+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10030
 permalink: /2017/04/03/march-bells-in-the-news/
 wp_featherlight_disable:

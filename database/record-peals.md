@@ -3,7 +3,7 @@ id: 14823
 title: Record Peals
 date: 2018-12-05T12:06:17+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: /?page_id=14823
 xyz_fbap:
   - "1"

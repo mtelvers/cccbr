@@ -3,7 +3,7 @@ id: 14204
 title: Ringing Remembers on BBC Radio Leicester
 date: 2018-08-19T16:32:48+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14204
 permalink: /2018/08/19/ringing-remembers-on-bbc-radio-leicester/
 xyz_fbap:

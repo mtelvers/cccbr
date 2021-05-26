@@ -3,7 +3,7 @@ id: 9974
 title: 'President&apos;s Blog - July 2015'
 date: 2015-07-17T17:09:43+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9974
 permalink: /2015/07/17/presidents-blog-july-2015/
 wp_featherlight_disable:

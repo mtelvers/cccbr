@@ -3,7 +3,7 @@ id: 8701
 title: 'President&apos;s Blog - November 2016'
 date: 2016-11-30T00:03:40+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8701
 permalink: /2016/11/30/presidents-blog-november-2016/
 wp_featherlight_disable:

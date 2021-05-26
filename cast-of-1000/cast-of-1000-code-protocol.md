@@ -3,7 +3,7 @@ id: 22217
 title: 'Cast of 1000: Code / Protocol'
 date: 2020-12-27T15:11:13+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22217
 classic-editor-remember:
   - block-editor

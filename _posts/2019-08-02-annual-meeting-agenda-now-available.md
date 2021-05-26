@@ -3,7 +3,7 @@ id: 17971
 title: Annual Meeting Agenda now available
 date: 2019-08-02T08:42:13+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17971
 permalink: /2019/08/02/annual-meeting-agenda-now-available/
 xyz_fbap_future_to_publish:

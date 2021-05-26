@@ -3,7 +3,7 @@ id: 20269
 title: Ron Johnston
 date: 2020-06-01T17:11:03+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=20269
 permalink: /2020/06/01/ron-johnston/
 xyz_fbap_future_to_publish:

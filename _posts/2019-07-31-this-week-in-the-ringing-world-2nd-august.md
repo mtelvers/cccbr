@@ -3,7 +3,7 @@ id: 17959
 title: 'This week in The Ringing World - 2nd August'
 date: 2019-07-31T10:45:08+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17959
 permalink: /2019/07/31/this-week-in-the-ringing-world-2nd-august/
 xyz_fbap_future_to_publish:

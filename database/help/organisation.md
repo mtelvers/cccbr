@@ -3,7 +3,7 @@ id: 6318
 title: Organisation Help
 date: 2016-10-19T18:24:44+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: http:///?page_id=6318
 wp_featherlight_disable:
   - ""

@@ -3,7 +3,7 @@ id: 23078
 title: 'Guidance from 17th May - England'
 date: 2021-04-21T19:51:58+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=23078
 permalink: /2021/04/21/guidance-from-17th-may-england/
 classic-editor-remember:

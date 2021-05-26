@@ -3,7 +3,7 @@ id: 23387
 title: 'President&apos;s Blog #34'
 date: 2021-05-18T22:25:17+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=23387
 permalink: /2021/05/18/presidents-blog-34/
 classic-editor-remember:

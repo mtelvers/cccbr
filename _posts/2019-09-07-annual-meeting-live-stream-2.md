@@ -3,7 +3,7 @@ id: 18164
 title: Annual Meeting Live Stream
 date: 2019-09-07T10:07:39+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18164
 permalink: /2019/09/07/annual-meeting-live-stream-2/
 xyz_fbap_future_to_publish:

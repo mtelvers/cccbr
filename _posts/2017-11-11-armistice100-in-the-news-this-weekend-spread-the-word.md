@@ -3,7 +3,7 @@ id: 11645
 title: 'Ringing for Peace: Armistice100 in the news this weekend - spread the word!'
 date: 2017-11-11T19:40:50+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11645
 permalink: /2017/11/11/armistice100-in-the-news-this-weekend-spread-the-word/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 22293
 title: 'Continuing CCCBR Reforms - 18 November 2020 Update'
 date: 2020-12-31T07:51:12+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22293
 classic-editor-remember:
   - block-editor

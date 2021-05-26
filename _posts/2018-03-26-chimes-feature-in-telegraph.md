@@ -3,7 +3,7 @@ id: 12810
 title: Chimes feature in Telegraph
 date: 2018-03-26T09:03:47+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12810
 permalink: /2018/03/26/chimes-feature-in-telegraph/
 xyz_fbap:

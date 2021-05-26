@@ -3,7 +3,7 @@ id: 12044
 title: Link to BBC Radio Kent interview now available!
 date: 2017-12-28T13:21:13+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12044
 permalink: /2017/12/28/link-to-bbc-radio-kent-interview-now-available/
 wp_featherlight_disable:

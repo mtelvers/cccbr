@@ -3,7 +3,7 @@ id: 22477
 title: Fred E Dukes International Bell Fund
 date: 2021-01-25T11:09:14+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22477
 classic-editor-remember:
   - block-editor

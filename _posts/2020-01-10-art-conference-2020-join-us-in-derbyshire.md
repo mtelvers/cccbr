@@ -3,7 +3,7 @@ id: 18882
 title: ART Conference 2020 – join us in Derbyshire!
 date: 2020-01-10T09:51:51+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18882
 permalink: /2020/01/10/art-conference-2020-join-us-in-derbyshire/
 xyz_fbap_future_to_publish:

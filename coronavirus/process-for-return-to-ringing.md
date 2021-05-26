@@ -3,7 +3,7 @@ id: 21716
 title: Process for return to Ringing
 date: 2020-10-23T16:53:49+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=21716
 classic-editor-remember:
   - block-editor

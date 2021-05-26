@@ -3,7 +3,7 @@ id: 19326
 title: 2020 Westley Award for Church Bell Maintenance
 date: 2020-03-04T11:05:45+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19326
 permalink: /2020/03/04/2020-westley-award-for-church-bell-maintenance/
 xyz_fbap_future_to_publish:

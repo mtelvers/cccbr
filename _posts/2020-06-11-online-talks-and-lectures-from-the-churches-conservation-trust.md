@@ -3,7 +3,7 @@ id: 20378
 title: Online talks and lectures from the Churches Conservation Trust
 date: 2020-06-11T17:53:13+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20378
 permalink: /2020/06/11/online-talks-and-lectures-from-the-churches-conservation-trust/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 21021
 title: July YouTube winner
 date: 2020-08-09T20:14:13+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21021
 permalink: /2020/08/09/july-youtube-winner/
 xyz_fbap_future_to_publish:

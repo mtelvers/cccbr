@@ -3,7 +3,7 @@ id: 22737
 title: Roadmap to Ringing Resumption
 date: 2021-02-26T18:35:32+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22737
 permalink: /2021/02/26/roadmap-to-ringing-resumption/
 classic-editor-remember:

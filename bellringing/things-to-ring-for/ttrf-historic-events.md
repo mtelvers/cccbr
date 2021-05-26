@@ -3,7 +3,7 @@ id: 15459
 title: 'Historic Anniversaries & other events'
 date: 2019-02-22T15:43:47+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=15459
 xyz_fbap:
   - "1"

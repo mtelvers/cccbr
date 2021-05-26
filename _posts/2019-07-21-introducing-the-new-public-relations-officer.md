@@ -3,7 +3,7 @@ id: 17807
 title: Introducing the new Public Relations Officer
 date: 2019-07-21T11:55:28+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17807
 permalink: /2019/07/21/introducing-the-new-public-relations-officer/
 xyz_fbap_future_to_publish:

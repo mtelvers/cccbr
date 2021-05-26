@@ -3,7 +3,7 @@ id: 8351
 title: YMSCR Response to the Archbishop of York’s statement
 date: 2016-10-21T16:00:50+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8351
 permalink: /2016/10/21/ymscr-response-to-the-archbishop-of-yorks-statement/
 image: /wp-content/uploads/2015/10/latest_news-e1488532238309.jpg

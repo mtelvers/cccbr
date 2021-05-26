@@ -3,7 +3,7 @@ id: 6330
 title: People Help
 date: 2016-10-19T19:28:57+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: http:///?page_id=6330
 wp_featherlight_disable:
   - ""

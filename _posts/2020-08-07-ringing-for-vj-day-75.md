@@ -3,7 +3,7 @@ id: 20986
 title: Ringing for VJ Day 75
 date: 2020-08-07T10:42:58+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20986
 permalink: /2020/08/07/ringing-for-vj-day-75/
 xyz_fbap_future_to_publish:

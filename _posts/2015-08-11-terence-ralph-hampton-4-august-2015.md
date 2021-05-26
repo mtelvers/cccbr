@@ -3,7 +3,7 @@ id: 163
 title: 'Terence Ralph Hampton - 4 August 2015'
 date: 2015-08-11T16:27:48+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=163
 permalink: /2015/08/11/terence-ralph-hampton-4-august-2015/
 colormag_page_layout:

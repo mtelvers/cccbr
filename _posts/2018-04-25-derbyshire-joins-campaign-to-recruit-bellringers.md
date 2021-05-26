@@ -3,7 +3,7 @@ id: 13359
 title: Derbyshire joins campaign to recruit bellringers
 date: 2018-04-25T14:47:16+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13359
 permalink: /2018/04/25/derbyshire-joins-campaign-to-recruit-bellringers/
 wp_featherlight_disable:

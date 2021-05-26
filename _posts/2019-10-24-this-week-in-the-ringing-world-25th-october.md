@@ -3,7 +3,7 @@ id: 18454
 title: 'This week in The Ringing World - 25th October'
 date: 2019-10-24T15:05:00+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18454
 permalink: /2019/10/24/this-week-in-the-ringing-world-25th-october/
 xyz_fbap_future_to_publish:

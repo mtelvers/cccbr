@@ -3,7 +3,7 @@ id: 10631
 title: Ben Kipling and bell tuning in the news!
 date: 2017-06-25T23:16:19+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10631
 permalink: /2017/06/25/ben-kipling-and-bell-tuning-in-the-news/
 wp_featherlight_disable:

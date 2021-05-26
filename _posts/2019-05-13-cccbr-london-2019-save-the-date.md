@@ -3,7 +3,7 @@ id: 15591
 title: 'CCCBR London 2019 - Save the Date!'
 date: 2019-05-13T11:49:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=15591
 permalink: /2019/05/13/cccbr-london-2019-save-the-date/
 wp_featherlight_disable:

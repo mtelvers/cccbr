@@ -3,7 +3,7 @@ id: 22594
 title: 'Churches, communities & buildings during COVID and beyond'
 date: 2021-02-07T23:05:38+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22594
 permalink: /2021/02/07/churches-communities-buildings-during-covid-and-beyond/
 classic-editor-remember:

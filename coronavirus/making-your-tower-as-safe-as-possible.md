@@ -3,7 +3,7 @@ id: 20501
 title: Making your tower as safe as possible
 date: 2020-06-23T14:24:52+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=20501
 classic-editor-remember:
   - block-editor

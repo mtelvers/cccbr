@@ -3,7 +3,7 @@ id: 15236
 title: Applications open for the 2019 ART Awards
 date: 2018-11-26T09:19:09+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14636
 permalink: /2018/11/26/applications-open-for-the-2019-art-awards/
 xyz_fbap:

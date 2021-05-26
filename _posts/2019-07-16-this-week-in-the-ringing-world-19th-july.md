@@ -3,7 +3,7 @@ id: 17594
 title: 'This week in The Ringing World - 19th July'
 date: 2019-07-16T15:57:36+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17594
 permalink: /2019/07/16/this-week-in-the-ringing-world-19th-july/
 xyz_fbap_future_to_publish:

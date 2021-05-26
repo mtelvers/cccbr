@@ -3,7 +3,7 @@ id: 17100
 title: Past Annual Meetings
 date: 2019-05-25T12:02:51+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=17100
 ssb_old_counts:
   - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'

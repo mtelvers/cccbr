@@ -3,7 +3,7 @@ id: 13767
 title: 'Ringing Remembers on BBC&apos;s &#8216;The Archers&apos;'
 date: 2018-06-19T17:30:12+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13767
 permalink: /2018/06/19/ringing-remembers-on-bbcs-the-archers/
 xyz_fbap:

@@ -3,7 +3,7 @@ id: 22769
 title: Survival and Recovery Newsletter – Issue 4
 date: 2021-03-03T19:07:51+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22769
 permalink: /2021/03/03/survival-and-recovery-newsletter-issue-4/
 classic-editor-remember:

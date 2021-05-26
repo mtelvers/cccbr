@@ -3,7 +3,7 @@ id: 21723
 title: Is it appropriate for an individual to Ring?
 date: 2020-10-23T16:58:42+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=21723
 classic-editor-remember:
   - block-editor

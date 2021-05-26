@@ -3,7 +3,7 @@ id: 21752
 title: 'President&apos;s Blog #21'
 date: 2020-10-27T22:25:26+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21752
 permalink: /2020/10/27/presidents-blog-21/
 classic-editor-remember:

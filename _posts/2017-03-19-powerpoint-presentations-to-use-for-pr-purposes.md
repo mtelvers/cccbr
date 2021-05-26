@@ -3,7 +3,7 @@ id: 9807
 title: Powerpoint presentations to use for PR purposes
 date: 2017-03-19T22:05:18+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9807
 permalink: /2017/03/19/powerpoint-presentations-to-use-for-pr-purposes/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 13906
 title: Ringing Remembers on ITV Meridian News
 date: 2018-07-18T11:06:51+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13906
 permalink: /2018/07/18/ringing-remembers-on-itv-meridian-news/
 xyz_fbap:

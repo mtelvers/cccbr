@@ -3,7 +3,7 @@ id: 12006
 title: 'Ringing Remembers - Project Update'
 date: 2017-12-22T19:55:08+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12006
 permalink: /2017/12/22/ringing-remembers-project-update/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 20618
 title: 'Young Ringers – Schools & Youth Groups Workgroup Update – June 2020'
 date: 2020-06-26T15:44:08+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20618
 permalink: /2020/06/26/young-ringers-schools-youth-groups-workgroup-update-june-2020/
 xyz_fbap_future_to_publish:

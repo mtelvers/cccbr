@@ -3,7 +3,7 @@ id: 21971
 title: 'Covid Winter Plan - updated guidance for England Wales and Scotland'
 date: 2020-11-30T17:46:51+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21971
 permalink: /2020/11/30/covid-winter-plan-updated-guidance-for-england-wales-and-scotland/
 classic-editor-remember:

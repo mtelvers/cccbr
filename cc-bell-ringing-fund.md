@@ -3,7 +3,7 @@ id: 22480
 title: CC Bell Ringing Fund
 date: 2021-01-25T11:10:46+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22480
 classic-editor-remember:
   - classic-editor

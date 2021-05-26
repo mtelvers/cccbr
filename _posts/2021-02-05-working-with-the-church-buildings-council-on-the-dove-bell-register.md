@@ -3,7 +3,7 @@ id: 22577
 title: Working with the Church Buildings Council on the Dove Bell Register
 date: 2021-02-05T17:58:28+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22577
 permalink: /2021/02/05/working-with-the-church-buildings-council-on-the-dove-bell-register/
 classic-editor-remember:

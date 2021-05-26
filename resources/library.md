@@ -3,7 +3,7 @@ id: 14779
 title: Library
 date: 2018-12-04T23:22:56+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=14779
 ep_tilt_migration:
   - "1"

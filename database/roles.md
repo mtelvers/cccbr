@@ -3,7 +3,7 @@ id: 14815
 title: Roles
 date: 2018-12-05T12:03:36+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: /?page_id=14815
 xyz_fbap:
   - "1"

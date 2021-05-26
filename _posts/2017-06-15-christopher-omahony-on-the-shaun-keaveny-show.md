@@ -3,7 +3,7 @@ id: 10561
 title: 'Christopher O&apos;Mahony on the Shaun Keaveny show'
 date: 2017-06-15T13:57:17+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10561
 permalink: /2017/06/15/christopher-omahony-on-the-shaun-keaveny-show/
 wp_featherlight_disable:

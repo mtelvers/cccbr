@@ -3,7 +3,7 @@ id: 17946
 title: 'Fun with Bells - Christopher O&apos;Mahony'
 date: 2019-07-29T09:32:24+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17946
 permalink: /2019/07/29/fun-with-bells-christopher-omahony/
 xyz_fbap_future_to_publish:

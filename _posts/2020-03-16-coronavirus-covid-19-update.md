@@ -3,7 +3,7 @@ id: 19454
 title: 'Coronavirus - Covid-19 - Update'
 date: 2020-03-16T20:54:07+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19454
 permalink: /2020/03/16/coronavirus-covid-19-update/
 xyz_fbap_future_to_publish:

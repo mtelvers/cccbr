@@ -3,7 +3,7 @@ id: 13644
 title: 'New Rules & Standing Orders'
 date: 2018-06-02T08:16:56+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13644
 permalink: /2018/06/02/new-rules-standing-orders/
 xyz_fbap_insert_og:

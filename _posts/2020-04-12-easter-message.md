@@ -3,7 +3,7 @@ id: 19745
 title: Easter Message
 date: 2020-04-12T06:24:51+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=19745
 permalink: /2020/04/12/easter-message/
 complete_open_graph:

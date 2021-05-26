@@ -3,7 +3,7 @@ id: 21506
 title: Continuing CCCBR Reforms
 date: 2020-09-20T14:44:43+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=21506
 classic-editor-remember:
   - block-editor

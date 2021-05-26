@@ -3,7 +3,7 @@ id: 21892
 title: October YouTube competition winner
 date: 2020-11-16T08:52:41+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21892
 permalink: /2020/11/16/october-youtube-competition-winner/
 classic-editor-remember:

@@ -3,7 +3,7 @@ id: 14157
 title: Plea for bells to toll worldwide on war centenary
 date: 2018-08-15T09:31:56+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14157
 permalink: /2018/08/15/plea-for-bells-to-toll-worldwide-on-war-centenary/
 xyz_fbap:

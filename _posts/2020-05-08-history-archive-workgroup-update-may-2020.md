@@ -3,7 +3,7 @@ id: 19931
 title: 'History & Archive Workgroup Update - May 2020'
 date: 2020-05-08T05:46:13+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=19931
 permalink: /2020/05/08/history-archive-workgroup-update-may-2020/
 xyz_fbap_future_to_publish:

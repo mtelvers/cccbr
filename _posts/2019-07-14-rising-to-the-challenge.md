@@ -3,7 +3,7 @@ id: 17584
 title: Rising to the challenge
 date: 2019-07-14T11:50:51+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17584
 permalink: /2019/07/14/rising-to-the-challenge/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 22540
 title: eBells for young ringers
 date: 2021-01-31T21:36:35+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22540
 permalink: /2021/01/31/ebells-for-young-ringers/
 classic-editor-remember:

@@ -3,7 +3,7 @@ id: 17602
 title: 'Nominations invited - Annual Meeting 2019'
 date: 2019-07-18T12:09:43+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17602
 permalink: /2019/07/18/nominations-invited-annual-meeting-2019/
 xyz_fbap_future_to_publish:

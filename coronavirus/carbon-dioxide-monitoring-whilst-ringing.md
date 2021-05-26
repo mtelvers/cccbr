@@ -3,7 +3,7 @@ id: 23252
 title: Carbon Dioxide monitoring whilst ringing
 date: 2021-05-07T15:46:50+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=23252
 classic-editor-remember:
   - block-editor

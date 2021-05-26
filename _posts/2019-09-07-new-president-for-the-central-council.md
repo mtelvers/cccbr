@@ -3,7 +3,7 @@ id: 18175
 title: New President for the Central Council
 date: 2019-09-07T17:27:39+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18175
 permalink: /2019/09/07/new-president-for-the-central-council/
 xyz_fbap_future_to_publish:

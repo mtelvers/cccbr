@@ -3,7 +3,7 @@ id: 23339
 title: Have I Got News for You? Well yes we have
 date: 2021-05-14T09:34:07+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=23339
 permalink: /2021/05/14/have-i-got-news-for-you-well-yes-we-have/
 classic-editor-remember:

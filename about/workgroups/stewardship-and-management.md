@@ -3,7 +3,7 @@ id: 14751
 title: Stewardship and Management
 date: 2018-12-04T22:32:15+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=14751
 ep_tilt_migration:
   - "1"

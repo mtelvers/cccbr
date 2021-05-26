@@ -3,7 +3,7 @@ id: 18409
 title: John Barnes
 date: 2019-10-20T21:52:39+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18409
 permalink: /2019/10/20/john-barnes/
 xyz_fbap_future_to_publish:

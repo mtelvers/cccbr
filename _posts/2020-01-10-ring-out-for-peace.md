@@ -3,7 +3,7 @@ id: 18848
 title: Ring out for Peace
 date: 2020-01-10T07:00:08+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18848
 permalink: /2020/01/10/ring-out-for-peace/
 xyz_fbap_future_to_publish:

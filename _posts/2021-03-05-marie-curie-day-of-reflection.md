@@ -3,7 +3,7 @@ id: 22784
 title: Marie Curie Day of Reflection
 date: 2021-03-05T13:01:57+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22784
 permalink: /2021/03/05/marie-curie-day-of-reflection/
 classic-editor-remember:

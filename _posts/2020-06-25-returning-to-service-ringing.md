@@ -3,7 +3,7 @@ id: 20591
 title: Returning to service ringing
 date: 2020-06-25T22:11:42+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=20591
 permalink: /2020/06/25/returning-to-service-ringing/
 complete_open_graph:

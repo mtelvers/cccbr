@@ -3,7 +3,7 @@ id: 23205
 title: 2021 Westley Award for Church Belfry Maintenance and Improvement
 date: 2021-05-04T13:11:35+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=23205
 permalink: /2021/05/04/2021-westley-award-for-church-belfry-maintenance-and-improvement-2/
 classic-editor-remember:

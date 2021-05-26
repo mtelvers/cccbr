@@ -3,7 +3,7 @@ id: 9217
 title: Biographies Help
 date: 2017-01-31T14:08:45+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: /?page_id=9217
 xyz_fbap:
   - "1"

@@ -3,7 +3,7 @@ id: 22044
 title: 'The Mathematics of Bell Ringing - 5th Jan 2021'
 date: 2020-12-07T18:25:49+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22044
 permalink: /2020/12/07/the-mathematics-of-bell-ringing-5th-jan-2021/
 classic-editor-remember:

@@ -3,7 +3,7 @@ id: 11779
 title: Vote for CCCBR to secure some Ecclesiastical funding!
 date: 2017-11-23T03:33:07+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11779
 permalink: /2017/11/23/vote-for-cccbr-to-secure-some-ecclesiastical-funding/
 wp_featherlight_disable:

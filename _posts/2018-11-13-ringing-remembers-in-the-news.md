@@ -3,7 +3,7 @@ id: 14570
 title: Ringing Remembers in the news
 date: 2018-11-13T19:32:06+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14570
 permalink: /2018/11/13/ringing-remembers-in-the-news/
 xyz_fbap:

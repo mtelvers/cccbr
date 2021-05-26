@@ -3,7 +3,7 @@ id: 8902
 title: 'Review of the Central Council: Part 3'
 date: 2016-12-24T12:53:04+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8902
 permalink: /2016/12/24/review-of-the-central-council-part-3/
 wp_featherlight_disable:

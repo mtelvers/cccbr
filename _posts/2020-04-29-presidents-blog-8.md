@@ -3,7 +3,7 @@ id: 19867
 title: 'President&apos;s Blog #8'
 date: 2020-04-29T06:33:23+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=19867
 permalink: /2020/04/29/presidents-blog-8/
 complete_open_graph:

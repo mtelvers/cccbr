@@ -3,7 +3,7 @@ id: 15323
 title: Cookie Policy
 date: 2019-02-20T18:26:50+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=15323
 ep_tilt_migration:
   - "1"

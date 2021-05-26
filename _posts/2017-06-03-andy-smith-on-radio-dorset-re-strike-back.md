@@ -3,7 +3,7 @@ id: 10431
 title: Andy Smith on radio Dorset re Strike Back
 date: 2017-06-03T08:17:24+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10431
 permalink: /2017/06/03/andy-smith-on-radio-dorset-re-strike-back/
 wp_featherlight_disable:

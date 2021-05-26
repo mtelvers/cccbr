@@ -3,7 +3,7 @@ id: 18003
 title: 'Central Council Weekend Update - History & Heritage'
 date: 2019-08-09T07:00:49+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18003
 permalink: /2019/08/09/central-council-weekend-update-history-heritage/
 xyz_fbap_future_to_publish:

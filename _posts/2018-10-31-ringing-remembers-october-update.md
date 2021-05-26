@@ -3,7 +3,7 @@ id: 14467
 title: 'Ringing Remembers - October Update'
 date: 2018-10-31T12:07:58+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14467
 permalink: /2018/10/31/ringing-remembers-october-update/
 xyz_fbap:

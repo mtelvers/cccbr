@@ -3,7 +3,7 @@ id: 13356
 title: Short film from Claughton, Lancashire
 date: 2018-04-25T14:36:01+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13356
 permalink: /2018/04/25/short-film-from-claughton-lancashire/
 wp_featherlight_disable:

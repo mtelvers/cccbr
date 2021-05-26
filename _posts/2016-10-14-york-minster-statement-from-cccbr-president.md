@@ -4,7 +4,7 @@ title: 'York Minster - Statement from CCCBR President'
 date: 2016-10-14T19:42:58+00:00
 author: Doug Davis
 excerpt: 'As Council President, I have been involved with discussions with both Diocese and Minster staff <a href="http://cccbr.org.uk/2016/10/14/york-minster-statement-from-cccbr-president/">[...]</a>'
-layout: post
+layout: single
 guid: http:///?p=5816
 permalink: /2016/10/14/york-minster-statement-from-cccbr-president/
 image: /wp-content/uploads/2015/10/latest_news-e1488532238309.jpg

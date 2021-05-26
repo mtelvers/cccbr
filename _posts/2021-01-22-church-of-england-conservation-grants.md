@@ -3,7 +3,7 @@ id: 22467
 title: Church of England Conservation Grants
 date: 2021-01-22T15:25:47+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22467
 permalink: /2021/01/22/church-of-england-conservation-grants/
 classic-editor-remember:

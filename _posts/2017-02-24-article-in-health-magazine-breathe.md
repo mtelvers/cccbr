@@ -3,7 +3,7 @@ id: 9516
 title: Article in health magazine “Breathe”
 date: 2017-02-24T11:42:41+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9516
 permalink: /2017/02/24/article-in-health-magazine-breathe/
 wp_featherlight_disable:

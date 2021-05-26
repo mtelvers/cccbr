@@ -3,7 +3,7 @@ id: 22733
 title: Listed Places of Worship Grant Scheme to be extended!
 date: 2021-02-25T19:17:38+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22733
 permalink: /2021/02/25/listed-places-of-worship-grant-scheme-to-be-extended/
 classic-editor-remember:

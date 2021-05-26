@@ -3,7 +3,7 @@ id: 19620
 title: Ringing Returns campaign
 date: 2020-04-10T07:00:54+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19620
 permalink: /2020/04/10/ringing-returns-campaign/
 xyz_fbap_future_to_publish:

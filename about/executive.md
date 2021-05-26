@@ -3,7 +3,7 @@ id: 14632
 title: Executive
 date: 2018-11-24T16:45:49+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=14632
 xyz_fbap:
   - "1"

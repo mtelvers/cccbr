@@ -3,7 +3,7 @@ id: 10413
 title: 'Ringing returns to St. George&apos;s, Gravesend'
 date: 2017-06-01T10:47:02+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10413
 permalink: /2017/06/01/ringing-returns-to-st-georges-gravesend/
 wp_featherlight_disable:

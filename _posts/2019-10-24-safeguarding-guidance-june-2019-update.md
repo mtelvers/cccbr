@@ -3,7 +3,7 @@ id: 18465
 title: Safeguarding Guidance – June 2019 update
 date: 2019-10-24T17:38:04+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18465
 permalink: /2019/10/24/safeguarding-guidance-june-2019-update/
 xyz_fbap_future_to_publish:

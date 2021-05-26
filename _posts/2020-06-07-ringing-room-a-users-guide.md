@@ -3,7 +3,7 @@ id: 20308
 title: 'Ringing Room - a User&apos;s Guide'
 date: 2020-06-07T17:01:38+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20308
 permalink: /2020/06/07/ringing-room-a-users-guide/
 xyz_fbap_future_to_publish:

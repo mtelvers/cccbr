@@ -3,7 +3,7 @@ id: 20528
 title: How bell ringers are assessing risk
 date: 2020-06-23T14:44:29+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=20528
 classic-editor-remember:
   - block-editor

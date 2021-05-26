@@ -3,7 +3,7 @@ id: 4384
 title: Andrew Barnsdale
 date: 2016-03-20T23:09:05+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4384
 permalink: /2016/03/20/andrew-barnsdale/
 catchbox-sidebarlayout:

@@ -3,7 +3,7 @@ id: 14773
 title: What is Bell Ringing?
 date: 2018-12-04T23:13:01+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=14773
 classic-editor-remember:
   - classic-editor

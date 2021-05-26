@@ -3,7 +3,7 @@ id: 22106
 title: 'Ringing for children’s groups - Tiers 1-3'
 date: 2020-12-14T18:18:22+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22106
 classic-editor-remember:
   - block-editor

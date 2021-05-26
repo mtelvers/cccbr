@@ -3,7 +3,7 @@ id: 10510
 title: Yorkshire ringers in the news
 date: 2017-06-10T23:02:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10510
 permalink: /2017/06/10/yorkshire-ringers-in-the-news/
 wp_featherlight_disable:

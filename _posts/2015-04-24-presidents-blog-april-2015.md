@@ -3,7 +3,7 @@ id: 9976
 title: 'President&apos;s Blog - April 2015'
 date: 2015-04-24T17:11:21+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9976
 permalink: /2015/04/24/presidents-blog-april-2015/
 wp_featherlight_disable:

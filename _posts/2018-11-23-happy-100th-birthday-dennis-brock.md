@@ -3,7 +3,7 @@ id: 14622
 title: Happy 100th Birthday Dennis Brock!
 date: 2018-11-23T14:20:33+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14622
 permalink: /2018/11/23/happy-100th-birthday-dennis-brock/
 xyz_fbap:

@@ -3,7 +3,7 @@ id: 10420
 title: Annual Meeting recordings now available
 date: 2017-06-02T07:18:51+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10420
 permalink: /2017/06/02/annual-meeting-recordings-now-available/
 wp_featherlight_disable:

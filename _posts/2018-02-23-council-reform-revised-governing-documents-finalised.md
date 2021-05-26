@@ -3,7 +3,7 @@ id: 12594
 title: 'Council Reform - Revised Governing Documents finalised'
 date: 2018-02-23T14:09:09+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12594
 permalink: /2018/02/23/council-reform-revised-governing-documents-finalised/
 wp_featherlight_disable:

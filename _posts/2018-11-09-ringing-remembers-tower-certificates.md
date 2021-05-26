@@ -3,7 +3,7 @@ id: 14532
 title: 'Ringing Remembers - Tower Certificates'
 date: 2018-11-09T08:45:33+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14532
 permalink: /2018/11/09/ringing-remembers-tower-certificates/
 xyz_fbap:

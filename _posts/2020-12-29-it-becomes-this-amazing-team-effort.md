@@ -3,7 +3,7 @@ id: 22286
 title: It becomes this amazing team effort
 date: 2020-12-29T18:25:25+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22286
 permalink: /2020/12/29/it-becomes-this-amazing-team-effort/
 classic-editor-remember:

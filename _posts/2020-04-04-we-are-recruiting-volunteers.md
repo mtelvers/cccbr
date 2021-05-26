@@ -3,7 +3,7 @@ id: 19605
 title: We are recruiting volunteers
 date: 2020-04-04T21:29:28+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19605
 permalink: /2020/04/04/we-are-recruiting-volunteers/
 xyz_fbap_future_to_publish:

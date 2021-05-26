@@ -3,7 +3,7 @@ id: 9877
 title: PR presentations updated with your feedback and a few new video clips too
 date: 2017-03-22T01:21:24+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9877
 permalink: /2017/03/22/pr-presentations-updated-with-your-feedback-and-a-few-new-video-clips-too/
 wp_featherlight_disable:

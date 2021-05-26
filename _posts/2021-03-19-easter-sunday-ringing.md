@@ -3,7 +3,7 @@ id: 22876
 title: Easter Sunday ringing
 date: 2021-03-19T06:55:03+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22876
 permalink: /2021/03/19/easter-sunday-ringing/
 classic-editor-remember:

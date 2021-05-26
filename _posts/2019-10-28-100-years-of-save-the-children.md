@@ -3,7 +3,7 @@ id: 18530
 title: 100 years of Save the Children
 date: 2019-10-28T08:03:10+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18530
 permalink: /2019/10/28/100-years-of-save-the-children/
 xyz_fbap_future_to_publish:

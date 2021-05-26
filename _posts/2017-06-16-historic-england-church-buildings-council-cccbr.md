@@ -3,7 +3,7 @@ id: 10583
 title: 'Historic England, Church Buildings Council & CCCBR'
 date: 2017-06-16T15:10:18+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10583
 permalink: /2017/06/16/historic-england-church-buildings-council-cccbr/
 wp_featherlight_disable:

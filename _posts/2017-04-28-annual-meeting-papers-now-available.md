@@ -3,7 +3,7 @@ id: 10194
 title: Annual Meeting Papers now available
 date: 2017-04-28T22:45:05+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10194
 permalink: /2017/04/28/annual-meeting-papers-now-available/
 wp_featherlight_disable:

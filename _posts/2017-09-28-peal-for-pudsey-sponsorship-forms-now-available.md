@@ -3,7 +3,7 @@ id: 11302
 title: 'Peal for Pudsey - sponsorship forms now available!'
 date: 2017-09-28T14:16:11+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11302
 permalink: /2017/09/28/peal-for-pudsey-sponsorship-forms-now-available/
 wp_featherlight_disable:

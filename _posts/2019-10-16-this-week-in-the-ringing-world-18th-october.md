@@ -3,7 +3,7 @@ id: 18376
 title: 'This week in The Ringing World - 18th October'
 date: 2019-10-16T13:55:26+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18376
 permalink: /2019/10/16/this-week-in-the-ringing-world-18th-october/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 11662
 title: 'Round-up of news this weekend re Armistice100 - BBC only available today!'
 date: 2017-11-12T15:44:12+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11662
 permalink: /2017/11/12/round-up-of-news-this-weekend-re-armistice100-bbc-only-available-today/
 wp_featherlight_disable:

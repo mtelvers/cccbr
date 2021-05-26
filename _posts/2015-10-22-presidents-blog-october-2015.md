@@ -3,7 +3,7 @@ id: 9972
 title: 'President&apos;s Blog - October 2015'
 date: 2015-10-22T17:08:23+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9972
 permalink: /2015/10/22/presidents-blog-october-2015/
 wp_featherlight_disable:

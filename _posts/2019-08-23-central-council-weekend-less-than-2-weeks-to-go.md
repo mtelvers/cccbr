@@ -3,7 +3,7 @@ id: 18069
 title: 'Central Council weekend - less than 2 weeks to go!'
 date: 2019-08-23T07:00:17+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18069
 permalink: /2019/08/23/central-council-weekend-less-than-2-weeks-to-go/
 xyz_fbap_future_to_publish:

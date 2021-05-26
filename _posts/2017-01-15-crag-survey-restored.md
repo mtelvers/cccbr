@@ -3,7 +3,7 @@ id: 8996
 title: CRAG Survey restored
 date: 2017-01-15T12:30:55+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8996
 permalink: /2017/01/15/crag-survey-restored/
 wp_featherlight_disable:

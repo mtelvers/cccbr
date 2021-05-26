@@ -3,7 +3,7 @@ id: 17283
 title: 'This week in The Ringing World - 7th June'
 date: 2019-06-04T15:41:03+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17283
 permalink: /2019/06/04/this-week-in-the-ringing-world-7th-june/
 complete_open_graph:

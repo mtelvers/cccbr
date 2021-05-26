@@ -3,7 +3,7 @@ id: 10469
 title: 'Strike Back Express - book your tickets now!'
 date: 2017-06-08T23:14:40+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10469
 permalink: /2017/06/08/strike-back-express-book-your-tickets-now/
 wp_featherlight_disable:

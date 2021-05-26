@@ -3,7 +3,7 @@ id: 15577
 title: 'Fun With Bells podcast - Vicki Chapman on Ringing Remembers'
 date: 2019-05-09T13:30:09+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=15577
 permalink: /2019/05/09/fun-with-bells-podcast-vicki-chapman-on-ringing-remembers/
 xyz_fbap:

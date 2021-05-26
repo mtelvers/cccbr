@@ -3,7 +3,7 @@ id: 20964
 title: 'President&apos;s Blog #15'
 date: 2020-08-05T05:56:17+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=20964
 permalink: /2020/08/05/presidents-blog-15/
 complete_open_graph:

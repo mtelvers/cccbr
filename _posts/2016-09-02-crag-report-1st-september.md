@@ -3,7 +3,7 @@ id: 5174
 title: 'CRAG Report - 1st September'
 date: 2016-09-02T09:49:35+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=5174
 permalink: /2016/09/02/crag-report-1st-september/
 catchbox-sidebarlayout:

@@ -3,7 +3,7 @@ id: 21720
 title: Physical Environment for Ringing
 date: 2020-10-23T16:55:06+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=21720
 classic-editor-remember:
   - block-editor

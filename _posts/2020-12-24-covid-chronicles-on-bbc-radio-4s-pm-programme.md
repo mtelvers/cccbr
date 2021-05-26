@@ -3,7 +3,7 @@ id: 22174
 title: 'COVID Chronicles on BBC Radio 4&apos;s PM Programme'
 date: 2020-12-24T22:24:07+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22174
 permalink: /2020/12/24/covid-chronicles-on-bbc-radio-4s-pm-programme/
 classic-editor-remember:

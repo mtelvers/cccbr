@@ -3,7 +3,7 @@ id: 19949
 title: COVID-19 and ringing Central Council position statement May 5th 2020
 date: 2020-05-04T23:00:43+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=19949
 permalink: /2020/05/04/covid-19-and-ringing-central-council-position-statement-may-5th-2020/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 6300
 title: 'In Memoriam - John Edward Camp'
 date: 2016-10-19T17:03:53+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=6300
 permalink: /2016/10/19/in-memoriam-john-edward-camp/
 image: /wp-content/uploads/2016/05/inmemoriam.jpg

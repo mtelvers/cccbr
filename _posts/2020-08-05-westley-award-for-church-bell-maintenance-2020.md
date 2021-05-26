@@ -3,7 +3,7 @@ id: 20972
 title: Westley Award for Church Bell Maintenance 2020
 date: 2020-08-05T20:33:41+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20972
 permalink: /2020/08/05/westley-award-for-church-bell-maintenance-2020/
 xyz_fbap_future_to_publish:

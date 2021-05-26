@@ -3,7 +3,7 @@ id: 15241
 title: ART Conference 2019 – Goes to Worcester!
 date: 2019-01-28T13:13:45+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14877
 permalink: /2019/01/28/art-conference-2019-goes-to-worcester/
 xyz_fbap_insert_og:

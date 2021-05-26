@@ -3,7 +3,7 @@ id: 22925
 title: 'President&apos;s Blog #30'
 date: 2021-03-23T23:05:13+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22925
 permalink: /2021/03/23/presidents-blog-30/
 classic-editor-remember:

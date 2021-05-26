@@ -3,7 +3,7 @@ id: 12313
 title: GDPR Update
 date: 2018-01-30T18:23:50+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12313
 permalink: /2018/01/30/gdpr-update/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 18760
 title: 'Training Times - Issue 13'
 date: 2019-12-10T20:45:49+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18760
 permalink: /2019/12/10/training-times-issue-13/
 xyz_fbap_future_to_publish:

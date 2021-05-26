@@ -3,7 +3,7 @@ id: 12027
 title: BBC Radio Kent interview Thurs28th Dec 8.25am
 date: 2017-12-26T17:03:31+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12027
 permalink: /2017/12/26/bbc-kent-interview-thurs28th-dec-8-25am/
 wp_featherlight_disable:

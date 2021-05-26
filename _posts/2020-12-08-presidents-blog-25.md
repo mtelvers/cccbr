@@ -3,7 +3,7 @@ id: 22074
 title: 'President&apos;s Blog #25'
 date: 2020-12-08T22:15:54+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22074
 permalink: /2020/12/08/presidents-blog-25/
 classic-editor-remember:

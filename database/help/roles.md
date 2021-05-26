@@ -3,7 +3,7 @@ id: 6326
 title: Roles Help
 date: 2016-10-19T19:03:19+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: http:///?page_id=6326
 wp_featherlight_disable:
   - ""

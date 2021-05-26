@@ -3,7 +3,7 @@ id: 11638
 title: 'Ringing for Peace: Armistice100, what you need to know for 2018'
 date: 2017-11-11T18:44:37+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11638
 permalink: /2017/11/11/ringing-for-peace-armistice100-in-2018-what-you-need-to-know/
 wp_featherlight_disable:

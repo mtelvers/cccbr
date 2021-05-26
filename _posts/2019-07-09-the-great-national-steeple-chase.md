@@ -3,7 +3,7 @@ id: 17555
 title: The Great National Steeple Chase
 date: 2019-07-09T09:54:57+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17555
 permalink: /2019/07/09/the-great-national-steeple-chase/
 xyz_fbap_future_to_publish:

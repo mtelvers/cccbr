@@ -3,7 +3,7 @@ id: 12121
 title: 'Ringing Remembers Press Coverage: BBC Radio Essex Interview'
 date: 2018-01-01T16:06:29+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12121
 permalink: /2018/01/01/ringing-remembers-press-coverage-bbc-radio-essex-interview/
 wp_featherlight_disable:

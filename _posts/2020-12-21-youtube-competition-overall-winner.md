@@ -3,7 +3,7 @@ id: 22170
 title: 'YouTube Competition - Overall Winner'
 date: 2020-12-21T22:50:12+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22170
 permalink: /2020/12/21/youtube-competition-overall-winner/
 classic-editor-remember:

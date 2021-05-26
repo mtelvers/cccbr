@@ -3,7 +3,7 @@ id: 21788
 title: The Week Junior
 date: 2020-11-07T12:57:15+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21788
 permalink: /2020/11/07/the-week-junior/
 classic-editor-remember:

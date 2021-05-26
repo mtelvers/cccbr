@@ -4,7 +4,7 @@ title: Framework for Method Ringing
 date: 2019-02-28T16:17:03+00:00
 author: Doug Davis
 excerpt: |
-layout: post
+layout: single
 guid: /?p=15192
 permalink: /2019/02/28/framework-for-method-ringing/
 xyz_fbap:

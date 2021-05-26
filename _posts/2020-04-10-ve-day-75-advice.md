@@ -3,7 +3,7 @@ id: 19658
 title: VE Day 75 Advice
 date: 2020-04-10T06:00:00+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=19658
 permalink: /2020/04/10/ve-day-75-advice/
 xyz_fbap_future_to_publish:

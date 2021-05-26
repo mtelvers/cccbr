@@ -3,7 +3,7 @@ id: 14738
 title: Volunteer and Leadership
 date: 2018-12-04T21:58:41+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=14738
 classic-editor-remember:
   - block-editor

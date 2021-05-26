@@ -3,7 +3,7 @@ id: 8935
 title: Ringing for Public Events in 2017
 date: 2016-12-23T22:41:03+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8935
 permalink: /2016/12/23/ringing-for-public-events-in-2017/
 wp_featherlight_disable:

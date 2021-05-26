@@ -3,7 +3,7 @@ id: 20675
 title: Frequently asked questions on COVID-19 Guidance
 date: 2020-07-03T08:32:30+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=20675
 ep_tilt_migration:
   - "1"

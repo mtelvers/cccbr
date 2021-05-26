@@ -3,7 +3,7 @@ id: 10813
 title: Ypres handbells ready to go!
 date: 2017-07-22T15:06:37+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10813
 permalink: /2017/07/22/ypres-handbells-ready-to-go/
 wp_featherlight_disable:

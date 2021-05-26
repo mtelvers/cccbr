@@ -3,7 +3,7 @@ id: 14160
 title: Blue Peter at the RWNYC
 date: 2018-08-15T09:36:56+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14160
 permalink: /2018/08/15/blue-peter-at-the-rwnyc/
 xyz_fbap:

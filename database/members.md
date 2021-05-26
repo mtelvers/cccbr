@@ -3,7 +3,7 @@ id: 14819
 title: Members
 date: 2018-12-05T12:04:48+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: /?page_id=14819
 xyz_fbap:
   - "1"

@@ -3,7 +3,7 @@ id: 17094
 title: 2019 Annual Meeting
 date: 2019-05-25T11:52:55+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=17094
 xyz_fbap:
   - "1"

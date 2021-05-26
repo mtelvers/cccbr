@@ -3,7 +3,7 @@ id: 10718
 title: 'President&apos;s blog - June 2017'
 date: 2017-07-04T08:23:02+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10718
 permalink: /2017/07/04/presidents-blog-june-2017/
 wp_featherlight_disable:

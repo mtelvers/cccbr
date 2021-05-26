@@ -3,7 +3,7 @@ id: 155
 title: 'Peter Howard Mackie - 3 September 2015'
 date: 2015-09-03T16:17:43+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=155
 permalink: /2015/09/03/peter-howard-mackie-3-september-2015/
 colormag_page_layout:

@@ -3,7 +3,7 @@ id: 12237
 title: 'Ringers Remember in Huntingdon - check this out!'
 date: 2018-01-21T23:32:45+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12237
 permalink: /2018/01/21/ringers-remember-in-huntingdon-check-this-out/
 wp_featherlight_disable:

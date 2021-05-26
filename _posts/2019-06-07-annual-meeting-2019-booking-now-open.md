@@ -3,7 +3,7 @@ id: 17309
 title: 'Annual Meeting 2019 - Booking now OPEN!'
 date: 2019-06-07T07:00:00+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17309
 permalink: /2019/06/07/annual-meeting-2019-booking-now-open/
 xyz_fbap_future_to_publish:

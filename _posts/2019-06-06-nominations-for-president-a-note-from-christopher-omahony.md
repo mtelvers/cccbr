@@ -3,7 +3,7 @@ id: 17294
 title: 'Nominations for President - a note from Christopher O&apos;Mahony'
 date: 2019-06-06T21:01:16+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17294
 permalink: /2019/06/06/nominations-for-president-a-note-from-christopher-omahony/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 14825
 title: Biographies
 date: 2018-12-05T12:07:06+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: /?page_id=14825
 xyz_fbap:
   - "1"

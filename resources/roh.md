@@ -3,7 +3,7 @@ id: 14655
 title: Rolls of Honour
 date: 2018-11-24T17:00:53+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=14655
 ep_tilt_migration:
   - "1"

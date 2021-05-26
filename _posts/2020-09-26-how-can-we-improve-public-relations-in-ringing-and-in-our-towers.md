@@ -3,7 +3,7 @@ id: 21552
 title: How can we improve Public Relations in ringing and in our towers?
 date: 2020-09-26T18:50:23+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=21552
 permalink: /2020/09/26/how-can-we-improve-public-relations-in-ringing-and-in-our-towers/
 classic-editor-remember:

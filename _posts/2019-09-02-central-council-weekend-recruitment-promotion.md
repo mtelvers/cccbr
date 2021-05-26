@@ -3,7 +3,7 @@ id: 18123
 title: 'Central Council Weekend - Recruitment & Promotion'
 date: 2019-09-02T21:34:29+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18123
 permalink: /2019/09/02/central-council-weekend-recruitment-promotion/
 xyz_fbap_future_to_publish:

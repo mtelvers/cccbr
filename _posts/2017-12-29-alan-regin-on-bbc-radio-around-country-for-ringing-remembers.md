@@ -3,7 +3,7 @@ id: 12077
 title: Alan Regin on BBC Radio around country for Ringing Remembers!
 date: 2017-12-29T20:20:47+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12077
 permalink: /2017/12/29/alan-regin-on-bbc-radio-around-country-for-ringing-remembers/
 wp_featherlight_disable:

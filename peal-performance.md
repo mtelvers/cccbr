@@ -3,7 +3,7 @@ id: 8592
 title: Peal Record Performance
 date: 2016-11-10T16:02:37+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: http:///?page_id=8592
 wp_featherlight_disable:
   - ""

@@ -3,7 +3,7 @@ id: 20346
 title: 'Technical & Taxonomy Workgroup Update - June 2020'
 date: 2020-06-09T18:22:20+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20346
 permalink: /2020/06/09/technical-taxonomy-workgroup-update-june-2020/
 xyz_fbap_future_to_publish:

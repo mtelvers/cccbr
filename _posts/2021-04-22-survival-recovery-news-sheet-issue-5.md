@@ -3,7 +3,7 @@ id: 23097
 title: 'Survival & Recovery News-sheet - Issue 5'
 date: 2021-04-22T20:31:03+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=23097
 permalink: /2021/04/22/survival-recovery-news-sheet-issue-5/
 classic-editor-remember:

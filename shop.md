@@ -3,7 +3,7 @@ id: 15026
 title: Shop
 date: 2019-02-07T12:23:30+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=15026
 xyz_fbap:
   - "1"

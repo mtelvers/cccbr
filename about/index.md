@@ -3,7 +3,7 @@ id: 33
 title: About the Council
 date: 2018-11-24T16:11:47+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=33
 ep_tilt_migration:
   - "1"

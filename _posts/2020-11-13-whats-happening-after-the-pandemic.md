@@ -3,7 +3,7 @@ id: 21852
 title: 'What&apos;s happening after the pandemic?'
 date: 2020-11-13T08:07:11+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21852
 permalink: /2020/11/13/whats-happening-after-the-pandemic/
 classic-editor-remember:

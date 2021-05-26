@@ -3,7 +3,7 @@ id: 11835
 title: 'Home & Away Harrow Style- an update on Council reform'
 date: 2017-12-02T20:31:54+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11835
 permalink: /2017/12/02/home-away-harrow-style-an-update-on-council-reform/
 wp_featherlight_disable:

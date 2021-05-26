@@ -3,7 +3,7 @@ id: 20125
 title: BBC Interviews with Bell Ringing VE Day Veterans
 date: 2020-05-21T18:26:00+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=20125
 permalink: /2020/05/21/bbc-interviews-with-bell-ringing-ve-day-veterans/
 xyz_fbap_future_to_publish:

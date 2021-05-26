@@ -4,7 +4,7 @@ title: 'London 2019 Annual Meeting - Accommodation booking now open'
 date: 2019-02-27T17:56:48+00:00
 author: Doug Davis
 excerpt: '						'
-layout: post
+layout: single
 guid: /?p=15169
 permalink: /2019/02/27/london-2019-annual-meeting-accommodation-booking-now-open/
 wp_featherlight_disable:

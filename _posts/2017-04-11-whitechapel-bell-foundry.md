@@ -3,7 +3,7 @@ id: 10059
 title: Whitechapel Bell Foundry
 date: 2017-04-11T20:16:35+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10059
 permalink: /2017/04/11/whitechapel-bell-foundry/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 23406
 title: Ellacombe Bicentenary Celebrations
 date: 2021-05-21T18:33:52+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=23406
 permalink: /2021/05/21/ellacombe-bicentenary-celebrations/
 classic-editor-remember:

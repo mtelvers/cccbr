@@ -3,7 +3,7 @@ id: 20490
 title: What are we worried about?
 date: 2020-06-23T14:13:58+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=20490
 classic-editor-remember:
   - block-editor

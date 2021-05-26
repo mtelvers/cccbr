@@ -3,7 +3,7 @@ id: 18265
 title: 'This week in The Ringing World - 20th September'
 date: 2019-09-19T07:56:34+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18265
 permalink: /2019/09/19/this-week-in-the-ringing-world-20th-september/
 xyz_fbap_future_to_publish:

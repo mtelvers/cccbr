@@ -3,7 +3,7 @@ id: 12824
 title: BBC radio Kent Sunday featuring commemorative peal
 date: 2018-03-28T17:48:17+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12824
 permalink: /2018/03/28/bbc-radio-kent-sunday-featuring-commemorative-peal/
 xyz_fbap:

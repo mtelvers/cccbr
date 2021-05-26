@@ -3,7 +3,7 @@ id: 5146
 title: Society PROs Day
 date: 2016-06-09T17:31:16+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=5146
 permalink: /2016/06/09/society-pros-day/
 catchbox-sidebarlayout:

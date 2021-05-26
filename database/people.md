@@ -3,7 +3,7 @@ id: 14817
 title: People
 date: 2018-12-05T12:04:17+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: /?page_id=14817
 xyz_fbap:
   - "1"

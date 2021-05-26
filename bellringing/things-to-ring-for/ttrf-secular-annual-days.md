@@ -3,7 +3,7 @@ id: 15461
 title: Notable Secular Annual Days
 date: 2019-02-22T15:45:28+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=15461
 xyz_fbap:
   - "1"

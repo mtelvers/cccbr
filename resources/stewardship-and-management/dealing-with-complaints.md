@@ -3,7 +3,7 @@ id: 17504
 title: Dealing with complaints
 date: 2019-07-04T11:48:43+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=17504
 complete_open_graph:
   - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'

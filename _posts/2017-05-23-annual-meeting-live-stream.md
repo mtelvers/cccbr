@@ -3,7 +3,7 @@ id: 10364
 title: Annual Meeting Live Stream
 date: 2017-05-23T15:23:16+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10364
 permalink: /2017/05/23/annual-meeting-live-stream/
 wp_featherlight_disable:

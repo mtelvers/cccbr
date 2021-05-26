@@ -3,7 +3,7 @@ id: 3127
 title: Heywood Weekend 22-24 April
 date: 2016-03-18T14:38:53+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=3127
 permalink: /2016/03/18/heywood-weekend-22-24-april/
 image: /wp-content/uploads/2016/03/APHEffie2_light2.jpg

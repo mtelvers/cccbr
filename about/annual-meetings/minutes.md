@@ -3,7 +3,7 @@ id: 21445
 title: Minutes of Annual Meetings
 date: 2020-09-14T18:13:25+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=21445
 classic-editor-remember:
   - classic-editor

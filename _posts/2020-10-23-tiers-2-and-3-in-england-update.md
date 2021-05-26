@@ -3,7 +3,7 @@ id: 21707
 title: 'Tiers 2 and 3 in England - update'
 date: 2020-10-23T12:51:49+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21707
 permalink: /2020/10/23/tiers-2-and-3-in-england-update/
 classic-editor-remember:

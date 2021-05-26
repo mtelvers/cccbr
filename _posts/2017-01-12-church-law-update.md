@@ -3,7 +3,7 @@ id: 8945
 title: Church Law Update
 date: 2017-01-12T11:53:15+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8945
 permalink: /2017/01/12/church-law-update/
 wp_featherlight_disable:

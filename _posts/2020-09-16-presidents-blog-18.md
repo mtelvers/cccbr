@@ -3,7 +3,7 @@ id: 21463
 title: 'President&apos;s Blog #18'
 date: 2020-09-16T05:49:12+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21463
 permalink: /2020/09/16/presidents-blog-18/
 classic-editor-remember:

@@ -3,7 +3,7 @@ id: 8731
 title: Ringing at York Minster
 date: 2016-12-12T21:45:34+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8731
 permalink: /2016/12/12/ringing-at-york-minster/
 wp_featherlight_disable:

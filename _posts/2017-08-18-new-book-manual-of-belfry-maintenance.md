@@ -3,7 +3,7 @@ id: 10927
 title: 'New Book - Manual of Belfry Maintenance'
 date: 2017-08-18T18:26:19+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10927
 permalink: /2017/08/18/new-book-manual-of-belfry-maintenance/
 wp_featherlight_disable:

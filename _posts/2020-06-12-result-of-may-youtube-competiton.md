@@ -3,7 +3,7 @@ id: 20391
 title: Result of May YouTube Competiton!
 date: 2020-06-12T00:00:06+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=20391
 permalink: /2020/06/12/result-of-may-youtube-competiton/
 complete_open_graph:

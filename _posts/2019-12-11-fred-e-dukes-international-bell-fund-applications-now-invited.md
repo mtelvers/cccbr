@@ -3,7 +3,7 @@ id: 18764
 title: 'Fred E Dukes International Bell Fund - Applications now invited'
 date: 2019-12-11T07:00:26+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18764
 permalink: /2019/12/11/fred-e-dukes-international-bell-fund-applications-now-invited/
 xyz_fbap_future_to_publish:

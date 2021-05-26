@@ -3,7 +3,7 @@ id: 14600
 title: “We remembered” – a message from the President of the Central Council of Church Bell Ringers
 date: 2018-11-20T08:55:19+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14600
 permalink: /2018/11/20/we-remembered-a-message-from-the-president-of-the-central-council-of-church-bell-ringers/
 xyz_fbap:

@@ -3,7 +3,7 @@ id: 14527
 title: We Remember
 date: 2018-11-08T20:46:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14527
 permalink: /2018/11/08/we-remember/
 wp_featherlight_disable:

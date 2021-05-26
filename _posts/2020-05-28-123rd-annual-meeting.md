@@ -3,7 +3,7 @@ id: 20204
 title: 123rd Annual Meeting
 date: 2020-05-28T11:24:19+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=20204
 permalink: /2020/05/28/123rd-annual-meeting/
 xyz_fbap_future_to_publish:

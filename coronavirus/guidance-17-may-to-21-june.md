@@ -3,7 +3,7 @@ id: 23073
 title: Guidance 17 May to 21 June
 date: 2021-04-21T09:20:51+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=23073
 classic-editor-remember:
   - block-editor

@@ -3,7 +3,7 @@ id: 15239
 title: 2019 Annual Meeting Update
 date: 2018-12-09T20:29:29+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14708
 permalink: /2018/12/09/2019-annual-meeting-update/
 xyz_fbap:

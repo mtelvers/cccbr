@@ -3,7 +3,7 @@ id: 10061
 title: How to arrange ART courses
 date: 2017-04-12T09:37:58+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10061
 permalink: /2017/04/12/how-to-arrange-art-courses/
 wp_featherlight_disable:

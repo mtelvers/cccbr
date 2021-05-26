@@ -3,7 +3,7 @@ id: 5143
 title: '2016 Annual & Open Meeting Recordings'
 date: 2016-06-04T17:29:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=5143
 permalink: /2016/06/04/2016-annual-open-meeting-recordings/
 catchbox-sidebarlayout:

@@ -3,7 +3,7 @@ id: 15240
 title: 'President&apos;s Christmas Message'
 date: 2018-12-21T02:08:18+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14754
 permalink: /2018/12/21/presidents-christmas-message/
 wp_featherlight_disable:

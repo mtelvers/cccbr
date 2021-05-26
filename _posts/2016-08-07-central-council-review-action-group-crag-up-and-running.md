@@ -3,7 +3,7 @@ id: 5162
 title: Central Council Review Action Group (CRAG) Up and Running
 date: 2016-08-07T13:59:37+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=5162
 permalink: /2016/08/07/central-council-review-action-group-crag-up-and-running/
 catchbox-sidebarlayout:

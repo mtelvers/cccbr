@@ -3,7 +3,7 @@ id: 17974
 title: 25 Years of Heritage Open Days
 date: 2019-08-02T08:45:30+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17974
 permalink: /2019/08/02/25-years-of-heritage-open-days/
 xyz_fbap_future_to_publish:

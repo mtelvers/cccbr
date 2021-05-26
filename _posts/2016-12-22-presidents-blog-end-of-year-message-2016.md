@@ -3,7 +3,7 @@ id: 8930
 title: 'President&apos;s Blog - End of Year Message 2016'
 date: 2016-12-22T22:33:17+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8930
 permalink: /2016/12/22/presidents-blog-end-of-year-message-2016/
 wp_featherlight_disable:

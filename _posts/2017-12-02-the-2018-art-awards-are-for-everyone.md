@@ -3,7 +3,7 @@ id: 11828
 title: The 2018 ART Awards are for everyone!!
 date: 2017-12-02T14:45:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11828
 permalink: /2017/12/02/the-2018-art-awards-are-for-everyone/
 wp_featherlight_disable:

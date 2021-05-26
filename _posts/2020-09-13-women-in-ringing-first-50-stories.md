@@ -3,7 +3,7 @@ id: 21424
 title: 'Women in Ringing - first 50 stories'
 date: 2020-09-13T12:43:49+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21424
 permalink: /2020/09/13/women-in-ringing-first-50-stories/
 classic-editor-remember:

@@ -3,7 +3,7 @@ id: 22620
 title: National Lottery Grants for Heritage have now re-opened
 date: 2021-02-11T13:57:59+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22620
 permalink: /2021/02/11/national-lottery-grants-for-heritage-have-now-re-opened/
 classic-editor-remember:

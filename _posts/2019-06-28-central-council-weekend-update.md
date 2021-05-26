@@ -3,7 +3,7 @@ id: 17485
 title: Central Council Weekend Update
 date: 2019-06-28T07:00:00+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17485
 permalink: /2019/06/28/central-council-weekend-update/
 xyz_fbap_future_to_publish:

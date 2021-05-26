@@ -4,7 +4,7 @@ title: 76 New Names added to Rolls of Honour
 date: 2020-05-05T11:36:49+00:00
 author: Andrew Hall
 excerpt: Included in an article in the Ringing World this coming Friday (8th May 2020), are details of 76 new names that have been researched over the past few years and which will be added to a new volume in the future. These new names are also recorded on this site.
-layout: post
+layout: single
 guid: /?p=19962
 permalink: /2020/05/05/roh-76-new-names/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 22896
 title: Resources
 date: 2021-03-21T21:47:57+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22896
 classic-editor-remember:
   - block-editor

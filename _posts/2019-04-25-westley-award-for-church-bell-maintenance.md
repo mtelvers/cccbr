@@ -3,7 +3,7 @@ id: 16737
 title: Westley Award for Church Bell Maintenance
 date: 2019-04-25T20:58:37+00:00
 author: Louise Nightingale
-layout: post
+layout: single
 guid: /?p=16737
 permalink: /2019/04/25/westley-award-for-church-bell-maintenance/
 complete_open_graph:

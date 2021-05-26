@@ -3,7 +3,7 @@ id: 19899
 title: YouTube Competition
 date: 2020-05-01T06:58:43+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=19899
 permalink: /2020/05/01/youtube-competition/
 xyz_fbap_future_to_publish:

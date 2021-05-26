@@ -3,7 +3,7 @@ id: 9390
 title: 'Julie McDonnell - Telegraph Article now available'
 date: 2017-02-17T10:37:26+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9390
 permalink: /2017/02/17/julie-mcdonnell-telegraph-article-now-available/
 wp_featherlight_disable:

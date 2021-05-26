@@ -3,7 +3,7 @@ id: 22269
 title: 'Young ringers practices - Tier 4 England'
 date: 2020-12-27T17:33:50+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22269
 permalink: /2020/12/27/young-ringers-practices-tier-4-england/
 classic-editor-remember:

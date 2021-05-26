@@ -3,7 +3,7 @@ id: 9615
 title: February media coverage of ringing
 date: 2017-03-03T09:08:25+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9615
 permalink: /2017/03/03/february-media-coverage-of-ringing/
 wp_featherlight_disable:

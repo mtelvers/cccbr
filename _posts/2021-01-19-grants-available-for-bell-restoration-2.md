@@ -3,7 +3,7 @@ id: 22442
 title: Grants available for bell restoration
 date: 2021-01-19T14:54:18+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22442
 permalink: /2021/01/19/grants-available-for-bell-restoration-2/
 classic-editor-remember:

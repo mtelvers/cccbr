@@ -3,7 +3,7 @@ id: 17469
 title: 'This week in The Ringing World - 28th June'
 date: 2019-06-25T14:32:13+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17469
 permalink: /2019/06/25/this-week-in-the-ringing-world-28th-june/
 xyz_fbap_future_to_publish:

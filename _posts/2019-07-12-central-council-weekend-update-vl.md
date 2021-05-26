@@ -3,7 +3,7 @@ id: 17563
 title: 'Central Council Weekend Update - V&L'
 date: 2019-07-12T07:00:56+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17563
 permalink: /2019/07/12/central-council-weekend-update-vl/
 xyz_fbap_future_to_publish:

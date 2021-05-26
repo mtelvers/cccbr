@@ -3,7 +3,7 @@ id: 18639
 title: Jersey bells celebrate 40th anniversary
 date: 2019-11-17T16:08:32+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18639
 permalink: /2019/11/17/jersey-bells-celebrate-40th-anniversary/
 xyz_fbap_future_to_publish:

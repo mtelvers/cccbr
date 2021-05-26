@@ -3,7 +3,7 @@ id: 14821
 title: Role Assignment
 date: 2018-12-05T12:05:27+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: /?page_id=14821
 xyz_fbap:
   - "1"

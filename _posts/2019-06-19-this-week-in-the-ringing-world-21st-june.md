@@ -3,7 +3,7 @@ id: 17449
 title: 'This week in The Ringing World - 21st June'
 date: 2019-06-19T21:34:54+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17449
 permalink: /2019/06/19/this-week-in-the-ringing-world-21st-june/
 xyz_fbap_future_to_publish:

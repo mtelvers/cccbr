@@ -3,7 +3,7 @@ id: 18150
 title: London, here we come!
 date: 2019-09-06T09:51:26+00:00
 author: Louise Nightingale
-layout: post
+layout: single
 guid: /?p=18150
 permalink: /2019/09/06/london-here-we-come/
 xyz_fbap:

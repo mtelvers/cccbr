@@ -3,7 +3,7 @@ id: 10783
 title: 'Strike Back Express - a few tickets left'
 date: 2017-07-16T10:07:03+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10783
 permalink: /2017/07/16/strike-back-express-a-few-tickets-left/
 wp_featherlight_disable:

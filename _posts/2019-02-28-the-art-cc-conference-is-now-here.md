@@ -4,7 +4,7 @@ title: The ART/CC Conference is now here!
 date: 2019-02-28T18:54:52+00:00
 author: Doug Davis
 excerpt: '						'
-layout: post
+layout: single
 guid: /?p=15200
 permalink: /2019/02/28/the-art-cc-conference-is-now-here/
 xyz_fbap:

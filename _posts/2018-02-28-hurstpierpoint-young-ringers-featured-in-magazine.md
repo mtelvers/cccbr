@@ -3,7 +3,7 @@ id: 12635
 title: Hurstpierpoint Young Ringers featured in magazine
 date: 2018-02-28T22:03:45+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12635
 permalink: /2018/02/28/hurstpierpoint-young-ringers-featured-in-magazine/
 wp_featherlight_disable:

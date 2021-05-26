@@ -3,7 +3,7 @@ id: 22609
 title: 'President&apos;s Blog #27'
 date: 2021-02-10T08:01:54+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22609
 permalink: /2021/02/10/presidents-blog-27/
 classic-editor-remember:

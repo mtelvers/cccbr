@@ -3,7 +3,7 @@ id: 21380
 title: 'Captain&apos;s Blog - Supplemental (AGM sketch from the Chair)'
 date: 2020-09-11T10:24:57+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21380
 permalink: /2020/09/11/captains-blog-supplemental-agm-sketch-from-the-chair/
 classic-editor-remember:

@@ -3,7 +3,7 @@ id: 22413
 title: ART and CC Newsletter Issue 2
 date: 2021-01-12T21:50:19+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22413
 permalink: /2021/01/12/art-and-cc-newsletter-issue-2-2/
 classic-editor-remember:

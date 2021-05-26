@@ -3,7 +3,7 @@ id: 10329
 title: 'CRAG Report - FAQs'
 date: 2017-05-20T00:01:38+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10329
 permalink: /2017/05/20/crag-report-faqs/
 wp_featherlight_disable:

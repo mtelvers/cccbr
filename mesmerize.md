@@ -3,7 +3,7 @@ id: 9
 title: Home
 date: 2018-11-08T09:49:10+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /mesmerize/
 is_mesmerize_front_page:
   - "1"

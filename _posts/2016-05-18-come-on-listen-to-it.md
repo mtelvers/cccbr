@@ -3,7 +3,7 @@ id: 4743
 title: Come on! Listen to it!
 date: 2016-05-18T22:33:05+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4743
 permalink: /2016/05/18/come-on-listen-to-it/
 catchbox-sidebarlayout:

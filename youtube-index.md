@@ -3,7 +3,7 @@ id: 20152
 title: YouTube Index
 date: 2020-05-24T15:59:39+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=20152
 ep_tilt_migration:
   - "1"

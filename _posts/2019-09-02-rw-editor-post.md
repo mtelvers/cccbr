@@ -3,7 +3,7 @@ id: 18107
 title: RW Editor Post
 date: 2019-09-02T13:55:56+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18107
 permalink: /2019/09/02/rw-editor-post/
 xyz_fbap_future_to_publish:

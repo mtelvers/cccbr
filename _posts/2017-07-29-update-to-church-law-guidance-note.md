@@ -3,7 +3,7 @@ id: 10841
 title: Update to Church Law Guidance Note
 date: 2017-07-29T17:09:06+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10841
 permalink: /2017/07/29/update-to-church-law-guidance-note/
 wp_featherlight_disable:

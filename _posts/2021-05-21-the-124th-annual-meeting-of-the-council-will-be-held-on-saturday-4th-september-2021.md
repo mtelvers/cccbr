@@ -3,7 +3,7 @@ id: 23397
 title: The 124th Annual Meeting of the Council will be held on SATURDAY 4th September 2021.
 date: 2021-05-21T14:26:33+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=23397
 permalink: /2021/05/21/the-124th-annual-meeting-of-the-council-will-be-held-on-saturday-4th-september-2021/
 classic-editor-remember:

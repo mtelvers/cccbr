@@ -3,7 +3,7 @@ id: 11001
 title: Neal Dodge interviewed by local BBC
 date: 2017-08-25T07:42:59+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11001
 permalink: /2017/08/25/neal-dodge-interviewed-by-local-bbc/
 wp_featherlight_disable:

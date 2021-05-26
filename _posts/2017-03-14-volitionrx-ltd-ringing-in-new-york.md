@@ -3,7 +3,7 @@ id: 9753
 title: VolitionRx Ltd ringing in New York
 date: 2017-03-14T16:19:01+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9753
 permalink: /2017/03/14/volitionrx-ltd-ringing-in-new-york/
 wp_featherlight_disable:

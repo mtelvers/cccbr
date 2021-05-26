@@ -3,7 +3,7 @@ id: 12871
 title: 'President&apos;s Easter message 2018'
 date: 2018-04-01T05:07:20+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12871
 permalink: /2018/04/01/easter-blog/
 wp_featherlight_disable:

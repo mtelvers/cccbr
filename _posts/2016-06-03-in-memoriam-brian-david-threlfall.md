@@ -3,7 +3,7 @@ id: 5141
 title: 'In Memoriam - Brian David Threlfall'
 date: 2016-06-03T17:24:52+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=5141
 permalink: /2016/06/03/in-memoriam-brian-david-threlfall/
 catchbox-sidebarlayout:

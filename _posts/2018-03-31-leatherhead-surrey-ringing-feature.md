@@ -3,7 +3,7 @@ id: 12851
 title: Leatherhead Surrey ringing feature
 date: 2018-03-31T09:00:57+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12851
 permalink: /2018/03/31/leatherhead-surrey-ringing-feature/
 xyz_fbap:

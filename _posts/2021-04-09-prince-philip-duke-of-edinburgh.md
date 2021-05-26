@@ -3,7 +3,7 @@ id: 23013
 title: Prince Philip, Duke of Edinburgh
 date: 2021-04-09T12:32:27+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=23013
 permalink: /2021/04/09/prince-philip-duke-of-edinburgh/
 classic-editor-remember:

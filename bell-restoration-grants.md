@@ -3,7 +3,7 @@ id: 22754
 title: Bell Restoration Grants
 date: 2021-02-28T18:59:02+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22754
 classic-editor-remember:
   - block-editor

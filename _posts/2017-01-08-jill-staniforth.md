@@ -3,7 +3,7 @@ id: 8937
 title: 'In Memoriam - Jill Staniforth'
 date: 2017-01-08T22:46:22+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8937
 permalink: /2017/01/08/jill-staniforth/
 wp_featherlight_disable:

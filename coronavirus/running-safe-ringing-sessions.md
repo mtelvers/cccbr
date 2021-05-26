@@ -3,7 +3,7 @@ id: 20513
 title: Running safe ringing sessions
 date: 2020-06-23T14:38:25+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=20513
 ep_tilt_migration:
   - "1"

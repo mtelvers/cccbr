@@ -3,7 +3,7 @@ id: 17290
 title: Formal Notice of 2019 Annual Meeting
 date: 2019-06-06T21:00:01+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17290
 permalink: /2019/06/06/formal-notice-of-2019-annual-meeting/
 xyz_fbap_future_to_publish:

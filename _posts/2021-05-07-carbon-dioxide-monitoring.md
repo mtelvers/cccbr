@@ -3,7 +3,7 @@ id: 23276
 title: Carbon Dioxide monitoring
 date: 2021-05-07T17:09:07+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=23276
 permalink: /2021/05/07/carbon-dioxide-monitoring/
 classic-editor-remember:

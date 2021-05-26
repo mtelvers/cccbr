@@ -3,7 +3,7 @@ id: 10905
 title: Bells as a symbol of Church and community
 date: 2017-08-14T16:17:08+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10905
 permalink: /2017/08/14/bells-as-a-symbol-of-church-and-community/
 wp_featherlight_disable:

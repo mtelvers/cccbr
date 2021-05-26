@@ -3,7 +3,7 @@ id: 23170
 title: 'Guidance from 3rd May - Wales'
 date: 2021-04-30T18:43:06+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=23170
 permalink: /2021/04/30/guidance-from-3rd-may-wales/
 classic-editor-remember:

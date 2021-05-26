@@ -3,7 +3,7 @@ id: 11508
 title: 'Rules Work - Update'
 date: 2017-10-27T18:39:15+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11508
 permalink: /2017/10/27/rules-work-update/
 wp_featherlight_disable:

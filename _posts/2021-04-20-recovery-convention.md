@@ -3,7 +3,7 @@ id: 23051
 title: Recovery Convention
 date: 2021-04-20T20:49:21+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=23051
 permalink: /2021/04/20/recovery-convention/
 classic-editor-remember:

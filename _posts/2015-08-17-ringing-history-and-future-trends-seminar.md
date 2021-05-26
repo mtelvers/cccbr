@@ -3,7 +3,7 @@ id: 157
 title: Ringing History and Future Trends Seminar
 date: 2015-08-17T16:23:41+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=157
 permalink: /2015/08/17/ringing-history-and-future-trends-seminar/
 colormag_page_layout:

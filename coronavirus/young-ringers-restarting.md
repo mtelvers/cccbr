@@ -3,7 +3,7 @@ id: 22972
 title: Young ringers restarting
 date: 2021-04-05T08:28:58+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22972
 classic-editor-remember:
   - block-editor

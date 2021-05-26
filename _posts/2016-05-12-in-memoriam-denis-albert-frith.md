@@ -3,7 +3,7 @@ id: 4740
 title: 'In Memoriam - Denis Albert Frith'
 date: 2016-05-12T22:27:18+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4740
 permalink: /2016/05/12/in-memoriam-denis-albert-frith/
 catchbox-sidebarlayout:

@@ -3,7 +3,7 @@ id: 19442
 title: 'President&apos;s Blog #5'
 date: 2020-03-14T09:44:41+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19442
 permalink: /2020/03/14/presidents-blog-5/
 xyz_fbap_future_to_publish:

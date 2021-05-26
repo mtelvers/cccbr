@@ -3,7 +3,7 @@ id: 22451
 title: Newsletter Showcase
 date: 2021-01-21T11:14:32+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22451
 permalink: /2021/01/21/newsletter-showcase/
 classic-editor-remember:

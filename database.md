@@ -3,7 +3,7 @@ id: 14808
 title: Database Maintenance
 date: 2018-12-05T11:59:56+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: /?page_id=14808
 xyz_fbap:
   - "1"

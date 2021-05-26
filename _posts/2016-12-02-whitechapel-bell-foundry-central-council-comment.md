@@ -3,7 +3,7 @@ id: 8716
 title: Whitechapel Bell Foundry
 date: 2016-12-02T14:44:02+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=8716
 permalink: /2016/12/02/whitechapel-bell-foundry-central-council-comment/
 wp_featherlight_disable:

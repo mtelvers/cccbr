@@ -3,7 +3,7 @@ id: 22085
 title: November YouTube competition winner
 date: 2020-12-08T23:03:55+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22085
 permalink: /2020/12/08/november-youtube-competition-winner/
 classic-editor-remember:

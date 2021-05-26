@@ -3,7 +3,7 @@ id: 13872
 title: Sussex ringers on BBC Radio Sussex
 date: 2018-07-08T14:16:22+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13872
 permalink: /2018/07/08/sussex-ringers-on-bbc-radio-sussex/
 xyz_fbap:

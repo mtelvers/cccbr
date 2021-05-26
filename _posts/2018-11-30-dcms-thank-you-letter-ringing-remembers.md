@@ -3,7 +3,7 @@ id: 15237
 title: 'DCMS Thank You Letter - Ringing Remembers'
 date: 2018-11-30T10:31:32+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14657
 permalink: /2018/11/30/dcms-thank-you-letter-ringing-remembers/
 xyz_fbap:

@@ -3,7 +3,7 @@ id: 22811
 title: Vaccination, and Virus Transmission in Towers
 date: 2021-03-13T09:46:16+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=22811
 classic-editor-remember:
   - block-editor

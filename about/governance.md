@@ -3,7 +3,7 @@ id: 15346
 title: Governance
 date: 2019-02-22T10:58:45+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=15346
 classic-editor-remember:
   - block-editor

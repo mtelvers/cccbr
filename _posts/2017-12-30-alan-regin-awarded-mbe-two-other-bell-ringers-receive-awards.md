@@ -3,7 +3,7 @@ id: 12089
 title: Alan Regin awarded MBE + two other bell ringers receive awards
 date: 2017-12-30T09:02:21+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12089
 permalink: /2017/12/30/alan-regin-awarded-mbe-two-other-bell-ringers-receive-awards/
 wp_featherlight_disable:

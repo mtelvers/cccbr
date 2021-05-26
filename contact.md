@@ -3,7 +3,7 @@ id: 15327
 title: Contact Us
 date: 2019-02-20T18:31:09+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=15327
 ep_tilt_migration:
   - "1"

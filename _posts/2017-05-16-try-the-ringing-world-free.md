@@ -3,7 +3,7 @@ id: 10283
 title: 'Try the Ringing World - Free!'
 date: 2017-05-16T09:58:20+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10283
 permalink: /2017/05/16/try-the-ringing-world-free/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 12436
 title: 'Bells ring out for 100 years of Womens&apos; suffrage'
 date: 2018-02-12T22:35:02+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12436
 permalink: /2018/02/12/bells-ring-out-for-100-years-of-womens-suffrage/
 wp_featherlight_disable:

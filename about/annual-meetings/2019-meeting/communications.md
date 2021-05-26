@@ -3,7 +3,7 @@ id: 17581
 title: Communications
 date: 2019-07-13T11:01:36+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=17581
 xyz_fbap:
   - "1"

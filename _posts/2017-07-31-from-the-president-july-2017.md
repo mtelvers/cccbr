@@ -3,7 +3,7 @@ id: 10845
 title: 'President&apos;s Blog July 2017'
 date: 2017-07-31T12:18:53+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10845
 permalink: /2017/07/31/from-the-president-july-2017/
 wp_featherlight_disable:

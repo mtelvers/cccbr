@@ -3,7 +3,7 @@ id: 10288
 title: 'Tower Access & Stairways - Guidance'
 date: 2017-05-16T18:25:12+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10288
 permalink: /2017/05/16/tower-access-stairways-guidance/
 wp_featherlight_disable:

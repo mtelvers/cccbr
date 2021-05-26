@@ -3,7 +3,7 @@ id: 9963
 title: 'President&apos;s Blog - March 2017'
 date: 2017-03-27T12:11:20+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9963
 permalink: /2017/03/27/presidents-blog-march-2017/
 wp_featherlight_disable:

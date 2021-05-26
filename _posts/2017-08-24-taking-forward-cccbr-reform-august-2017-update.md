@@ -3,7 +3,7 @@ id: 10989
 title: 'Taking forward CCCBR reform - August 2017 Update'
 date: 2017-08-24T23:59:12+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10989
 permalink: /2017/08/24/taking-forward-cccbr-reform-august-2017-update/
 wp_featherlight_disable:

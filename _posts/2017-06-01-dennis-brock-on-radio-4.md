@@ -3,7 +3,7 @@ id: 10408
 title: Dennis Brock on Radio 4
 date: 2017-06-01T10:25:55+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10408
 permalink: /2017/06/01/dennis-brock-on-radio-4/
 wp_featherlight_disable:

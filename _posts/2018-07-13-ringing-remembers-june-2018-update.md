@@ -3,7 +3,7 @@ id: 13894
 title: 'Ringing Remembers - June 2018 Update'
 date: 2018-07-13T10:30:41+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13894
 permalink: /2018/07/13/ringing-remembers-june-2018-update/
 xyz_fbap:

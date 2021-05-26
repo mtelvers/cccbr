@@ -3,7 +3,7 @@ id: 23373
 title: Thank You
 date: 2021-05-17T10:54:55+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=23373
 classic-editor-remember:
   - block-editor

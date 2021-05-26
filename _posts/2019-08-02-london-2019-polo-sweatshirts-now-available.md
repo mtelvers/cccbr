@@ -3,7 +3,7 @@ id: 17978
 title: 'London 2019 Polo & Sweatshirts Now Available'
 date: 2019-08-02T16:13:01+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17978
 permalink: /2019/08/02/london-2019-polo-sweatshirts-now-available/
 xyz_fbap_future_to_publish:

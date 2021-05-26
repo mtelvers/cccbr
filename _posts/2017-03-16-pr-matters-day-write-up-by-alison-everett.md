@@ -3,7 +3,7 @@ id: 9784
 title: 'PR Matters Day - Write-up by Alison Everett'
 date: 2017-03-16T21:40:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9784
 permalink: /2017/03/16/pr-matters-day-write-up-by-alison-everett/
 wp_featherlight_disable:

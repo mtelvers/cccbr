@@ -3,7 +3,7 @@ id: 10159
 title: 'CRAG Final Summary & Report'
 date: 2017-04-28T09:43:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10159
 permalink: /2017/04/28/crag-final-summary-report/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 10668
 title: Taking forward CCCBR reform (message from CCCBR President)
 date: 2017-06-30T01:41:31+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10668
 permalink: /2017/06/30/taking-forward-cccbr-reform-message-from-cccbr-president/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 14084
 title: Clarification of Armistice Ringing
 date: 2018-08-07T09:37:46+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14084
 permalink: /2018/08/07/clarification-of-armistice-ringing/
 xyz_fbap:

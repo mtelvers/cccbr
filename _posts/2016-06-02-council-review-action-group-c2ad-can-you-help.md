@@ -3,7 +3,7 @@ id: 5029
 title: Council Review Action Group -­ can you help?
 date: 2016-06-02T09:55:51+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=5029
 permalink: '/2016/06/02/council-review-action-group-%c2%ad-can-you-help/'
 catchbox-sidebarlayout:

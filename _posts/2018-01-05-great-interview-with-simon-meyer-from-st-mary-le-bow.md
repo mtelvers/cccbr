@@ -3,7 +3,7 @@ id: 12149
 title: Great interview with Simon Meyer from St Mary le Bow
 date: 2018-01-05T11:51:54+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12149
 permalink: /2018/01/05/great-interview-with-simon-meyer-from-st-mary-le-bow/
 wp_featherlight_disable:

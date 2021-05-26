@@ -3,7 +3,7 @@ id: 19058
 title: 'CCCBR Recruitment & Retention Workshop - Sunday 15th March 2020'
 date: 2020-02-05T11:22:05+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19058
 permalink: /2020/02/05/cccbr-recruitment-retention-workshop-sunday-15th-march-2020/
 xyz_fbap_future_to_publish:

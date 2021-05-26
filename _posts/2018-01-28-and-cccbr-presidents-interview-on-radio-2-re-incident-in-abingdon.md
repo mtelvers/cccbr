@@ -3,7 +3,7 @@ id: 12295
 title: 'And CCCBR President&apos;s interview on Radio 2 re incident in Abingdon'
 date: 2018-01-28T10:59:30+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12295
 permalink: /2018/01/28/and-cccbr-presidents-interview-on-radio-2-re-incident-in-abingdon/
 wp_featherlight_disable:

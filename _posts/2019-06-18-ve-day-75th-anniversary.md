@@ -3,7 +3,7 @@ id: 17439
 title: VE Day 75th Anniversary
 date: 2019-06-18T19:14:12+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17439
 permalink: /2019/06/18/ve-day-75th-anniversary/
 xyz_fbap_future_to_publish:

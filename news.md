@@ -3,7 +3,7 @@ id: 42
 title: News
 date: 2018-11-24T16:13:54+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=42
 ep_tilt_migration:
   - "1"

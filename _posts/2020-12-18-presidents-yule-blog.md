@@ -3,7 +3,7 @@ id: 22129
 title: 'President&apos;s Yule Blog'
 date: 2020-12-18T07:36:34+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=22129
 permalink: /2020/12/18/presidents-yule-blog/
 classic-editor-remember:

@@ -3,7 +3,7 @@ id: 14360
 title: Ringing Remembers Badges
 date: 2018-09-30T18:26:32+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14360
 permalink: /2018/09/30/ringing-remembers-badges/
 wp_featherlight_disable:

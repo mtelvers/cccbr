@@ -3,7 +3,7 @@ id: 20236
 title: BBC News item on bellringing during lockdown
 date: 2020-05-31T08:11:25+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=20236
 permalink: /2020/05/31/bbc-news-item-on-bellringing-during-lockdown/
 xyz_fbap_future_to_publish:

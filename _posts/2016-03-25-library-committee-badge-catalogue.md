@@ -3,7 +3,7 @@ id: 4526
 title: Library Committee Badge Catalogue
 date: 2016-03-25T15:33:55+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4526
 permalink: /2016/03/25/library-committee-badge-catalogue/
 catchbox-sidebarlayout:

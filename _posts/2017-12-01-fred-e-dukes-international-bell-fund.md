@@ -3,7 +3,7 @@ id: 11809
 title: Fred E. Dukes International Bell Fund
 date: 2017-12-01T22:00:35+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11809
 permalink: /2017/12/01/fred-e-dukes-international-bell-fund/
 wp_featherlight_disable:

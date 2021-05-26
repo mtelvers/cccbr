@@ -3,7 +3,7 @@ id: 19992
 title: Our silent church bells during Coronavirus
 date: 2020-05-08T08:32:50+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19992
 permalink: /2020/05/08/our-silent-church-bells-during-coronavirus/
 xyz_fbap_future_to_publish:

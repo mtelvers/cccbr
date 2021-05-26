@@ -3,7 +3,7 @@ id: 18313
 title: 'This week in The Ringing World - 4th October'
 date: 2019-10-02T11:10:54+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18313
 permalink: /2019/10/02/this-week-in-the-ringing-world-4th-october/
 xyz_fbap_future_to_publish:

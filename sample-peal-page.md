@@ -3,7 +3,7 @@ id: 9949
 title: Sample Peal Page
 date: 2017-03-24T22:18:49+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: /?page_id=9949
 wp_featherlight_disable:
   - ""

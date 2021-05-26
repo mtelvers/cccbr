@@ -3,7 +3,7 @@ id: 20495
 title: Coronavirus (COVID-19)
 date: 2020-06-23T14:20:45+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=20495
 ep_tilt_migration:
   - "1"

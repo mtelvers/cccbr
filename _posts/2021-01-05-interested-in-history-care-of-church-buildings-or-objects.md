@@ -3,7 +3,7 @@ id: 22359
 title: Interested in history, care of church buildings or objects?
 date: 2021-01-05T19:11:50+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22359
 permalink: /2021/01/05/interested-in-history-care-of-church-buildings-or-objects/
 classic-editor-remember:

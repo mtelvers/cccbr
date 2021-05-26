@@ -3,7 +3,7 @@ id: 21369
 title: August YouTube winner
 date: 2020-09-09T09:38:22+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=21369
 permalink: /2020/09/09/august-youtube-winner/
 xyz_fbap_future_to_publish:

@@ -3,7 +3,7 @@ id: 21664
 title: 'England - Tier 2 and Tier 3 restrictions'
 date: 2020-10-16T15:54:37+00:00
 author: Simon Linford
-layout: post
+layout: single
 guid: /?p=21664
 permalink: /2020/10/16/england-tier-2-and-tier-3-restrictions/
 classic-editor-remember:

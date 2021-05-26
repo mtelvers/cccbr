@@ -3,7 +3,7 @@ id: 13681
 title: 'President&apos;s blog June 2018 - what happens now'
 date: 2018-06-07T12:50:21+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13681
 permalink: /2018/06/07/presidents-blog-june-2018-what-happens-now/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 11373
 title: 2017 Annual Meeting Minutes Now Available
 date: 2017-10-07T20:59:17+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11373
 permalink: /2017/10/07/2017-annual-meeting-minutes-now-available/
 wp_featherlight_disable:

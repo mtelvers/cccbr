@@ -3,7 +3,7 @@ id: 18258
 title: 'Fun with Bells - Series 2, Episode 2 with Mark Regan'
 date: 2019-09-17T08:16:52+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18258
 permalink: /2019/09/17/fun-with-bells-series-2-episode-2-with-mark-regan/
 xyz_fbap_future_to_publish:

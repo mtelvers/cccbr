@@ -3,7 +3,7 @@ id: 19773
 title: Comms and Marketing Workgroup Update – April 2020
 date: 2020-04-24T06:00:57+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=19773
 permalink: /2020/04/24/comms-and-marketing-workgroup-update-april-2020/
 xyz_fbap_future_to_publish:

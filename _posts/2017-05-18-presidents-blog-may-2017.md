@@ -3,7 +3,7 @@ id: 10297
 title: 'President&apos;s Blog - May 2017'
 date: 2017-05-18T09:27:47+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10297
 permalink: /2017/05/18/presidents-blog-may-2017/
 wp_featherlight_disable:

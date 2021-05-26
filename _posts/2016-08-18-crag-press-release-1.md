@@ -3,7 +3,7 @@ id: 5168
 title: 'CRAG press release #1'
 date: 2016-08-18T09:32:18+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=5168
 permalink: /2016/08/18/crag-press-release-1/
 catchbox-sidebarlayout:

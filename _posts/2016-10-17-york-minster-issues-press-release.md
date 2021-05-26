@@ -4,7 +4,7 @@ title: York Minster issues Press Release
 date: 2016-10-17T14:50:35+00:00
 author: Doug Davis
 excerpt: 'York Minster Bell Ringers Statement of The Dean & Chapter Delivered and Released By The Archbishop <a href="http://cccbr.org.uk/2016/10/17/york-minster-issues-press-release/">[...]</a>'
-layout: post
+layout: single
 guid: http:///?p=5845
 permalink: /2016/10/17/york-minster-issues-press-release/
 image: /wp-content/uploads/2015/10/latest_news-e1488532238309.jpg

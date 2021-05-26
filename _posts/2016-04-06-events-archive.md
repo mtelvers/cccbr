@@ -3,7 +3,7 @@ id: 4725
 title: Events Archive
 date: 2016-04-06T22:09:20+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4725
 permalink: /2016/04/06/events-archive/
 catchbox-sidebarlayout:

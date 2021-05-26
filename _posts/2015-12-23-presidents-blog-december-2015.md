@@ -3,7 +3,7 @@ id: 9970
 title: 'President&apos;s Blog - December 2015'
 date: 2015-12-23T17:05:18+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9970
 permalink: /2015/12/23/presidents-blog-december-2015/
 wp_featherlight_disable:

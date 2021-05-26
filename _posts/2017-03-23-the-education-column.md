@@ -3,7 +3,7 @@ id: 9934
 title: The Education Column
 date: 2017-03-23T22:16:18+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=9934
 permalink: /2017/03/23/the-education-column/
 wp_featherlight_disable:

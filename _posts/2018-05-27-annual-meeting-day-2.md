@@ -3,7 +3,7 @@ id: 13579
 title: 'Annual Meeting - Day 2'
 date: 2018-05-27T10:52:30+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13579
 permalink: /2018/05/27/annual-meeting-day-2/
 wp_featherlight_disable:

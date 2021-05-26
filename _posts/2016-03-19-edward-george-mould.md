@@ -3,7 +3,7 @@ id: 4381
 title: Edward George Mould
 date: 2016-03-19T23:06:42+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=4381
 permalink: /2016/03/19/edward-george-mould/
 catchbox-sidebarlayout:

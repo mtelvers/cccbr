@@ -3,7 +3,7 @@ id: 23145
 title: Upload
 date: 2021-04-29T12:44:15+00:00
 author: Mark Elvers
-layout: page
+layout: single
 guid: /?page_id=23145
 classic-editor-remember:
   - block-editor

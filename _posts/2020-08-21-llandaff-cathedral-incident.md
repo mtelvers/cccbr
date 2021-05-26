@@ -3,7 +3,7 @@ id: 21108
 title: Llandaff Cathedral Incident
 date: 2020-08-21T14:30:49+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=21108
 permalink: /2020/08/21/llandaff-cathedral-incident/
 xyz_fbap_future_to_publish:

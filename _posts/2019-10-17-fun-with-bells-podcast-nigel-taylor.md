@@ -3,7 +3,7 @@ id: 18380
 title: 'Fun with Bells podcast - Nigel Taylor'
 date: 2019-10-17T09:38:56+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=18380
 permalink: /2019/10/17/fun-with-bells-podcast-nigel-taylor/
 xyz_fbap_future_to_publish:

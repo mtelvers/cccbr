@@ -3,7 +3,7 @@ id: 6349
 title: Role Assignment Help
 date: 2016-10-19T23:02:09+00:00
 author: Andrew Hall
-layout: page
+layout: single
 guid: http:///?page_id=6349
 wp_featherlight_disable:
   - ""

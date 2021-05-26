@@ -3,7 +3,7 @@ id: 13555
 title: 'Annual Meeting - Day 1'
 date: 2018-05-26T15:18:37+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13555
 permalink: /2018/05/26/annual-meeting-day-1/
 xyz_fbap:

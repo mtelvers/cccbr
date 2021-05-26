@@ -3,7 +3,7 @@ id: 12292
 title: 'Abingdon incident press release - all you need to know'
 date: 2018-01-28T10:49:10+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12292
 permalink: /2018/01/28/abingdon-incident-press-release-all-you-need-to-know/
 wp_featherlight_disable:

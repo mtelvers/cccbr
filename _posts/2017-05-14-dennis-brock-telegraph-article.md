@@ -3,7 +3,7 @@ id: 10271
 title: 'Dennis Brock - Telegraph Article'
 date: 2017-05-14T21:39:49+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10271
 permalink: /2017/05/14/dennis-brock-telegraph-article/
 wp_featherlight_disable:

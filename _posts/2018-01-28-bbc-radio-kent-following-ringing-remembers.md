@@ -3,7 +3,7 @@ id: 12299
 title: BBC Radio Kent following Ringing Remembers
 date: 2018-01-28T16:33:21+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12299
 permalink: /2018/01/28/bbc-radio-kent-following-ringing-remembers/
 wp_featherlight_disable:

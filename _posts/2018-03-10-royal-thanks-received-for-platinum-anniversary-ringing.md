@@ -3,7 +3,7 @@ id: 12705
 title: Royal thanks received for platinum anniversary ringing
 date: 2018-03-10T23:14:48+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12705
 permalink: /2018/03/10/royal-thanks-received-for-platinum-anniversary-ringing/
 wp_featherlight_disable:

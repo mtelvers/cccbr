@@ -3,7 +3,7 @@ id: 10404
 title: 'New President Christopher O&apos;Mahony Rings Out Old and Rings in New'
 date: 2017-05-31T21:26:13+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10404
 permalink: /2017/05/31/new-president-christopher-omahoney-rings-out-old-and-rings-in-new/
 wp_featherlight_disable:

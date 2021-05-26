@@ -3,7 +3,7 @@ id: 22716
 title: Captain Sir Tom Moore funeral – Saturday 27th February 2021
 date: 2021-02-22T22:08:39+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=22716
 permalink: /2021/02/22/captain-sir-tom-moore-funeral-saturday-27th-february-2021/
 classic-editor-remember:

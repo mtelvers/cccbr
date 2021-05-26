@@ -3,7 +3,7 @@ id: 21453
 title: Annual Reports
 date: 2020-09-14T18:17:31+00:00
 author: Doug Davis
-layout: page
+layout: single
 guid: /?page_id=21453
 classic-editor-remember:
   - classic-editor

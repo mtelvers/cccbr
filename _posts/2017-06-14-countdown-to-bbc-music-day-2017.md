@@ -3,7 +3,7 @@ id: 10555
 title: Countdown to BBC Music Day 2017
 date: 2017-06-14T08:10:40+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10555
 permalink: /2017/06/14/countdown-to-bbc-music-day-2017/
 wp_featherlight_disable:

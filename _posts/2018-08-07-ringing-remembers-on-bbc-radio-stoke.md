@@ -3,7 +3,7 @@ id: 14086
 title: Ringing Remembers on BBC Radio Stoke
 date: 2018-08-07T09:42:19+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14086
 permalink: /2018/08/07/ringing-remembers-on-bbc-radio-stoke/
 xyz_fbap:

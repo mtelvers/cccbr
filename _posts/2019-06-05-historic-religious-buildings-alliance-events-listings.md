@@ -3,7 +3,7 @@ id: 17302
 title: Historic Religious Buildings Alliance Events Listings
 date: 2019-06-05T18:58:14+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=17302
 permalink: /2019/06/05/historic-religious-buildings-alliance-events-listings/
 xyz_fbap_future_to_publish:

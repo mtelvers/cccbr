@@ -3,7 +3,7 @@ id: 13490
 title: Latest edition of Training Times
 date: 2018-05-13T15:16:29+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13490
 permalink: /2018/05/13/latest-edition-of-training-times/
 xyz_fbap:

@@ -3,7 +3,7 @@ id: 11967
 title: ART Conference 2018
 date: 2017-12-16T21:39:49+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11967
 permalink: /2017/12/16/art-conference-2018/
 wp_featherlight_disable:

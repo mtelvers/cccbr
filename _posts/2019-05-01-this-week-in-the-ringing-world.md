@@ -3,7 +3,7 @@ id: 17222
 title: This week in The Ringing World
 date: 2019-05-01T10:27:39+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=15530
 permalink: /2019/05/01/this-week-in-the-ringing-world/
 wp_featherlight_disable:

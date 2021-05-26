@@ -3,7 +3,7 @@ id: 13890
 title: Government Announcement of Armistice plans
 date: 2018-07-13T10:19:27+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=13890
 permalink: /2018/07/13/government-announcement-of-armistice-plans/
 xyz_fbap:

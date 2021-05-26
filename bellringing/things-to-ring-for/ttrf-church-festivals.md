@@ -3,7 +3,7 @@ id: 15463
 title: Notable Church Festivals
 date: 2019-02-22T15:45:57+00:00
 author: Louise Nightingale
-layout: page
+layout: single
 guid: /?page_id=15463
 xyz_fbap:
   - "1"

@@ -3,7 +3,7 @@ id: 10910
 title: 'A Peal for Pudsey!  Children in Need needs you!'
 date: 2017-08-16T23:33:33+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=10910
 permalink: /2017/08/16/a-peal-for-pudsey-children-in-need-needs-you/
 wp_featherlight_disable:

@@ -3,7 +3,7 @@ id: 19557
 title: Solo ringing during the Coronavirus lockdown
 date: 2020-03-30T17:02:44+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=19557
 permalink: /2020/03/30/solo-ringing-during-the-coronavirus-lockdown/
 xyz_fbap_future_to_publish:

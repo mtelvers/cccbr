@@ -3,7 +3,7 @@ id: 14334
 title: 'Ringing Remembers - Shore, Lancashire'
 date: 2018-09-22T20:30:15+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=14334
 permalink: /2018/09/22/ringing-remembers-shore-lancashire/
 xyz_fbap:

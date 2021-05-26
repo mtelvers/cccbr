@@ -3,7 +3,7 @@ id: 11733
 title: BBC Breakfast Feature now on YouTube
 date: 2017-11-15T16:35:20+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=11733
 permalink: /2017/11/15/bbc-breakfast-feature-now-on-youtube/
 wp_featherlight_disable:

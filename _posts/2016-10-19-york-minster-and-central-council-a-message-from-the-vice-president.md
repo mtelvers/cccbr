@@ -3,7 +3,7 @@ id: 6331
 title: York Minster and Central Council – a message from the Vice President
 date: 2016-10-19T19:08:19+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: http:///?p=6331
 permalink: /2016/10/19/york-minster-and-central-council-a-message-from-the-vice-president/
 ssb_old_counts:

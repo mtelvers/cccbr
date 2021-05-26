@@ -3,7 +3,7 @@ id: 12154
 title: BBC London news feature on ringing tonight
 date: 2018-01-05T23:08:54+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12154
 permalink: /2018/01/05/bbc-london-news-feature-on-ringing-tonight/
 wp_featherlight_disable:

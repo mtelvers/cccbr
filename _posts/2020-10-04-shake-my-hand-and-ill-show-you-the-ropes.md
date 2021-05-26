@@ -3,7 +3,7 @@ id: 21605
 title: 'Shake my hand and I&apos;ll show you the ropes'
 date: 2020-10-04T16:55:44+00:00
 author: Mark Elvers
-layout: post
+layout: single
 guid: /?p=21605
 permalink: /2020/10/04/shake-my-hand-and-ill-show-you-the-ropes/
 classic-editor-remember:

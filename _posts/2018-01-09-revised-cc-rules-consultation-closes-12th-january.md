@@ -3,7 +3,7 @@ id: 12165
 title: Revised CC Rules – Consultation Closes 12th January
 date: 2018-01-09T22:37:15+00:00
 author: Doug Davis
-layout: post
+layout: single
 guid: /?p=12165
 permalink: /2018/01/09/revised-cc-rules-consultation-closes-12th-january/
 wp_featherlight_disable:
