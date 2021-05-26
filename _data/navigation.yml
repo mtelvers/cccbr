@@ -10,15 +10,15 @@ about:
       - title: "About the Council"
         url: /about
       - title: "Continuing CCCBR Reforms"
-        url: /about/reforms/
+        url: /about/reforms
       - title: "Governance"
-        url: /about/governance/
+        url: /about/governance
   - title: Executive
     children:
       - title: "Officers"
-        url: /about/executive/
+        url: /about/executive
       - title: "Meetings"
-        url: /about/executive/meetings/
+        url: /about/executive/meetings
 
 covid:
   - title: Coronavirus
