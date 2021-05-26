@@ -15,6 +15,9 @@ ssb_total_counts:
   - "0"
 ssb_cache_timestamp:
   - "450514"
+sidebar:
+  nav: "about"
+toc: true
 ---
 [Structure]()  
 [Rules]()  

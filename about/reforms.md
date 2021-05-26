@@ -15,6 +15,9 @@ ssb_total_counts:
   - "0"
 ssb_cache_timestamp:
   - "450510"
+sidebar:
+  nav: "about"
+toc: true  
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">
