@@ -30,7 +30,7 @@ covid:
 
 bellringing:
   - title: "Bells and Ringing"
-  children:
+    children:
     - title: "What is Bell Ringing?"
       url: /bellringing
     - title: "Learn to Ring"
