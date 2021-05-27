@@ -3,8 +3,9 @@ title: Things to ring for
 date: 2018-12-04 23:21:26.000000000 +00:00
 author: Louise Nightingale
 layout: single
-xyz_fbap:
-- '1'
+sidebar:
+  nav: bellringing
+toc: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

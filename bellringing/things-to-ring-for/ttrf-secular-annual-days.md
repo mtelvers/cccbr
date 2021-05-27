@@ -3,8 +3,9 @@ title: Notable Secular Annual Days
 date: 2019-02-22 15:45:28.000000000 +00:00
 author: Louise Nightingale
 layout: single
-xyz_fbap:
-- '1'
+sidebar:
+  nav: bellringing
+toc: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

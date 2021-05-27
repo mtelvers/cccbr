@@ -3,8 +3,9 @@ title: Former historic anniversaries
 date: 2020-12-26 22:28:16.000000000 +00:00
 author: Mark Elvers
 layout: single
-xyz_fbap:
-- '1'
+sidebar:
+  nav: bellringing
+toc: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">
