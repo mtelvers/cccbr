@@ -29,16 +29,16 @@ covid:
         url: /coronavirus/carbon-dioxide-monitoring-whilst-ringing
 
 bellringing:
-  - title: Bells and Ringing
+  - title: "Bells and Ringing"
   children:
-    - title: What is Bell Ringing?
+    - title: "What is Bell Ringing?"
       url: /bellringing
-    - title: Learn to Ring
+    - title: "Learn to Ring"
       url: /bellringing/learn
-    - title: Things to ring for
+    - title: "Things to ring for"
       url: /bellringing/things-to-ring-for
-    - title: Ringing Remembers
+    - title: "Ringing Remembers"
       url:  /bellringing/ringing-remembers
-    - title: Cast of 1000
+    - title: "Cast of 1000"
       url: /bellringing/cast-of-1000
 
