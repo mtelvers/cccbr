@@ -3,6 +3,9 @@ title: Cast of 1000
 date: 2020-12-27 15:10:50.000000000 +00:00
 author: Mark Elvers
 layout: single
+sidebar:
+  nav: bellringing
+toc: true
 ---
 <div class="wp-block-getwid-section getwid-section-content-custom-width">
   <div class="wp-block-getwid-section__wrapper">

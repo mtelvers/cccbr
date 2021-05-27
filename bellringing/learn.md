@@ -3,6 +3,9 @@ title: Learn to ring
 date: 2018-11-24 16:13:15.000000000 +00:00
 author: Doug Davis
 layout: single
+sidebar:
+  nav: bellringing
+toc: true
 ---
 Bell ringing is a team activity that stimulates the brain and helps keep you fit (especially climbing some of those tower steps!) and it also makes a glorious sound!  
 
