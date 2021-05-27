@@ -3,6 +3,9 @@ title: Stewardship & Management
 date: 2018-11-24 16:57:55.000000000 +00:00
 author: Doug Davis
 layout: single
+sidebar:
+  nav: resources
+toc: true
 ---
 The Stewardship and Management workgroup regularly reviews all aspects of Tower Stewardship and can offer advice and recommendations on matters including insurance, tower management, safeguarding, risk assessments, church law, health & safety, fire risk, complaints, etc.
 

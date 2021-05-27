@@ -3,8 +3,9 @@ title: Publicity Material
 date: 2019-03-20 23:37:38.000000000 +00:00
 author: Louise Nightingale
 layout: single
-xyz_fbap:
-- '1'
+sidebar:
+  nav: resources
+toc: true
 ---
 The information on this page is available for guilds, associations and groups who wish to promote bell ringing. 
 

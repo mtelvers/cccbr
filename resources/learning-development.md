@@ -3,6 +3,9 @@ title: Learning & Development
 date: 2019-09-10 16:27:58.000000000 +00:00
 author: Mark Elvers
 layout: single
+sidebar:
+  nav: resources
+toc: true
 ---
 [The Learning Curve]()  
    [The Education Column]()  

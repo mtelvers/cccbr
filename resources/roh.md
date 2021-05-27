@@ -3,6 +3,9 @@ title: Rolls of Honour
 date: 2018-11-24 17:00:53.000000000 +00:00
 author: Doug Davis
 layout: single
+sidebar:
+  nav: resources
+toc: true
 ---
 The Central Council Rolls of Honour commemorate those ringers who fell in the Great War 1914 - 1918 and 1939-1945 War.
 

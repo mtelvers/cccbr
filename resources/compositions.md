@@ -3,6 +3,9 @@ title: Compositions
 date: 2019-03-27 07:27:05.000000000 +00:00
 author: Doug Davis
 layout: single
+sidebar:
+  nav: resources
+toc: true
 ---
 The Central Council maintains and publishes collections of compositions, encourages an interest in ringing theory and composition through articles and seminars, and provides advice to ringers about compositions.
 

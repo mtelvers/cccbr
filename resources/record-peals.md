@@ -3,6 +3,9 @@ title: Record Peals
 date: 2020-03-12 10:28:01.000000000 +00:00
 author: Doug Davis
 layout: single
+sidebar:
+  nav: resources
+toc: true
 ---
 <p style="text-align: center;">
   <strong>Tower</strong>

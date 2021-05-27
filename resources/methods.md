@@ -3,6 +3,9 @@ title: Methods
 date: 2018-11-24 17:02:52.000000000 +00:00
 author: Doug Davis
 layout: single
+sidebar:
+  nav: resources
+toc: true
 ---
 The Central Council maintains and publishes records of methods which have been rung in peals and quarters, and provides advice to ringers about methods, method extension and other technical matters. The online CCCBR Methods Library contains over 20,000 methods, and is maintained by the [Technical and Taxonomy Workgroup](/about/workgroups/technical-and-taxonomy).&nbsp;
 

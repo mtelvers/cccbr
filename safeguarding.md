@@ -22,11 +22,11 @@ layout: single
           </p>
           
           <p>
-            [cccbr_sc_contact person=&#8221;1279&#8243; email=TRUE photo=FALSE name=TRUE width=200 br=TRUE]
+            David Bassford
           </p>
           
           <p>
-            [cccbr_sc_contact person=&#8221;1280&#8243; email=TRUE photo=FALSE name=TRUE width=200 br=TRUE]
+            Ann White
           </p>
           
           <p>
@@ -61,11 +61,11 @@ layout: single
             </li>
           </ul>
           
-          <div class="wp-block-getwid-section">
+          <div class="wp-block-getwid-section" style="background-color:#132344">
             <div class="wp-block-getwid-section__wrapper getwid-padding-top-normal getwid-padding-bottom-normal getwid-padding-left-normal getwid-padding-right-normal getwid-padding-tablet-top-normal getwid-padding-tablet-bottom-normal getwid-padding-tablet-left-normal getwid-padding-tablet-right-normal">
               <div class="wp-block-getwid-section__inner-wrapper">
                 <div class="wp-block-getwid-section__background-holder">
-                  <div class="wp-block-getwid-section__background has-background" style="background-color:#132344">
+                  <div class="wp-block-getwid-section__background has-background">
                   </div>
                   
                   <div class="wp-block-getwid-section__foreground">

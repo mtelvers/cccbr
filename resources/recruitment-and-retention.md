@@ -3,6 +3,9 @@ title: Recruitment and Retention
 date: 2020-07-07 08:23:09.000000000 +00:00
 author: Mark Elvers
 layout: single
+sidebar:
+  nav: resources
+toc: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

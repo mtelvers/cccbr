@@ -3,6 +3,10 @@ main:
     url: /about
   - title: "Bells and Ringing"
     url: /bellringing
+  - title: Resources
+    url: /resources
+  - title: "Safeguarding"
+    url: /safeguarding
 
 about:
   - title: About
@@ -31,14 +35,14 @@ covid:
 bellringing:
   - title: "Bells and Ringing"
     children:
-    - title: "What is Bell Ringing?"
-      url: /bellringing
-    - title: "Learn to Ring"
-      url: /bellringing/learn
-    - title: "Ringing Remembers"
-      url:  /bellringing/ringing-remembers
-    - title: "Cast of 1000"
-      url: /bellringing/cast-of-1000
+      - title: "What is Bell Ringing?"
+        url: /bellringing
+      - title: "Learn to Ring"
+        url: /bellringing/learn
+      - title: "Ringing Remembers"
+        url:  /bellringing/ringing-remembers
+      - title: "Cast of 1000"
+        url: /bellringing/cast-of-1000
   - title: "Things to ring for"
     children:
       - title: "Things to ring for"
@@ -49,3 +53,13 @@ bellringing:
         url: /bellringing/things-to-ring-for/ttrf-secular-annual-days
       - title: "Notable Church Festivals"
         url: /bellringing/things-to-ring-for/ttrf-church-festivals
+
+resources:
+  - title: Resources5
+    children:
+      - title: Volunteering with the Council
+        url: /resources/volunteering-with-the-council
+      - title: Leading & Development
+        url: /resources/learning-development
+      - title: Stewardship & Management
+        url:  /resources/stewardship-and-management

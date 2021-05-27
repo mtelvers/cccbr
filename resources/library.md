@@ -3,6 +3,9 @@ title: Library
 date: 2018-12-04 23:22:56.000000000 +00:00
 author: Louise Nightingale
 layout: single
+sidebar:
+  nav: resources
+toc: true
 ---
 <header></header> 
 
