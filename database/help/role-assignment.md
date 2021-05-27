@@ -1,14 +1,10 @@
 ---
-id: 6349
 title: Role Assignment Help
-date: 2016-10-19T23:02:09+00:00
+date: 2016-10-19 23:02:09.000000000 +00:00
 author: Andrew Hall
 layout: single
-guid: http:///?page_id=6349
-wp_featherlight_disable:
-  - ""
 xyz_fbap:
-  - "1"
+- '1'
 ---
 The **Role Assignment** dataset defines which members have been appointed to each role. For **ADD**, all fields are available for input. Otherwise the form is displayed read only with buttons **CHANGE ASSIGNMENT** and **CHANGE DETAILS**, which will unlock appropriate fields.
 

@@ -1,23 +1,18 @@
 ---
-id: 14334
-title: 'Ringing Remembers - Shore, Lancashire'
-date: 2018-09-22T20:30:15+00:00
+title: Ringing Remembers - Shore, Lancashire
+date: 2018-09-22 20:30:15.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14334
-permalink: /2018/09/22/ringing-remembers-shore-lancashire/
+permalink: "/2018/09/22/ringing-remembers-shore-lancashire/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2018/09/48de69ba2363bf30a9126db5099a843b.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/09/48de69ba2363bf30a9126db5099a843b.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <a href="https://www.manchester.anglican.org/news/2018/09/21/record-number-bell-ringers-train-ringing-remembers/" target="_blank" rel="noopener">https://www.manchester.anglican.org/news/2018/09/21/record-number-bell-ringers-train-ringing-remembers/</a>
 

@@ -1,17 +1,12 @@
 ---
-id: 12436
-title: 'Bells ring out for 100 years of Womens&apos; suffrage'
-date: 2018-02-12T22:35:02+00:00
+title: Bells ring out for 100 years of Womens&apos; suffrage
+date: 2018-02-12 22:35:02.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12436
-permalink: /2018/02/12/bells-ring-out-for-100-years-of-womens-suffrage/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2018/02/IMG_0275-e1553255184315.jpg
+permalink: "/2018/02/12/bells-ring-out-for-100-years-of-womens-suffrage/"
+image: "/wp-content/uploads/2018/02/IMG_0275-e1553255184315.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Bells having been ringing out to celebrate 100 years since the passing of the Representation of the People Act (1918) which first granted for women the right to vote.
 

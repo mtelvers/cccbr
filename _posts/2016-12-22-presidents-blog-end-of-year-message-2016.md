@@ -1,24 +1,13 @@
 ---
-id: 8930
-title: 'President&apos;s Blog - End of Year Message 2016'
-date: 2016-12-22T22:33:17+00:00
+title: President&apos;s Blog - End of Year Message 2016
+date: 2016-12-22 22:33:17.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=8930
-permalink: /2016/12/22/presidents-blog-end-of-year-message-2016/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449560"
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2016/12/22/presidents-blog-end-of-year-message-2016/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 I am writing this on the shortest day of the year when perhaps we all feel the dark restricting our lives, However, it does mean that from now on we have turned the corner for spring with plenty to look forward to. The Year 2016 has not been the easiest for ringers but equally there has been a lot to celebrate and progress in many areas. The following reflections are just personal involvement, you will have your own highlights.
 

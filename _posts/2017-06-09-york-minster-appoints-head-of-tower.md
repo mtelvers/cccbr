@@ -1,17 +1,12 @@
 ---
-id: 10479
 title: York Minster appoints Head of Tower
-date: 2017-06-09T13:15:51+00:00
+date: 2017-06-09 13:15:51.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10479
-permalink: /2017/06/09/york-minster-appoints-head-of-tower/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+permalink: "/2017/06/09/york-minster-appoints-head-of-tower/"
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 York Minster Head of Bell Tower  
 The following News Release was issued by the Dean & Chapter of York Minster at 12.15pm today (Friday, 9th June):  

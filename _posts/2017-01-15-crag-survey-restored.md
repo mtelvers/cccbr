@@ -1,17 +1,12 @@
 ---
-id: 8996
 title: CRAG Survey restored
-date: 2017-01-15T12:30:55+00:00
+date: 2017-01-15 12:30:55.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=8996
-permalink: /2017/01/15/crag-survey-restored/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2016/08/CRAG.jpg
+permalink: "/2017/01/15/crag-survey-restored/"
+image: "/wp-content/uploads/2016/08/CRAG.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Dear fellow ringers
 

@@ -1,29 +1,17 @@
 ---
-id: 22129
-title: 'President&apos;s Yule Blog'
-date: 2020-12-18T07:36:34+00:00
+title: President&apos;s Yule Blog
+date: 2020-12-18 07:36:34.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22129
-permalink: /2020/12/18/presidents-yule-blog/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"22131";}'
+permalink: "/2020/12/18/presidents-yule-blog/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450319"
-image: /wp-content/uploads/2020/12/Steeple-aston.jpeg
+- '1'
+image: "/wp-content/uploads/2020/12/Steeple-aston.jpeg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Christmas is the time when some changeringers bite the bullet and do some tune ringing. Out come the carol arrangements and the purists grumble that using numbers is not real music. No, but it’s an inclusive means to an end. I am going to teach my work colleagues to ring _Silent Night_ on Ringing Room, having failed to find a decent arrangement of what is of course the best of all Christmas songs “I want a Hippopotamus for Christmas.” <a href="https://youtu.be/vsvOrtcrA5c" target="_blank" rel="noopener">Watch this video</a> at your peril as the tune will stick in your mind forever!
 

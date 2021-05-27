@@ -1,29 +1,18 @@
 ---
-id: 15242
 title: Order of Australia Medal for Australian bellringer Ron Shepherd
-date: 2019-02-01T08:27:19+00:00
+date: 2019-02-01 08:27:19.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14896
-permalink: /2019/02/01/order-of-australia-medal-for-australian-bellringer-ron-shepherd/
+permalink: "/2019/02/01/order-of-australia-medal-for-australian-bellringer-ron-shepherd/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450529"
-image: /wp-content/uploads/2019/02/RonShepherdAndTheNEANZABTributeBell.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2019/02/RonShepherdAndTheNEANZABTributeBell.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 (Image courtesy of Dave Kelly)
 

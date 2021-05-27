@@ -1,23 +1,12 @@
 ---
-id: 12137
 title: Online booking for the ART Conference March 3/4 2018 is now open
-date: 2018-01-03T21:43:21+00:00
+date: 2018-01-03 21:43:21.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12137
-permalink: /2018/01/03/online-booking-for-the-art-conference-march-3-4-2018-is-now-open/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450427"
-image: /wp-content/uploads/2018/01/34F5DBC5-1E79-4674-86DA-6E3E835528CD.jpeg
+permalink: "/2018/01/03/online-booking-for-the-art-conference-march-3-4-2018-is-now-open/"
+image: "/wp-content/uploads/2018/01/34F5DBC5-1E79-4674-86DA-6E3E835528CD.jpeg"
 categories:
-  - Latest News
+- Latest News
 ---
 <p style="text-align: left;">
   Online booking for the ART Conference 2018 is now open - join us in Royston!

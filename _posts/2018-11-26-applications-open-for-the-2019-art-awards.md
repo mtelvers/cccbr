@@ -1,20 +1,16 @@
 ---
-id: 15236
 title: Applications open for the 2019 ART Awards
-date: 2018-11-26T09:19:09+00:00
+date: 2018-11-26 09:19:09.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14636
-permalink: /2018/11/26/applications-open-for-the-2019-art-awards/
+permalink: "/2018/11/26/applications-open-for-the-2019-art-awards/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-wp_featherlight_disable:
-  - ""
-image: /wp-content/uploads/2017/12/art-awards_small.png
+- '0'
+image: "/wp-content/uploads/2017/12/art-awards_small.png"
 categories:
-  - Latest News
+- Latest News
 ---
 **The ART Awards continue to grow every year – with over £3,000 in prize money waiting to be won. Now is your chance to apply for the 2019 ART Awards!**
 

@@ -1,23 +1,12 @@
 ---
-id: 12635
 title: Hurstpierpoint Young Ringers featured in magazine
-date: 2018-02-28T22:03:45+00:00
+date: 2018-02-28 22:03:45.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12635
-permalink: /2018/02/28/hurstpierpoint-young-ringers-featured-in-magazine/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450123"
-image: /wp-content/uploads/2018/02/hpp.jpg
+permalink: "/2018/02/28/hurstpierpoint-young-ringers-featured-in-magazine/"
+image: "/wp-content/uploads/2018/02/hpp.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The Young Ringers of Sussex have received a publicity boost thanks to the March edition of [Hurst Magazine.](https://static1.squarespace.com/static/54e2575ee4b066ba03085fac/t/5a9674d99140b7bd3c237822/1519809776314/HL36-Hurst-Life-magazine-March-web.pdf)
 

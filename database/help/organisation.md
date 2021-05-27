@@ -1,14 +1,10 @@
 ---
-id: 6318
 title: Organisation Help
-date: 2016-10-19T18:24:44+00:00
+date: 2016-10-19 18:24:44.000000000 +00:00
 author: Andrew Hall
 layout: single
-guid: http:///?page_id=6318
-wp_featherlight_disable:
-  - ""
 xyz_fbap:
-  - "1"
+- '1'
 ---
 The **Organisation** table is a hierarchical table in that each record (apart from the master - the one for the Central Council itself) points to its parent record.  The initial structure is (e.g.):
 

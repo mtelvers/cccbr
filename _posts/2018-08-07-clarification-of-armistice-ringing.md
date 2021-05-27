@@ -1,29 +1,18 @@
 ---
-id: 14084
 title: Clarification of Armistice Ringing
-date: 2018-08-07T09:37:46+00:00
+date: 2018-08-07 09:37:46.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14084
-permalink: /2018/08/07/clarification-of-armistice-ringing/
+permalink: "/2018/08/07/clarification-of-armistice-ringing/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449001"
-image: /wp-content/uploads/2018/07/rrsmall-1.png
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/07/rrsmall-1.png"
 categories:
-  - Latest News
+- Latest News
 ---
 The ringing community may be understandably confused regarding alternative requests for ringing on 11th November this year. I hope that the following provides some clarification.
 

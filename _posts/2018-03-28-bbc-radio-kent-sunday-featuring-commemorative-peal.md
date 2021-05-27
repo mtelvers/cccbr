@@ -1,23 +1,18 @@
 ---
-id: 12824
 title: BBC radio Kent Sunday featuring commemorative peal
-date: 2018-03-28T17:48:17+00:00
+date: 2018-03-28 17:48:17.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12824
-permalink: /2018/03/28/bbc-radio-kent-sunday-featuring-commemorative-peal/
+permalink: "/2018/03/28/bbc-radio-kent-sunday-featuring-commemorative-peal/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Tune in Sunday to listen between 6 and 8am to ringing and interview around peal of 8-spliced at St Michael and All Angels, Maidstone, details as follows:
 

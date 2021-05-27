@@ -1,29 +1,17 @@
 ---
-id: 22797
 title: 'President&apos;s Blog #29'
-date: 2021-03-10T18:18:19+00:00
+date: 2021-03-10 18:18:19.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22797
-permalink: /2021/03/10/presidents-blog-29/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"22800";}'
+permalink: "/2021/03/10/presidents-blog-29/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450380"
-image: /wp-content/uploads/2021/03/Strensham-scaled.jpg
+- '1'
+image: "/wp-content/uploads/2021/03/Strensham-scaled.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 A year ago, we were just starting to think ringing events might get cancelled. A 12 bell contest eliminator at Walsall was an early casualty in our household diary, although the ART Conference just sneaked in. 250,000 racegoers flocked to Cheltenham, and the rest, as they say, is history. (Not that it was their fault of course.)
 

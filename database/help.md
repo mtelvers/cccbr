@@ -1,14 +1,10 @@
 ---
-id: 5986
 title: Database Help
-date: 2016-10-19T10:35:49+00:00
+date: 2016-10-19 10:35:49.000000000 +00:00
 author: Andrew Hall
 layout: single
-guid: http:///?page_id=5986
-wp_featherlight_disable:
-  - ""
 xyz_fbap:
-  - "1"
+- '1'
 ---
 The database is split into several sections:
 

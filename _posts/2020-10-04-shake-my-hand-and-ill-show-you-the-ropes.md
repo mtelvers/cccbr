@@ -1,30 +1,19 @@
 ---
-id: 21605
-title: 'Shake my hand and I&apos;ll show you the ropes'
-date: 2020-10-04T16:55:44+00:00
+title: Shake my hand and I&apos;ll show you the ropes
+date: 2020-10-04 16:55:44.000000000 +00:00
 author: Mark Elvers
 layout: single
-guid: /?p=21605
-permalink: /2020/10/04/shake-my-hand-and-ill-show-you-the-ropes/
-classic-editor-remember:
-  - classic-editor
+permalink: "/2020/10/04/shake-my-hand-and-ill-show-you-the-ropes/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450213"
-image: /wp-content/uploads/2020/10/GWPFrontCover628width.png
+- '1'
+image: "/wp-content/uploads/2020/10/GWPFrontCover628width.png"
 categories:
-  - Latest News
+- Latest News
 ---
 &#8220;Shake my hand and I&apos;ll show you the ropes&#8221; A biography of George Pipe by John Loveless
 

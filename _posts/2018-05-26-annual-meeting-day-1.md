@@ -1,23 +1,18 @@
 ---
-id: 13555
-title: 'Annual Meeting - Day 1'
-date: 2018-05-26T15:18:37+00:00
+title: Annual Meeting - Day 1
+date: 2018-05-26 15:18:37.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=13555
-permalink: /2018/05/26/annual-meeting-day-1/
+permalink: "/2018/05/26/annual-meeting-day-1/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2018/05/IMAG0041.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/05/IMAG0041.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Some photos from Day 1 of the Annual Meeting in Lancaster - more may be added later, so watch this space&#8230;.
 

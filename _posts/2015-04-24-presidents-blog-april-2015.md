@@ -1,18 +1,13 @@
 ---
-id: 9976
-title: 'President&apos;s Blog - April 2015'
-date: 2015-04-24T17:11:21+00:00
+title: President&apos;s Blog - April 2015
+date: 2015-04-24 17:11:21.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9976
-permalink: /2015/04/24/presidents-blog-april-2015/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2015/04/24/presidents-blog-april-2015/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 As I write this on St George’s Day many of you may have been marking the occasion with ringing for England’s patron saint or indeed for Shakespeare’s birthday. The forthcoming two months will see anniversary of VE Day in Europe over weekend of 9th May, and the historic 800th Anniversary of Magna Carta over the weekend of 13th/14th June. The latter may have ringers involved in the suggested community based &#8220;LiberTeas&#8221; as previously reported and I hope that as many as possible will support this event.
 

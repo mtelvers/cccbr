@@ -1,18 +1,8 @@
 ---
-id: 14849
 title: Ringing Remembers
-date: 2018-12-05T20:11:09+00:00
+date: 2018-12-05 20:11:09.000000000 +00:00
 author: Louise Nightingale
 layout: single
-guid: /?page_id=14849
-ep_tilt_migration:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450527"
 ---
 Without doubt, one of the major successes for bellringing during 2018 was the Ringing Remembers recruitment campaign, aimed at recruiting 1,400 new ringers in memory of the 1,400 ringers who died during World War I, in this Armistice centenary year. 
 

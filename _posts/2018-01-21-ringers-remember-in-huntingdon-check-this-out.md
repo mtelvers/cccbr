@@ -1,23 +1,12 @@
 ---
-id: 12237
-title: 'Ringers Remember in Huntingdon - check this out!'
-date: 2018-01-21T23:32:45+00:00
+title: Ringers Remember in Huntingdon - check this out!
+date: 2018-01-21 23:32:45.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12237
-permalink: /2018/01/21/ringers-remember-in-huntingdon-check-this-out/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449554"
-image: /wp-content/uploads/2018/01/Huntingdon.jpg
+permalink: "/2018/01/21/ringers-remember-in-huntingdon-check-this-out/"
+image: "/wp-content/uploads/2018/01/Huntingdon.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Frances Ross had a chat with PRO Caroline Stockmann and Big Ideas Company person Vicky Hatchett to get some feedback on a draft article she had written for the Huntingdon Post.  The article has gone live so Frances shared it with me, and it&apos;s really good - especially the way Frances has set out the need in her area for a specific number of ringers.  This strikes me as a really good way of engaging people, as it&apos;s very specific.  You can read article at: http://www.huntspost.co.uk/news/ap-peel-launched-for-bell-ringers-in-huntingdonshire-to-mark-centenary-of-armistice-1-5352560
 

@@ -1,17 +1,12 @@
 ---
-id: 10413
-title: 'Ringing returns to St. George&apos;s, Gravesend'
-date: 2017-06-01T10:47:02+00:00
+title: Ringing returns to St. George&apos;s, Gravesend
+date: 2017-06-01 10:47:02.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10413
-permalink: /2017/06/01/ringing-returns-to-st-georges-gravesend/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/06/gravesend.jpg
+permalink: "/2017/06/01/ringing-returns-to-st-georges-gravesend/"
+image: "/wp-content/uploads/2017/06/gravesend.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <p class=" clarion text body">
   Absent for around 20 years, regular bell ringing is back at St George’s Church in Gravesend, Kent after rector Chris Stone approached Peter Joyce to teach a band back in 2015.

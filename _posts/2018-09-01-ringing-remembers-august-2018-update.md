@@ -1,23 +1,18 @@
 ---
-id: 14252
-title: 'Ringing Remembers - August 2018 Update'
-date: 2018-09-01T11:44:21+00:00
+title: Ringing Remembers - August 2018 Update
+date: 2018-09-01 11:44:21.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14252
-permalink: /2018/09/01/ringing-remembers-august-2018-update/
+permalink: "/2018/09/01/ringing-remembers-august-2018-update/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2018/09/rr_badge.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/09/rr_badge.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <p style="text-align: center;">
   <a href="https://cccbr.org.uk/wp-content/uploads/2018/07/rrsmall.png"><img loading="lazy" class="alignnone size-full wp-image-13895" src="https://cccbr.org.uk/wp-content/uploads/2018/07/rrsmall.png" alt="" width="226" height="68" /></a>

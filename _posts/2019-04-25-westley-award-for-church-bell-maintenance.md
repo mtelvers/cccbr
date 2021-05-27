@@ -1,16 +1,12 @@
 ---
-id: 16737
 title: Westley Award for Church Bell Maintenance
-date: 2019-04-25T20:58:37+00:00
+date: 2019-04-25 20:58:37.000000000 +00:00
 author: Louise Nightingale
 layout: single
-guid: /?p=16737
-permalink: /2019/04/25/westley-award-for-church-bell-maintenance/
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-image: /wp-content/uploads/2019/04/westley-group-250x250.jpg
+permalink: "/2019/04/25/westley-award-for-church-bell-maintenance/"
+image: "/wp-content/uploads/2019/04/westley-group-250x250.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 **A new award for belfry maintenance**
 

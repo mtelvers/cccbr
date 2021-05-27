@@ -1,16 +1,12 @@
 ---
-id: 9974
-title: 'President&apos;s Blog - July 2015'
-date: 2015-07-17T17:09:43+00:00
+title: President&apos;s Blog - July 2015
+date: 2015-07-17 17:09:43.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9974
-permalink: /2015/07/17/presidents-blog-july-2015/
-wp_featherlight_disable:
-  - ""
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2015/07/17/presidents-blog-july-2015/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
+- Blog
 ---
 The sharp eyed will have noticed no blog for June, this was to ensure all the important happenings were rolled into one round–up.
 

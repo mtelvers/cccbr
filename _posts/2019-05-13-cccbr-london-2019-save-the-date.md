@@ -1,20 +1,16 @@
 ---
-id: 15591
-title: 'CCCBR London 2019 - Save the Date!'
-date: 2019-05-13T11:49:46+00:00
+title: CCCBR London 2019 - Save the Date!
+date: 2019-05-13 11:49:46.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=15591
-permalink: /2019/05/13/cccbr-london-2019-save-the-date/
-wp_featherlight_disable:
-  - ""
+permalink: "/2019/05/13/cccbr-london-2019-save-the-date/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2019/05/london2019_logo.jpg
+- '0'
+image: "/wp-content/uploads/2019/05/london2019_logo.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 [<img loading="lazy" class="wp-image-15592 size-medium aligncenter" src="https://cccbr.org.uk/wp-content/uploads/2019/05/london2019_logo-1-300x191.jpg" alt="" width="300" height="191" />](https://cccbr.org.uk/wp-content/uploads/2019/05/london2019_logo-1.jpg)
 

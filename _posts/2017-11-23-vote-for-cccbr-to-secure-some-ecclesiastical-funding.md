@@ -1,17 +1,12 @@
 ---
-id: 11779
 title: Vote for CCCBR to secure some Ecclesiastical funding!
-date: 2017-11-23T03:33:07+00:00
+date: 2017-11-23 03:33:07.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11779
-permalink: /2017/11/23/vote-for-cccbr-to-secure-some-ecclesiastical-funding/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+permalink: "/2017/11/23/vote-for-cccbr-to-secure-some-ecclesiastical-funding/"
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Ecclesiastical are running a scheme where charities can ‘win’ £1000. As we have worked with them recently to promote their communities project we had hoped they would automatically give us some funding but seems there is another route&#8230;
 

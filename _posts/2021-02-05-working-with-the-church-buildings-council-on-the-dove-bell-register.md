@@ -1,28 +1,16 @@
 ---
-id: 22577
 title: Working with the Church Buildings Council on the Dove Bell Register
-date: 2021-02-05T17:58:28+00:00
+date: 2021-02-05 17:58:28.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22577
-permalink: /2021/02/05/working-with-the-church-buildings-council-on-the-dove-bell-register/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"22579";}'
+permalink: "/2021/02/05/working-with-the-church-buildings-council-on-the-dove-bell-register/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450392"
-image: /wp-content/uploads/2021/02/Calverton-Bucks-Belfry-interior-looking-NE-scaled.jpg
+- '1'
+image: "/wp-content/uploads/2021/02/Calverton-Bucks-Belfry-interior-looking-NE-scaled.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The Central Council and the Church Buildings Council of the Church of England (CBC) have agreed that the Dove Bell Register will now be the primary store for all bell and bell frame data held by both organisations, with the CBC supporting the enrichment of Dove with the additional data that they have been collecting in the past few years.
 

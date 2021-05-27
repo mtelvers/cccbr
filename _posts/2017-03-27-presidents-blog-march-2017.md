@@ -1,24 +1,13 @@
 ---
-id: 9963
-title: 'President&apos;s Blog - March 2017'
-date: 2017-03-27T12:11:20+00:00
+title: President&apos;s Blog - March 2017
+date: 2017-03-27 12:11:20.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9963
-permalink: /2017/03/27/presidents-blog-march-2017/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450008"
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2017/03/27/presidents-blog-march-2017/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Most of you will be looking forward to Easter as the first major holiday of the year and I hope that if you making visits where there are bells join in with local ringing. So often our “home” ringers are away and visitors can often make the difference in fulfilling our role proclaiming Easter Sunday.
 

@@ -1,28 +1,19 @@
 ---
-id: 19949
 title: COVID-19 and ringing Central Council position statement May 5th 2020
-date: 2020-05-04T23:00:43+00:00
+date: 2020-05-04 23:00:43.000000000 +00:00
 author: Mark Elvers
 layout: single
-guid: /?p=19949
-permalink: /2020/05/04/covid-19-and-ringing-central-council-position-statement-may-5th-2020/
+permalink: "/2020/05/04/covid-19-and-ringing-central-council-position-statement-may-5th-2020/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"10446";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450372"
-image: /wp-content/uploads/2017/06/CCCBR_Logo_col.jpg
+- '1'
+image: "/wp-content/uploads/2017/06/CCCBR_Logo_col.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 It is expected that the UK Government will announce plans for a gentle easing of the current lockdown on Sunday May 10th and ringers have already been asking if that means they may return to ringing as normal. The key consideration at all times must be the safety of individual ringers, others with whom they ring and those with whom they live or may come into contact.
 

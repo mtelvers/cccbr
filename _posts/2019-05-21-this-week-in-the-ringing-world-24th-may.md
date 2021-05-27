@@ -1,23 +1,17 @@
 ---
-id: 17226
-title: 'This week in The Ringing World - 24th May'
-date: 2019-05-21T16:33:38+00:00
+title: This week in The Ringing World - 24th May
+date: 2019-05-21 16:33:38.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=15627
-permalink: /2019/05/21/this-week-in-the-ringing-world-24th-may/
-wp_featherlight_disable:
-  - ""
+permalink: "/2019/05/21/this-week-in-the-ringing-world-24th-may/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"15532";}'
-image: /wp-content/uploads/2019/05/RW-Facebook-logo-1.jpg
+- '0'
+image: "/wp-content/uploads/2019/05/RW-Facebook-logo-1.jpg"
 categories:
-  - Latest News
-  - Ringing World
+- Latest News
+- Ringing World
 ---
 Coming in this week’s edition of <a href="https://www.ringingworld.co.uk" target="_blank" rel="noopener noreferrer">The Ringing World</a> on Friday 24th May:
 

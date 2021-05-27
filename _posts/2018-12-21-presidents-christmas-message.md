@@ -1,21 +1,17 @@
 ---
-id: 15240
-title: 'President&apos;s Christmas Message'
-date: 2018-12-21T02:08:18+00:00
+title: President&apos;s Christmas Message
+date: 2018-12-21 02:08:18.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14754
-permalink: /2018/12/21/presidents-christmas-message/
-wp_featherlight_disable:
-  - ""
+permalink: "/2018/12/21/presidents-christmas-message/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2018/12/CDO_Swan_2018-3.jpg
+- '0'
+image: "/wp-content/uploads/2018/12/CDO_Swan_2018-3.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 **“Ding! Dong! Merrily on high, in heaven the bells are ringing…”**
 

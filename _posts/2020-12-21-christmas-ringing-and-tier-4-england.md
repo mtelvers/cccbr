@@ -1,27 +1,15 @@
 ---
-id: 22159
-title: 'Christmas ringing and Tier 4 - England'
-date: 2020-12-21T09:00:22+00:00
+title: Christmas ringing and Tier 4 - England
+date: 2020-12-21 09:00:22.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22159
-permalink: /2020/12/21/christmas-ringing-and-tier-4-england/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
+permalink: "/2020/12/21/christmas-ringing-and-tier-4-england/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450523"
+- '1'
 categories:
-  - Latest News
+- Latest News
 ---
 I write this with a heavy heart, and it is not made any easier knowing that most of you will be expecting it. The impact on ringing of the decisions of the government in England to introduce Tier 4 and to change Christmas bubble arrangements in other Tiers is as nothing compared with other impacts on people’s lives. Just when we thought we had turned the corner our lives need to be more disrupted.
 

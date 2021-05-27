@@ -1,17 +1,12 @@
 ---
-id: 12292
-title: 'Abingdon incident press release - all you need to know'
-date: 2018-01-28T10:49:10+00:00
+title: Abingdon incident press release - all you need to know
+date: 2018-01-28 10:49:10.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12292
-permalink: /2018/01/28/abingdon-incident-press-release-all-you-need-to-know/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+permalink: "/2018/01/28/abingdon-incident-press-release-all-you-need-to-know/"
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Please see attached so you understand context/background and appropriate messaging should you be asked by others what happened.
 

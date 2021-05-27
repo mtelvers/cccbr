@@ -1,17 +1,12 @@
 ---
-id: 10841
 title: Update to Church Law Guidance Note
-date: 2017-07-29T17:09:06+00:00
+date: 2017-07-29 17:09:06.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10841
-permalink: /2017/07/29/update-to-church-law-guidance-note/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+permalink: "/2017/07/29/update-to-church-law-guidance-note/"
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The Tower Stewardship Committee have updated their Guidance Note on Church Law.
 

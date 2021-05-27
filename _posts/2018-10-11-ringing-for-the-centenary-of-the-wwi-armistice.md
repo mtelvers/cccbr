@@ -1,29 +1,18 @@
 ---
-id: 14406
 title: Ringing for the Centenary of the WWI Armistice
-date: 2018-10-11T13:27:33+00:00
+date: 2018-10-11 13:27:33.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14406
-permalink: /2018/10/11/ringing-for-the-centenary-of-the-wwi-armistice/
+permalink: "/2018/10/11/ringing-for-the-centenary-of-the-wwi-armistice/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449474"
-image: /wp-content/uploads/2018/04/WWI-soldiers-ringing_small.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/04/WWI-soldiers-ringing_small.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 1 – 18 November 2018
 

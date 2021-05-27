@@ -1,18 +1,10 @@
 ---
-id: 17094
 title: 2019 Annual Meeting
-date: 2019-05-25T11:52:55+00:00
+date: 2019-05-25 11:52:55.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=17094
 xyz_fbap:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450443"
+- '1'
 ---
 <a data-elementor-open-lightbox="default" href="https://cccbr.org.uk/wp-content/uploads/2019/05/header-1.jpg"><br /> <img loading="lazy" width="768" height="250" src="https://cccbr.org.uk/wp-content/uploads/2019/05/header-1-768x250.jpg" alt="" srcset="https://cccbr.org.uk/wp-content/uploads/2019/05/header-1-768x250.jpg 768w, https://cccbr.org.uk/wp-content/uploads/2019/05/header-1-300x97.jpg 300w, https://cccbr.org.uk/wp-content/uploads/2019/05/header-1-1024x333.jpg 1024w, https://cccbr.org.uk/wp-content/uploads/2019/05/header-1-600x195.jpg 600w, https://cccbr.org.uk/wp-content/uploads/2019/05/header-1.jpg 1557w" sizes="(max-width: 768px) 100vw, 768px" /> </a>
 

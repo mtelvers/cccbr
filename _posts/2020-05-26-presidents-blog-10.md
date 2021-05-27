@@ -1,27 +1,17 @@
 ---
-id: 20169
 title: 'President&apos;s Blog #10'
-date: 2020-05-26T19:26:48+00:00
+date: 2020-05-26 19:26:48.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=20169
-permalink: /2020/05/26/presidents-blog-10/
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"20171";}'
+permalink: "/2020/05/26/presidents-blog-10/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449505"
-image: /wp-content/uploads/2020/05/Leicester-Cathedral.jpg
+- '1'
+image: "/wp-content/uploads/2020/05/Leicester-Cathedral.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Who would have thought that seven hours of virtual Council meetings could be enjoyable? Such was the variety of discussion and number of people involved last Sunday that it was no hardship, and really quite a nice day in. The ‘to do’ list is rather more frightening but at least it is shared widely.
 

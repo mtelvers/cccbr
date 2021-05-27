@@ -1,17 +1,12 @@
 ---
-id: 12594
-title: 'Council Reform - Revised Governing Documents finalised'
-date: 2018-02-23T14:09:09+00:00
+title: Council Reform - Revised Governing Documents finalised
+date: 2018-02-23 14:09:09.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12594
-permalink: /2018/02/23/council-reform-revised-governing-documents-finalised/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/09/ruleslogo.png
+permalink: "/2018/02/23/council-reform-revised-governing-documents-finalised/"
+image: "/wp-content/uploads/2017/09/ruleslogo.png"
 categories:
-  - Latest News
+- Latest News
 ---
 On 23rd February the Council published the final edition of its revised governing documents, for consideration at its Lancaster meeting in May.
 

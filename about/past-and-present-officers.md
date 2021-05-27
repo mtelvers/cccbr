@@ -1,16 +1,8 @@
 ---
-id: 16890
 title: Past and Present Officers
-date: 2019-05-08T19:33:19+00:00
+date: 2019-05-08 19:33:19.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=16890
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450300"
 ---
 #### Presidents
 

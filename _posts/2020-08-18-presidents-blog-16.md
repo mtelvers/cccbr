@@ -1,27 +1,17 @@
 ---
-id: 21078
 title: 'President&apos;s Blog #16'
-date: 2020-08-18T21:35:26+00:00
+date: 2020-08-18 21:35:26.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=21078
-permalink: /2020/08/18/presidents-blog-16/
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"21084";}'
+permalink: "/2020/08/18/presidents-blog-16/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450179"
-image: /wp-content/uploads/2020/08/Pyes.jpg
+- '1'
+image: "/wp-content/uploads/2020/08/Pyes.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 On balance now I wish I had continued with the piano not the cello. After Grade 5 on each, I made the choice and continued with the cello as I was better at it, it was more sociable, and I liked my cello teacher. I would now put up with being a less good pianist than cellist. The same is true of handbell ringing. I pretty much gave that up at the equivalent of about Grade 4 and then got so relatively better at tower bell ringing that I could never accept what had become a gulf in my level of competence between the two formats.
 

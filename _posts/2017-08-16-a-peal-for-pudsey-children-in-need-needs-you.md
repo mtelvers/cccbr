@@ -1,17 +1,12 @@
 ---
-id: 10910
-title: 'A Peal for Pudsey!  Children in Need needs you!'
-date: 2017-08-16T23:33:33+00:00
+title: A Peal for Pudsey!  Children in Need needs you!
+date: 2017-08-16 23:33:33.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10910
-permalink: /2017/08/16/a-peal-for-pudsey-children-in-need-needs-you/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/08/Pudsey-thumbnail-web-version.jpg
+permalink: "/2017/08/16/a-peal-for-pudsey-children-in-need-needs-you/"
+image: "/wp-content/uploads/2017/08/Pudsey-thumbnail-web-version.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <p style="text-align: center;">
   <a href="https://cccbr.org.uk/wp-content/uploads/2017/08/Pudsey-banner-web-version.jpg"><img loading="lazy" class="alignnone size-large wp-image-10915" src="https://cccbr.org.uk/wp-content/uploads/2017/08/Pudsey-banner-web-version-1024x195.jpg" alt="" width="640" height="122" srcset="https://cccbr.org.uk/wp-content/uploads/2017/08/Pudsey-banner-web-version-1024x195.jpg 1024w, https://cccbr.org.uk/wp-content/uploads/2017/08/Pudsey-banner-web-version-300x57.jpg 300w, https://cccbr.org.uk/wp-content/uploads/2017/08/Pudsey-banner-web-version-768x146.jpg 768w, https://cccbr.org.uk/wp-content/uploads/2017/08/Pudsey-banner-web-version-600x114.jpg 600w, https://cccbr.org.uk/wp-content/uploads/2017/08/Pudsey-banner-web-version.jpg 1654w" sizes="(max-width: 640px) 100vw, 640px" /></a>

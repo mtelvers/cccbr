@@ -1,24 +1,19 @@
 ---
-id: 18150
 title: London, here we come!
-date: 2019-09-06T09:51:26+00:00
+date: 2019-09-06 09:51:26.000000000 +00:00
 author: Louise Nightingale
 layout: single
-guid: /?p=18150
-permalink: /2019/09/06/london-here-we-come/
+permalink: "/2019/09/06/london-here-we-come/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
+- '0'
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:0;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-ep_tilt_migration:
-  - "1"
-image: /wp-content/uploads/2019/07/london2019_logo_coral.jpg
+- 'a:3:{s:18:"post_fb_permission";i:0;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
+image: "/wp-content/uploads/2019/07/london2019_logo_coral.jpg"
 categories:
-  - Blog
+- Blog
 ---
 So, we are rapidly approaching my first CC AGM weekend as a part of the Central Council. A huge amount of effort has gone in to the organisation of this weekend which I find staggering considering most involved also have a day job as well&#8230; I’m sure they have time machines to double the hours in their day!  It goes to show the level of dedication and commitment there is out there to make things happen.
 

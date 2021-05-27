@@ -1,29 +1,17 @@
 ---
-id: 22506
 title: 'President&apos;s Blog #26'
-date: 2021-01-27T07:24:39+00:00
+date: 2021-01-27 07:24:39.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22506
-permalink: /2021/01/27/presidents-blog-26/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"22508";}'
+permalink: "/2021/01/27/presidents-blog-26/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450458"
-image: /wp-content/uploads/2021/01/dusk-pic-of-the-bell.jpg
+- '1'
+image: "/wp-content/uploads/2021/01/dusk-pic-of-the-bell.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 I am currently working with a Dutch colleague whose family lives in Perth, Western Australia. Imagine our mutual surprise when he joined a Teams call from his local bar and it turned out he was in the Lucky Shag, the bar next to the Swan Tower and its ring of 16 bells. Explaining why I had, on more than one occasion, flown halfway round the world to visit that building and that pub was difficult - I may have spent equal time in both - but we soon found common ground dishing Victoria Bitter. On my last visit too long ago, the tower was a relatively isolated and dramatic feature of the Perth waterfront – now it is surrounded by tall buildings with rather less impact. Still pretty cool though.
 

@@ -1,23 +1,12 @@
 ---
-id: 10875
 title: Kilifi ringers summer visit
-date: 2017-08-04T20:47:30+00:00
+date: 2017-08-04 20:47:30.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10875
-permalink: /2017/08/04/kilifi-ringers-summer-visit/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449039"
-image: /wp-content/uploads/2017/08/IMG_1930.jpg
+permalink: "/2017/08/04/kilifi-ringers-summer-visit/"
+image: "/wp-content/uploads/2017/08/IMG_1930.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Some of the ringers from St Thomas&apos;, Kilifi, Kenya, have been in the UK on a ringing visit.  John and Deborah, recently married, and David (Tower Captain) are pictured here at All Saint&apos;s, Maidstone, where they joined the practice Aug 3rd with Pat Phipps who was hosting them.
 

@@ -1,29 +1,20 @@
 ---
-id: 20056
 title: 'President&apos;s Blog #9'
-date: 2020-05-12T17:37:38+00:00
+date: 2020-05-12 17:37:38.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=20056
-permalink: /2020/05/12/presidents-blog-9/
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"20062";}'
+permalink: "/2020/05/12/presidents-blog-9/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
+- '1'
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:0;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450348"
-image: /wp-content/uploads/2020/05/safe_image.jpg
+- 'a:3:{s:18:"post_fb_permission";i:0;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
+image: "/wp-content/uploads/2020/05/safe_image.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 I used to play golf on a course where the 15<sup>th</sup> hole was tantalising close to the club house. I usually wanted to stop at that point – I was tired, I was probably approaching 100 shots, and had resorted to using the lake balls in the bottom of my bag. Basically 18 holes was too long.
 

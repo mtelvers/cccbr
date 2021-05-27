@@ -1,26 +1,16 @@
 ---
-id: 12871
-title: 'President&apos;s Easter message 2018'
-date: 2018-04-01T05:07:20+00:00
+title: President&apos;s Easter message 2018
+date: 2018-04-01 05:07:20.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12871
-permalink: /2018/04/01/easter-blog/
-wp_featherlight_disable:
-  - ""
+permalink: "/2018/04/01/easter-blog/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450107"
-image: /wp-content/uploads/2018/04/SMCC_2.jpg
+- '0'
+image: "/wp-content/uploads/2018/04/SMCC_2.jpg"
 categories:
-  - Blog
+- Blog
 ---
 On this day – Easter Sunday 2018 – I am reminded of some of the many marvellous attributes associated with bellringing.  One week ago – Palm Sunday – our local team at St Mary’s Harrow-on-the-Hill rang for service as usual.  We were able to ring all 10 bells, with a mix of experienced and relatively new team members.  Today, on the other side of the world, I was able to join the team at St Mary’s Cathedral Sydney.  We rang all 12 bells for the Easter Sunday service, with around 15 ringers being present.  And I know that, all around the world, ringers will be supporting their local towers on this pre-eminent Christian feast day.
 

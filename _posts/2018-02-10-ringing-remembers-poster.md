@@ -1,17 +1,12 @@
 ---
-id: 12400
 title: Ringing Remembers Poster
-date: 2018-02-10T10:27:12+00:00
+date: 2018-02-10 10:27:12.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12400
-permalink: /2018/02/10/ringing-remembers-poster/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/12/RR-newsletterimage-v1-240x240.jpg
+permalink: "/2018/02/10/ringing-remembers-poster/"
+image: "/wp-content/uploads/2017/12/RR-newsletterimage-v1-240x240.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Below is a poster from Big Ideas Co who are working with the CCCBR on the Ringing Remembers campaign.  Please circulate this to your towers and encourage them to put it up in church and village notice boards.  There will be a suite of images available to download soon to use on other material as well.
 

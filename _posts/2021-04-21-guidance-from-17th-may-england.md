@@ -1,28 +1,16 @@
 ---
-id: 23078
-title: 'Guidance from 17th May - England'
-date: 2021-04-21T19:51:58+00:00
+title: Guidance from 17th May - England
+date: 2021-04-21 19:51:58.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=23078
-permalink: /2021/04/21/guidance-from-17th-may-england/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"23082";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450518"
+permalink: "/2021/04/21/guidance-from-17th-may-england/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-image: /wp-content/uploads/2021/04/17-May.jpg
+- '1'
+image: "/wp-content/uploads/2021/04/17-May.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Today we have published draft guidance for the period from 17 May to 21 June to enable ringers in England at least to plan for the next phase of lockdown release. This guidance has been agreed with the House of Bishops Recovery Group, but it remains in draft form until the Government finally confirms that its four tests have been met immediately prior to 17 May. The guidance is a major step change from previous guidance.
 

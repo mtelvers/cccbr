@@ -1,23 +1,12 @@
 ---
-id: 10561
-title: 'Christopher O&apos;Mahony on the Shaun Keaveny show'
-date: 2017-06-15T13:57:17+00:00
+title: Christopher O&apos;Mahony on the Shaun Keaveny show
+date: 2017-06-15 13:57:17.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10561
-permalink: /2017/06/15/christopher-omahony-on-the-shaun-keaveny-show/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450071"
-image: /wp-content/uploads/2017/06/IMG_3112-e1497530720716.jpg
+permalink: "/2017/06/15/christopher-omahony-on-the-shaun-keaveny-show/"
+image: "/wp-content/uploads/2017/06/IMG_3112-e1497530720716.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 **SHAUN KEAVENY ACHIEVES HIS RINGING CHALLENGE**
 

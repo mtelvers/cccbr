@@ -1,29 +1,17 @@
 ---
-id: 23054
 title: 'President&apos;s Blog #32'
-date: 2021-04-20T21:54:25+00:00
+date: 2021-04-20 21:54:25.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=23054
-permalink: /2021/04/20/presidents-blog-32/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"23056";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450473"
+permalink: "/2021/04/20/presidents-blog-32/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-image: /wp-content/uploads/2021/04/Society-of-Roving-Ringers.png
+- '1'
+image: "/wp-content/uploads/2021/04/Society-of-Roving-Ringers.png"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 At the time of writing, BellBoard had over 2600 performances <a href="https://bb.ringingworld.co.uk/memoria.php?id=13655" target="_blank" rel="noopener">linked in memory</a> of HRH Prince Philip, Duke of Edinburgh. Mostly single bell tolling, undoubtedly effective and understood by the millions who would have heard it. Such events underline the importance of bells in communities. Ted Westlake took top honours for what must have been the nerve-wracking tolling of the tenor at the Curfew Tower during the funeral procession, supported by Vikki Bulbeck and James White, and with military timing. This ringing had an audience of 13 million on BBC alone!
 

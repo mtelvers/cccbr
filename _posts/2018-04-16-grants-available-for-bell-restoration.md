@@ -1,29 +1,18 @@
 ---
-id: 13014
 title: Grants available for Bell Restoration
-date: 2018-04-16T22:07:41+00:00
+date: 2018-04-16 22:07:41.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=13014
-permalink: /2018/04/16/grants-available-for-bell-restoration/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2018/04/16/grants-available-for-bell-restoration/"
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
+- '0'
+- '0'
 xyz_fbap:
-  - "1"
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450203"
-image: /wp-content/uploads/2017/03/latest_news.jpg
+- '1'
+- '1'
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The Central Council Bell Restoration Fund is very grateful to have received a legacy from the estate of the late Norman Johnson, who was a member of this Committee for many years
 

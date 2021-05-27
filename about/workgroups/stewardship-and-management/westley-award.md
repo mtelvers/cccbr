@@ -1,20 +1,10 @@
 ---
-id: 17273
 title: Westley Award for Church Bell Maintenance
-date: 2019-06-03T08:57:13+00:00
+date: 2019-06-03 08:57:13.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=17273
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
 xyz_fbap:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450403"
+- '1'
 ---
 <img loading="lazy" width="768" height="217" src="https://cccbr.org.uk/wp-content/uploads/2019/06/westley-award-768x217.jpg" alt="" srcset="https://cccbr.org.uk/wp-content/uploads/2019/06/westley-award-768x217.jpg 768w, https://cccbr.org.uk/wp-content/uploads/2019/06/westley-award-300x85.jpg 300w, https://cccbr.org.uk/wp-content/uploads/2019/06/westley-award-1024x290.jpg 1024w, https://cccbr.org.uk/wp-content/uploads/2019/06/westley-award-1200x340.jpg 1200w, https://cccbr.org.uk/wp-content/uploads/2019/06/westley-award-600x170.jpg 600w" sizes="(max-width: 768px) 100vw, 768px" /> 
 

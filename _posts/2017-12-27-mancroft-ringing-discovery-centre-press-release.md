@@ -1,17 +1,12 @@
 ---
-id: 12041
-title: 'Mancroft Ringing Discovery Centre - press release!'
-date: 2017-12-27T14:02:21+00:00
+title: Mancroft Ringing Discovery Centre - press release!
+date: 2017-12-27 14:02:21.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12041
-permalink: /2017/12/27/mancroft-ringing-discovery-centre-press-release/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+permalink: "/2017/12/27/mancroft-ringing-discovery-centre-press-release/"
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 December 27, 2017  
 Mancroft Appeal 300  

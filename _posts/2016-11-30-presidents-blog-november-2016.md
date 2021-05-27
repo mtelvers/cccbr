@@ -1,18 +1,13 @@
 ---
-id: 8701
-title: 'President&apos;s Blog - November 2016'
-date: 2016-11-30T00:03:40+00:00
+title: President&apos;s Blog - November 2016
+date: 2016-11-30 00:03:40.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=8701
-permalink: /2016/11/30/presidents-blog-november-2016/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2016/11/30/presidents-blog-november-2016/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 It seems a long time since my last note, time having been dominated by events in York.  The Heritage Open days over the weekend of 10<sup>th</sup>/11<sup>th</sup> September resulted in quite a lot of ringing demonstrations and interest and certainly local towers in my area gained several new recruits.
 

@@ -1,28 +1,16 @@
 ---
-id: 21664
-title: 'England - Tier 2 and Tier 3 restrictions'
-date: 2020-10-16T15:54:37+00:00
+title: England - Tier 2 and Tier 3 restrictions
+date: 2020-10-16 15:54:37.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=21664
-permalink: /2020/10/16/england-tier-2-and-tier-3-restrictions/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
+permalink: "/2020/10/16/england-tier-2-and-tier-3-restrictions/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450391"
-image: /wp-content/uploads/2020/10/Statutory-Instrument.jpg
+- '1'
+image: "/wp-content/uploads/2020/10/Statutory-Instrument.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Many towers have already come to the conclusion that ringing needs to be suspended in the Tier 2 (High) and Tier 3 (Very High) regions. This is also the view of the CCCBR and the Church of England. The headline situation for Tier 2 is that &#8220;No person may participate in a gathering in the Tier 2 area which consists of two or more people, and takes place indoors.” Tier 3 has at least the same restriction.
 

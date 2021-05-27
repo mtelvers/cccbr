@@ -1,20 +1,8 @@
 ---
-id: 14736
 title: Technical and Taxonomy
-date: 2018-12-04T21:58:09+00:00
+date: 2018-12-04 21:58:09.000000000 +00:00
 author: Louise Nightingale
 layout: single
-guid: /?page_id=14736
-classic-editor-remember:
-  - block-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450525"
 ---
 <div class="wp-block-getwid-section getwid-section-content-custom-width">
   <div class="wp-block-getwid-section__wrapper">

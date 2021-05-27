@@ -1,18 +1,13 @@
 ---
-id: 9970
-title: 'President&apos;s Blog - December 2015'
-date: 2015-12-23T17:05:18+00:00
+title: President&apos;s Blog - December 2015
+date: 2015-12-23 17:05:18.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9970
-permalink: /2015/12/23/presidents-blog-december-2015/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2015/12/23/presidents-blog-december-2015/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Right on the doorstep of Christmas I hope that this blog reaches you over the festive period and I will not repeat the “end of year” message in the RW issue of 18th December.
 

@@ -1,23 +1,18 @@
 ---
-id: 14467
-title: 'Ringing Remembers - October Update'
-date: 2018-10-31T12:07:58+00:00
+title: Ringing Remembers - October Update
+date: 2018-10-31 12:07:58.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14467
-permalink: /2018/10/31/ringing-remembers-october-update/
+permalink: "/2018/10/31/ringing-remembers-october-update/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2018/07/rrsmall-1.png
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/07/rrsmall-1.png"
 categories:
-  - Latest News
+- Latest News
 ---
 **Less than a month to go**
 

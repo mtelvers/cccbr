@@ -1,29 +1,20 @@
 ---
-id: 19301
 title: 'President&apos;s Blog #4'
-date: 2020-03-01T09:06:48+00:00
+date: 2020-03-01 09:06:48.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=19301
-permalink: /2020/03/01/presidents-blog-4/
+permalink: "/2020/03/01/presidents-blog-4/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"19303";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449457"
-image: /wp-content/uploads/2020/03/bradfield.jpg
+- '1'
+image: "/wp-content/uploads/2020/03/bradfield.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Half term was a good opportunity to get out and about and Monday evening was a trip to Stone (nr Dursley) to meet the _Let’s Ring!_ group. This young ringers group, featured on the back of a recent Ringing World, is in its 3<sup>rd</sup> year of recruiting youngsters from the local area, with a high retention rate, good ringing progress, and a commendable focus on striking. Catherine White Horne is doing a fantastic job. My daughter Charlie and I were made very welcome. I have never seen so many smileys and exclamation marks in quarter peal reports!!! 😊
 

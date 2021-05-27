@@ -1,14 +1,12 @@
 ---
-id: 8351
 title: YMSCR Response to the Archbishop of York’s statement
-date: 2016-10-21T16:00:50+00:00
+date: 2016-10-21 16:00:50.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=8351
-permalink: /2016/10/21/ymscr-response-to-the-archbishop-of-yorks-statement/
-image: /wp-content/uploads/2015/10/latest_news-e1488532238309.jpg
+permalink: "/2016/10/21/ymscr-response-to-the-archbishop-of-yorks-statement/"
+image: "/wp-content/uploads/2015/10/latest_news-e1488532238309.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The Archbishop of York, Dr John Sentamu, delivered a statement regarding the York Minster bell ringers.
 

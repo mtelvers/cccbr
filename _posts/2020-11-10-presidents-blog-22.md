@@ -1,29 +1,17 @@
 ---
-id: 21817
 title: 'President&apos;s Blog #22'
-date: 2020-11-10T23:34:03+00:00
+date: 2020-11-10 23:34:03.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=21817
-permalink: /2020/11/10/presidents-blog-22/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"21821";}'
+permalink: "/2020/11/10/presidents-blog-22/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450343"
-image: /wp-content/uploads/2020/11/Littleport-1.jpg
+- '1'
+image: "/wp-content/uploads/2020/11/Littleport-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 The ‘Cast of 1000’ was introduced in the Council’s Strategic Priorities document that was produced early in the year. The idea is to establish a roster of 1000 experienced ringers who are prepared to go to one additional practice a month provided it is reliably organised, well run, and for some folks’ specific benefit. It is an idea specifically aimed at middle and upper reaches of the ‘Red Zone’ where many aspiring ringers are getting stuck for opportunities. 1000 ringers could deliver 30 additional practices every Saturday and only have to go once a month each. It is an idea that has College Youth and Cumberland support in principle but which was put on the backburner when ringing stopped.
 

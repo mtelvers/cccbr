@@ -1,31 +1,20 @@
 ---
-id: 19106
 title: Captain’s Blog, Stardate 2020.2.15
-date: 2020-02-16T13:49:47+00:00
+date: 2020-02-16 13:49:47.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=19106
-permalink: /2020/02/16/captains-blog-stardate-2020-2-15/
+permalink: "/2020/02/16/captains-blog-stardate-2020-2-15/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"19108";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450160"
-classic-editor-remember:
-  - classic-editor
-image: /wp-content/uploads/2020/02/51OLkgDpxCL.jpg
+- '1'
+image: "/wp-content/uploads/2020/02/51OLkgDpxCL.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 _In Search of Excellence_, by Tom Peters, had a profound effect on my life. I read it in my final year at university instead of reading the books about Electronic Engineering that would have got me a better degree. This seminal work on business management made me pursue a career in business rather than engineering.
 

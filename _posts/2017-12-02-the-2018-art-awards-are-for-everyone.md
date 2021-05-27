@@ -1,29 +1,18 @@
 ---
-id: 11828
 title: The 2018 ART Awards are for everyone!!
-date: 2017-12-02T14:45:46+00:00
+date: 2017-12-02 14:45:46.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11828
-permalink: /2017/12/02/the-2018-art-awards-are-for-everyone/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2017/12/02/the-2018-art-awards-are-for-everyone/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449094"
-image: /wp-content/uploads/2017/12/art-awards_small.png
+- '0'
+- '0'
+image: "/wp-content/uploads/2017/12/art-awards_small.png"
 categories:
-  - Latest News
+- Latest News
 ---
 **The 2018 ART Awards**
 

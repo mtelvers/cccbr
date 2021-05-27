@@ -1,29 +1,17 @@
 ---
-id: 21322
 title: 'President&apos;s Blog #17'
-date: 2020-09-01T22:08:19+00:00
+date: 2020-09-01 22:08:19.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=21322
-permalink: /2020/09/01/presidents-blog-17/
-classic-editor-remember:
-  - block-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"21324";}'
+permalink: "/2020/09/01/presidents-blog-17/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450485"
-image: /wp-content/uploads/2020/09/CovidSelected_Page_1.jpg
+- '1'
+image: "/wp-content/uploads/2020/09/CovidSelected_Page_1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 We have a few ‘Situations Vacant’ coming up which will give more people the opportunity to help with the Council’s work. Some of these will be announced after the forthcoming AGM but for now we are looking at establishing an ‘Events Management’ team, which can take care of organising ringing events. This is actually going to be a joint appointment with ART, as the two organisations have some similar events and would benefit from co-ordination. We are looking for people to be in a small team that will develop this expertise and work with local organisers on such events. So if organising things is your bag, please let us know.
 

@@ -1,23 +1,18 @@
 ---
-id: 12819
 title: Armistice 100 featured on BBC Radio Essex
-date: 2018-03-28T17:34:28+00:00
+date: 2018-03-28 17:34:28.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12819
-permalink: /2018/03/28/armistice-100-featured-on-bbc-radio-essex/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2018/03/28/armistice-100-featured-on-bbc-radio-essex/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-image: /wp-content/uploads/2018/03/BB6E5BFE-CE38-40FE-B217-1688C562F136.jpeg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/03/BB6E5BFE-CE38-40FE-B217-1688C562F136.jpeg"
 categories:
-  - Latest News
+- Latest News
 ---
 A peal scored at Goldhanger in Essex was featured on Dave Monk’s BBC Radio Essex show.
 

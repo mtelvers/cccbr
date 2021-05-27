@@ -1,29 +1,17 @@
 ---
-id: 19512
 title: 'President&apos;s Blog #6'
-date: 2020-03-27T21:09:51+00:00
+date: 2020-03-27 21:09:51.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=19512
-permalink: /2020/03/27/presidents-blog-6/
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"19514";}'
+permalink: "/2020/03/27/presidents-blog-6/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449555"
-classic-editor-remember:
-  - classic-editor
-image: /wp-content/uploads/2020/03/Charmborough-peal.jpg
+- '1'
+image: "/wp-content/uploads/2020/03/Charmborough-peal.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 It seems almost incomprehensible that two weeks ago I was on my way to the ART Conference. We were saying then that if it had been the following week it might have been cancelled. By Sunday evening we realised that if it had been a day or two later it would have been cancelled. Ringing has of course been turned on its head.
 

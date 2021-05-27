@@ -1,24 +1,10 @@
 ---
-id: 33
 title: About the Council
-date: 2018-11-24T16:11:47+00:00
+date: 2018-11-24 16:11:47.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=33
-ep_tilt_migration:
-  - "1"
-classic-editor-remember:
-  - block-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450523"
 sidebar:
-  nav: "about"
+  nav: about
 toc: true
 ---
 The Council is the representative body for all who ring bells in the English tradition with rope and wheel. Founded in 1891, the Council today represents 65 [affiliated societies](/about/affiliated-societies/), which cover all parts of the British Isles as well as centres of ringing in Australia, New Zealand, Canada, the USA, South Africa and Italy. These societies in turn comprise the members of the local companies of ringers in their areas.

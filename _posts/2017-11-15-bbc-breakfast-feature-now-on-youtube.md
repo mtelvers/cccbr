@@ -1,17 +1,12 @@
 ---
-id: 11733
 title: BBC Breakfast Feature now on YouTube
-date: 2017-11-15T16:35:20+00:00
+date: 2017-11-15 16:35:20.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11733
-permalink: /2017/11/15/bbc-breakfast-feature-now-on-youtube/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/11/edington.jpg
+permalink: "/2017/11/15/bbc-breakfast-feature-now-on-youtube/"
+image: "/wp-content/uploads/2017/11/edington.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The feature on bell ringing that went out on BBC Breakfast during Remembrance weekend is now available on YouTube at the following link:
 

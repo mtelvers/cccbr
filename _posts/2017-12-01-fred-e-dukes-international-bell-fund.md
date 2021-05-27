@@ -1,17 +1,12 @@
 ---
-id: 11809
 title: Fred E. Dukes International Bell Fund
-date: 2017-12-01T22:00:35+00:00
+date: 2017-12-01 22:00:35.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11809
-permalink: /2017/12/01/fred-e-dukes-international-bell-fund/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+permalink: "/2017/12/01/fred-e-dukes-international-bell-fund/"
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <p align="LEFT">
   Applications are invited for grants from this Fund, which are paid only for work carried out by the UK bell founders and bell hangers on bell restoration projects in countries outside the UK and Ireland. Details of the allocation criteria and administration procedures and an application form are available from the Central Council website or direct from me.

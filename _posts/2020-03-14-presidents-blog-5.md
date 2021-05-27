@@ -1,29 +1,20 @@
 ---
-id: 19442
 title: 'President&apos;s Blog #5'
-date: 2020-03-14T09:44:41+00:00
+date: 2020-03-14 09:44:41.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=19442
-permalink: /2020/03/14/presidents-blog-5/
+permalink: "/2020/03/14/presidents-blog-5/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"18885";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450425"
-image: /wp-content/uploads/2020/01/art2020-1.png
+- '1'
+image: "/wp-content/uploads/2020/01/art2020-1.png"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 The Miley Cyrus seems to be dominating discussions and starting to affect our ringing activities. From Sunday ringing to striking competitions, questions are getting asked about what we should do. The Council has issued some guidance but we honestly can’t say any more than the CMO advice. I have seen some guilds have already cancelled events. The ART AGM is still on though, and I am looking forward to it this weekend.
 

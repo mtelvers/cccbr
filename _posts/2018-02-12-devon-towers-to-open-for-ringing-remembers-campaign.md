@@ -1,23 +1,12 @@
 ---
-id: 12442
 title: Devon towers to open for Ringing Remembers campaign
-date: 2018-02-12T22:56:46+00:00
+date: 2018-02-12 22:56:46.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12442
-permalink: /2018/02/12/devon-towers-to-open-for-ringing-remembers-campaign/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450395"
-image: /wp-content/uploads/2017/12/RR-newsletterimage-v1-240x240.jpg
+permalink: "/2018/02/12/devon-towers-to-open-for-ringing-remembers-campaign/"
+image: "/wp-content/uploads/2017/12/RR-newsletterimage-v1-240x240.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Four Devon towers are to open up to attract new ringers as part of the Ringing Remembers campaign. The campaign aims to recruit 1,400 new ringers in memory of those lost in WWI.
 

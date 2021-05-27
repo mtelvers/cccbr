@@ -1,23 +1,18 @@
 ---
-id: 13359
 title: Derbyshire joins campaign to recruit bellringers
-date: 2018-04-25T14:47:16+00:00
+date: 2018-04-25 14:47:16.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=13359
-permalink: /2018/04/25/derbyshire-joins-campaign-to-recruit-bellringers/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2018/04/25/derbyshire-joins-campaign-to-recruit-bellringers/"
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
+- '0'
+- '0'
 xyz_fbap:
-  - "1"
-  - "1"
-image: /wp-content/uploads/2018/04/bampton.jpg
+- '1'
+- '1'
+image: "/wp-content/uploads/2018/04/bampton.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 An article has appears in the Derbyshire Times about the Ringing Remembers campaign which may be of interest:
 

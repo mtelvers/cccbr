@@ -1,14 +1,10 @@
 ---
-id: 6345
 title: Members Help
-date: 2016-10-19T22:55:43+00:00
+date: 2016-10-19 22:55:43.000000000 +00:00
 author: Andrew Hall
 layout: single
-guid: http:///?page_id=6345
-wp_featherlight_disable:
-  - ""
 xyz_fbap:
-  - "1"
+- '1'
 ---
 The **Members** dataset defines people who are actual members of Council (or perform a service such as a Consultant to a committee). When adding a new member, all fields are available for input. Otherwise the form is displayed read-only with buttons **CHANGE ASSIGNMENT** and **CHANGE DETAILS** which will unlock appropriate fields.
 

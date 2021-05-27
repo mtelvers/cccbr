@@ -1,28 +1,16 @@
 ---
-id: 23387
 title: 'President&apos;s Blog #34'
-date: 2021-05-18T22:25:17+00:00
+date: 2021-05-18 22:25:17.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=23387
-permalink: /2021/05/18/presidents-blog-34/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"23389";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450537"
+permalink: "/2021/05/18/presidents-blog-34/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-image: /wp-content/uploads/2021/05/FtoF-Guest-publication.png
+- '1'
+image: "/wp-content/uploads/2021/05/FtoF-Guest-publication.png"
 categories:
-  - Blog
+- Blog
 ---
 17 May - a date that ringers in England particularly have been waiting for since it was announced as a key roadmap date many months ago. We seem to have had a narrow escape in the start of this ‘Rule of Six indoors’ phase which is going to enable so many ringers to get back to ringing, and the airwaves this morning (I am writing on Monday) are full of commentators at the science/health end of the spectrum urging caution and saying they themselves are not going to the pub. Hundreds if not thousands of communities are going to get a reminder of what their local bells sound like, and many of us will meet people who we have not seen in months.
 

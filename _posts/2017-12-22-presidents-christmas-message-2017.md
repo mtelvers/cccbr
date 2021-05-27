@@ -1,18 +1,13 @@
 ---
-id: 11991
-title: 'President&apos;s Christmas message 2017'
-date: 2017-12-22T01:00:31+00:00
+title: President&apos;s Christmas message 2017
+date: 2017-12-22 01:00:31.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11991
-permalink: /2017/12/22/presidents-christmas-message-2017/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/12/Harrow-snow.jpg
+permalink: "/2017/12/22/presidents-christmas-message-2017/"
+image: "/wp-content/uploads/2017/12/Harrow-snow.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 **“…Nor all the steeple-shaking bells can with this single truth compare… “** _(with thanks to Sir John Betjeman)_
 

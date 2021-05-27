@@ -1,29 +1,17 @@
 ---
-id: 22993
 title: 'President&apos;s Blog #31'
-date: 2021-04-06T21:08:41+00:00
+date: 2021-04-06 21:08:41.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22993
-permalink: /2021/04/06/presidents-blog-31/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"22995";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450380"
+permalink: "/2021/04/06/presidents-blog-31/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-image: /wp-content/uploads/2021/04/RR-Certificate-First-scaled.jpg
+- '1'
+image: "/wp-content/uploads/2021/04/RR-Certificate-First-scaled.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 About 15 years ago, the roof of Grade I listed Calke Abbey was re-configured and connected to new, bigger, drainpipes because it was no longer coping with increased levels of storm rainfall. It was the first time listed building consent was granted to a Grade I listed building for alterations brought about as a result of climate change. English Heritage (as it was then) revised its definition of ‘conservation’ at the same time to be about managing change rather than conserving things as they are.
 

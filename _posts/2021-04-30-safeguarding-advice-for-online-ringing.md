@@ -1,28 +1,16 @@
 ---
-id: 23174
 title: Safeguarding advice for online ringing
-date: 2021-04-30T19:28:57+00:00
+date: 2021-04-30 19:28:57.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=23174
-permalink: /2021/04/30/safeguarding-advice-for-online-ringing/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450495"
+permalink: "/2021/04/30/safeguarding-advice-for-online-ringing/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-image: /wp-content/uploads/2021/04/Safeguarding-Best-Practice-Guidance.jpg
+- '1'
+image: "/wp-content/uploads/2021/04/Safeguarding-Best-Practice-Guidance.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Even as lockdowns wane, online ringing is probably here to stay. This new platform has afforded many opportunities for ringing, learning, and meeting up, but obviously raises some concerns about the ways it can make younger ringers vulnerable.
 

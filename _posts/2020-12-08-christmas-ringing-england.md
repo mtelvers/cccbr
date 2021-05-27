@@ -1,27 +1,15 @@
 ---
-id: 22067
-title: 'Christmas ringing - England'
-date: 2020-12-08T20:56:28+00:00
+title: Christmas ringing - England
+date: 2020-12-08 20:56:28.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22067
-permalink: /2020/12/08/christmas-ringing-england/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
+permalink: "/2020/12/08/christmas-ringing-england/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450319"
+- '1'
 categories:
-  - Latest News
+- Latest News
 ---
 We have agreed with the House of Bishops Covid recovery team that an exception should be made to the current ringing guidance across all Tiers in England for those bands that wish to ring for services over Christmas, in the period where the household restrictions are also being lifted. This will allow bells to be rung for services over that period, or as otherwise agreed with Incumbent or Churchwardens. The five day overall relaxation includes Sunday 27th.
 

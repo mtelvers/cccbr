@@ -1,21 +1,17 @@
 ---
-id: 15169
-title: 'London 2019 Annual Meeting - Accommodation booking now open'
-date: 2019-02-27T17:56:48+00:00
+title: London 2019 Annual Meeting - Accommodation booking now open
+date: 2019-02-27 17:56:48.000000000 +00:00
 author: Doug Davis
-excerpt: '						'
+excerpt: "\t\t\t\t\t\t"
 layout: single
-guid: /?p=15169
-permalink: /2019/02/27/london-2019-annual-meeting-accommodation-booking-now-open/
-wp_featherlight_disable:
-  - ""
+permalink: "/2019/02/27/london-2019-annual-meeting-accommodation-booking-now-open/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2019/02/Goldsmiths_London.jpg
+- '0'
+image: "/wp-content/uploads/2019/02/Goldsmiths_London.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The 2019 Council weekend will take place at Goldsmiths College, New Cross, London, SE14 6NW on Friday 6<sup>th</sup> to Sunday 8th September.
 

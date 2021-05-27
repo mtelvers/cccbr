@@ -1,20 +1,16 @@
 ---
-id: 17223
 title: Grant nominations now open!
-date: 2019-05-02T12:07:52+00:00
+date: 2019-05-02 12:07:52.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=15542
-permalink: /2019/05/02/grant-nominations-now-open/
-wp_featherlight_disable:
-  - ""
+permalink: "/2019/05/02/grant-nominations-now-open/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2019/05/Ecclesiastical-movement-for-good.png
+- '0'
+image: "/wp-content/uploads/2019/05/Ecclesiastical-movement-for-good.png"
 categories:
-  - Latest News
+- Latest News
 ---
 The Ecclesiastical Insurance &#8220;movement for good&#8221; grants are now open for nominations.  Please consider nominating CCCBR for a grant, using this link:
 

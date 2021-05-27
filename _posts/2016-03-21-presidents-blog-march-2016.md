@@ -1,24 +1,13 @@
 ---
-id: 9968
-title: 'President&apos;s Blog - March 2016'
-date: 2016-03-21T17:03:11+00:00
+title: President&apos;s Blog - March 2016
+date: 2016-03-21 17:03:11.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9968
-permalink: /2016/03/21/presidents-blog-march-2016/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449855"
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2016/03/21/presidents-blog-march-2016/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Missing blogs for 2016 – yes, it’s been a bit hectic even after having an extra day in February!
 

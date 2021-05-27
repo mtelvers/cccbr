@@ -1,21 +1,17 @@
 ---
-id: 17225
 title: This week in The Ringing World
-date: 2019-05-19T15:44:58+00:00
+date: 2019-05-19 15:44:58.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=15618
-permalink: /2019/05/19/this-week-in-the-ringing-world-3/
-wp_featherlight_disable:
-  - ""
+permalink: "/2019/05/19/this-week-in-the-ringing-world-3/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2019/05/RW-Facebook-logo-1.jpg
+- '0'
+image: "/wp-content/uploads/2019/05/RW-Facebook-logo-1.jpg"
 categories:
-  - Latest News
-  - Ringing World
+- Latest News
+- Ringing World
 ---
 Coming in this week’s edition of <a href="https://www.ringingworld.co.uk" target="_blank" rel="noopener noreferrer">The Ringing World</a>:
 

@@ -1,16 +1,8 @@
 ---
-id: 17205
 title: Library Publications
-date: 2019-05-31T22:39:18+00:00
+date: 2019-05-31 22:39:18.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=17205
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450511"
 ---
 The publications listed below can be purchased by completing an order form available here: (<a href="https://cccbr.org.uk/wp-content/uploads/2020/05/Central-Council-Library-Publications-2020-v2.pdf" target="_blank" rel="noopener noreferrer">PDF</a>) ([DOCX](https://cccbr.org.uk/wp-content/uploads/2020/05/Central-Council-Library-Publications-2020-v2.docx))
 

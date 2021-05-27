@@ -1,14 +1,10 @@
 ---
-id: 6330
 title: People Help
-date: 2016-10-19T19:28:57+00:00
+date: 2016-10-19 19:28:57.000000000 +00:00
 author: Andrew Hall
 layout: single
-guid: http:///?page_id=6330
-wp_featherlight_disable:
-  - ""
 xyz_fbap:
-  - "1"
+- '1'
 ---
 The **People** dataset defines people, together with their contact details. There are actually two underlying tables (person and address) but that should not be of any direct concern.
 

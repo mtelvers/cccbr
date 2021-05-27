@@ -1,16 +1,8 @@
 ---
-id: 15210
 title: Accessibility
-date: 2019-02-13T17:10:54+00:00
+date: 2019-02-13 17:10:54.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=15210
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450112"
 ---
 We have designed the Central Council&apos;s website to be as accessible as possible. The website is responsive, so should display well on all smartphones and tablets.
 

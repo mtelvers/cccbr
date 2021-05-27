@@ -1,17 +1,12 @@
 ---
-id: 11128
-title: 'President&apos;s call for volunteers for reform workgroups'
-date: 2017-09-14T23:38:21+00:00
+title: President&apos;s call for volunteers for reform workgroups
+date: 2017-09-14 23:38:21.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11128
-permalink: /2017/09/14/presidents-call-for-volunteers-for-reform-workgroups/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/05/crag.jpg
+permalink: "/2017/09/14/presidents-call-for-volunteers-for-reform-workgroups/"
+image: "/wp-content/uploads/2017/05/crag.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 **Will** **YOU** **help?**
 

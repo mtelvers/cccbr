@@ -1,28 +1,16 @@
 ---
-id: 23211
 title: 'President&apos;s Blog #33'
-date: 2021-05-04T21:36:40+00:00
+date: 2021-05-04 21:36:40.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=23211
-permalink: /2021/05/04/presidents-blog-33/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"23213";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450525"
+permalink: "/2021/05/04/presidents-blog-33/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-image: /wp-content/uploads/2021/05/OBL.jpg
+- '1'
+image: "/wp-content/uploads/2021/05/OBL.jpg"
 categories:
-  - Blog
+- Blog
 ---
 If you wanted to design an ideal ringing training centre you could do worse than put six training bells in a barn in the backyard of a historic real ale pub, with a light eight in the church next door, five minutes’ walk from a mainline railway station, and all owned by one of your strategic partners. Well, a certain cat is out of a certain bag. We have been working on the National Ringing Centre or ‘NaRC’ for 18 months but keeping quiet about it because it was by no means certain. However Peter Aiers, Chief Executive of the Churches Conservation Trust gave a talk about the future of the Old Black Lion in Northampton (next door to St Peter&apos;s) and revealed the plans to have ringing as a centrepiece of the plans for their building’s regeneration.
 

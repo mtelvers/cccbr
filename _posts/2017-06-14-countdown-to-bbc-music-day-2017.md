@@ -1,23 +1,18 @@
 ---
-id: 10555
 title: Countdown to BBC Music Day 2017
-date: 2017-06-14T08:10:40+00:00
+date: 2017-06-14 08:10:40.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10555
-permalink: /2017/06/14/countdown-to-bbc-music-day-2017/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2017/06/14/countdown-to-bbc-music-day-2017/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-image: /wp-content/uploads/2017/04/bbcmusic_news.png
+- '0'
+- '0'
+image: "/wp-content/uploads/2017/04/bbcmusic_news.png"
 categories:
-  - Latest News
+- Latest News
 ---
 <p style="text-align: center;">
   <a href="https://cccbr.org.uk/wp-content/uploads/2017/05/BBC-Music-Day-Article-Backdrop.jpg"><img loading="lazy" class="alignnone size-thumbnail wp-image-10207" src="https://cccbr.org.uk/wp-content/uploads/2017/05/BBC-Music-Day-Article-Backdrop-150x150.jpg" alt="" width="150" height="150" srcset="https://cccbr.org.uk/wp-content/uploads/2017/05/BBC-Music-Day-Article-Backdrop-150x150.jpg 150w, https://cccbr.org.uk/wp-content/uploads/2017/05/BBC-Music-Day-Article-Backdrop-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>

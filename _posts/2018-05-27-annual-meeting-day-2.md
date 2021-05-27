@@ -1,23 +1,18 @@
 ---
-id: 13579
-title: 'Annual Meeting - Day 2'
-date: 2018-05-27T10:52:30+00:00
+title: Annual Meeting - Day 2
+date: 2018-05-27 10:52:30.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=13579
-permalink: /2018/05/27/annual-meeting-day-2/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2018/05/27/annual-meeting-day-2/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-  - "1"
-image: /wp-content/uploads/2018/05/WhatsApp-Image-2018-05-27-at-10.44.13.jpeg
+- '1'
+- '1'
+image: "/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-27-at-10.44.13.jpeg"
 categories:
-  - Latest News
+- Latest News
 ---
 Some photos from Day 2 of the Annual Meeting in Lancaster – more may be added later, so watch this space….
 

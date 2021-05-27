@@ -1,29 +1,19 @@
 ---
-id: 14600
-title: “We remembered” – a message from the President of the Central Council of Church Bell Ringers
-date: 2018-11-20T08:55:19+00:00
+title: "“We remembered” – a message from the President of the Central Council of Church
+  Bell Ringers"
+date: 2018-11-20 08:55:19.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14600
-permalink: /2018/11/20/we-remembered-a-message-from-the-president-of-the-central-council-of-church-bell-ringers/
+permalink: "/2018/11/20/we-remembered-a-message-from-the-president-of-the-central-council-of-church-bell-ringers/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449170"
-image: /wp-content/uploads/2017/07/CDO-Harrow-Bell.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2017/07/CDO-Harrow-Bell.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <p style="text-align: center;">
   <a href="https://cccbr.org.uk/wp-content/uploads/2017/07/CDO-Harrow-Bell.jpg"><img loading="lazy" class="alignnone size-medium wp-image-10851" src="https://cccbr.org.uk/wp-content/uploads/2017/07/CDO-Harrow-Bell-214x300.jpg" alt="" width="214" height="300" srcset="https://cccbr.org.uk/wp-content/uploads/2017/07/CDO-Harrow-Bell-214x300.jpg 214w, https://cccbr.org.uk/wp-content/uploads/2017/07/CDO-Harrow-Bell-768x1078.jpg 768w, https://cccbr.org.uk/wp-content/uploads/2017/07/CDO-Harrow-Bell-730x1024.jpg 730w, https://cccbr.org.uk/wp-content/uploads/2017/07/CDO-Harrow-Bell-300x421.jpg 300w, https://cccbr.org.uk/wp-content/uploads/2017/07/CDO-Harrow-Bell-600x842.jpg 600w, https://cccbr.org.uk/wp-content/uploads/2017/07/CDO-Harrow-Bell.jpg 1435w" sizes="(max-width: 214px) 100vw, 214px" /></a>

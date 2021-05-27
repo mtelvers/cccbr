@@ -1,20 +1,16 @@
 ---
-id: 13681
-title: 'President&apos;s blog June 2018 - what happens now'
-date: 2018-06-07T12:50:21+00:00
+title: President&apos;s blog June 2018 - what happens now
+date: 2018-06-07 12:50:21.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=13681
-permalink: /2018/06/07/presidents-blog-june-2018-what-happens-now/
-wp_featherlight_disable:
-  - ""
+permalink: "/2018/06/07/presidents-blog-june-2018-what-happens-now/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2017/07/blog-1-e1579720566316.jpg
+- '0'
+image: "/wp-content/uploads/2017/07/blog-1-e1579720566316.jpg"
 categories:
-  - Blog
+- Blog
 ---
 **Central Council reform – what happens now**
 

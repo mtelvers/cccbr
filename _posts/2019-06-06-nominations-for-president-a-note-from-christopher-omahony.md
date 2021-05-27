@@ -1,22 +1,19 @@
 ---
-id: 17294
-title: 'Nominations for President - a note from Christopher O&apos;Mahony'
-date: 2019-06-06T21:01:16+00:00
+title: Nominations for President - a note from Christopher O&apos;Mahony
+date: 2019-06-06 21:01:16.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=17294
-permalink: /2019/06/06/nominations-for-president-a-note-from-christopher-omahony/
+permalink: "/2019/06/06/nominations-for-president-a-note-from-christopher-omahony/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2018/12/CDO_Swan_2018-3.jpg
+- '0'
+image: "/wp-content/uploads/2018/12/CDO_Swan_2018-3.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Today CCCBR Secretary Mary Bone has circulated the formal notice of our 2019 Annual Meeting.
 

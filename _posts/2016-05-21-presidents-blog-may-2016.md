@@ -1,18 +1,13 @@
 ---
-id: 9966
-title: 'President&apos;s Blog - May 2016'
-date: 2016-05-21T16:42:49+00:00
+title: President&apos;s Blog - May 2016
+date: 2016-05-21 16:42:49.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9966
-permalink: /2016/05/21/presidents-blog-may-2016/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2016/05/21/presidents-blog-may-2016/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Not intentionally but this is the second blog which has slipped to bi-monthly, just too much going on.
 

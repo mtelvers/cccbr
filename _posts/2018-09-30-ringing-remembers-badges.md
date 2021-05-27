@@ -1,29 +1,18 @@
 ---
-id: 14360
 title: Ringing Remembers Badges
-date: 2018-09-30T18:26:32+00:00
+date: 2018-09-30 18:26:32.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14360
-permalink: /2018/09/30/ringing-remembers-badges/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2018/09/30/ringing-remembers-badges/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449632"
-image: /wp-content/uploads/2018/09/rr_badge.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/09/rr_badge.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 **<img loading="lazy" class="aligncenter wp-image-14361 size-medium" src="https://cccbr.org.uk/wp-content/uploads/2018/09/1E1FAC3B-0147-4F30-B313-4757A1725DEC-300x300.jpeg" alt="" width="300" height="300" srcset="https://cccbr.org.uk/wp-content/uploads/2018/09/1E1FAC3B-0147-4F30-B313-4757A1725DEC-300x300.jpeg 300w, https://cccbr.org.uk/wp-content/uploads/2018/09/1E1FAC3B-0147-4F30-B313-4757A1725DEC-150x150.jpeg 150w, https://cccbr.org.uk/wp-content/uploads/2018/09/1E1FAC3B-0147-4F30-B313-4757A1725DEC.jpeg 768w, https://cccbr.org.uk/wp-content/uploads/2018/09/1E1FAC3B-0147-4F30-B313-4757A1725DEC-600x600.jpeg 600w, https://cccbr.org.uk/wp-content/uploads/2018/09/1E1FAC3B-0147-4F30-B313-4757A1725DEC-100x100.jpeg 100w" sizes="(max-width: 300px) 100vw, 300px" />**
 

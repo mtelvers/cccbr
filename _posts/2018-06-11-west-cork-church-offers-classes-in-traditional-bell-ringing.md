@@ -1,23 +1,18 @@
 ---
-id: 13704
 title: West Cork church offers classes in traditional bell-ringing
-date: 2018-06-11T13:12:25+00:00
+date: 2018-06-11 13:12:25.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=13704
-permalink: /2018/06/11/west-cork-church-offers-classes-in-traditional-bell-ringing/
+permalink: "/2018/06/11/west-cork-church-offers-classes-in-traditional-bell-ringing/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2018/06/stMarysChurchDunmanwayBellRinging_large.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/06/stMarysChurchDunmanwayBellRinging_large.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The following article appears in the Irish Examiner today about Dunmanway, where a new ring was installed in 2017:
 

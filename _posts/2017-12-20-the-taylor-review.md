@@ -1,17 +1,12 @@
 ---
-id: 11997
 title: The Taylor Review
-date: 2017-12-20T19:43:29+00:00
+date: 2017-12-20 19:43:29.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11997
-permalink: /2017/12/20/the-taylor-review/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+permalink: "/2017/12/20/the-taylor-review/"
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Please see the below link to an independent review, chaired by Bernard Taylor, into the sustainability of Church of England Church and Cathedral buildings.
 

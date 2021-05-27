@@ -1,22 +1,8 @@
 ---
-id: 20082
 title: 2020 Annual Meeting
-date: 2020-05-14T12:49:20+00:00
+date: 2020-05-14 12:49:20.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=20082
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-ep_tilt_migration:
-  - "1"
-classic-editor-remember:
-  - classic-editor
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450514"
 ---
 The 123rd Annual meeting of the Central Council will be unlike any that has gone before. As with all other large gatherings and meetings we are going to have to manage with an event which is either wholly or largely virtual. We are currently investigating the best virtual platform to use and the degree (if any) to which a physical presence might be appropriate.
 

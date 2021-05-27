@@ -1,28 +1,16 @@
 ---
-id: 21424
-title: 'Women in Ringing - first 50 stories'
-date: 2020-09-13T12:43:49+00:00
+title: Women in Ringing - first 50 stories
+date: 2020-09-13 12:43:49.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=21424
-permalink: /2020/09/13/women-in-ringing-first-50-stories/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"21426";}'
+permalink: "/2020/09/13/women-in-ringing-first-50-stories/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450212"
-image: /wp-content/uploads/2020/09/File_001.png
+- '1'
+image: "/wp-content/uploads/2020/09/File_001.png"
 categories:
-  - Latest News
+- Latest News
 ---
 More than 50 women ringers have now posted stories on the ‘<a href="https://www.womeninringing.info/" target="_blank" rel="noopener noreferrer">Women in Ringing</a>’ website, and the research project is now looking for even more. The stories are starting to paint a picture of the level of gender imbalance in ringing both now and in the past and are an important part of building up an understanding about whether gender does influence progress in ringing.
 

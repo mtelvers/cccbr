@@ -1,29 +1,17 @@
 ---
-id: 22722
 title: 'President&apos;s Blog #28'
-date: 2021-02-23T23:18:23+00:00
+date: 2021-02-23 23:18:23.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22722
-permalink: /2021/02/23/presidents-blog-28/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"22724";}'
+permalink: "/2021/02/23/presidents-blog-28/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450442"
-image: /wp-content/uploads/2021/02/Stone.jpg
+- '1'
+image: "/wp-content/uploads/2021/02/Stone.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 I have got over my daughter Charlie using the term “the olden days” for anything earlier than about 1980, even if for me the olden days would be those of Bill Pye or James George. I don’t think hearing ringers over the age of 25 described this week as “oldies” helped either. However 25 is the upper age limit for the proposed young ringers’ organisation that is currently being put together and consulted on.
 

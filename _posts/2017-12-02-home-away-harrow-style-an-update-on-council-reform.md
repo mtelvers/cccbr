@@ -1,17 +1,12 @@
 ---
-id: 11835
-title: 'Home & Away Harrow Style- an update on Council reform'
-date: 2017-12-02T20:31:54+00:00
+title: Home & Away Harrow Style- an update on Council reform
+date: 2017-12-02 20:31:54.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11835
-permalink: /2017/12/02/home-away-harrow-style-an-update-on-council-reform/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/12/Away_Day_27_Oct_17.jpg
+permalink: "/2017/12/02/home-away-harrow-style-an-update-on-council-reform/"
+image: "/wp-content/uploads/2017/12/Away_Day_27_Oct_17.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <figure id="attachment_11836" aria-describedby="caption-attachment-11836" style="width: 2550px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-11836" src="https://cccbr.org.uk/wp-content/uploads/2017/12/Away_Day_27_Oct_17.jpg" alt="" width="2560" height="1440" srcset="https://cccbr.org.uk/wp-content/uploads/2017/12/Away_Day_27_Oct_17.jpg 2560w, https://cccbr.org.uk/wp-content/uploads/2017/12/Away_Day_27_Oct_17-300x169.jpg 300w, https://cccbr.org.uk/wp-content/uploads/2017/12/Away_Day_27_Oct_17-768x432.jpg 768w, https://cccbr.org.uk/wp-content/uploads/2017/12/Away_Day_27_Oct_17-1024x576.jpg 1024w, https://cccbr.org.uk/wp-content/uploads/2017/12/Away_Day_27_Oct_17-600x338.jpg 600w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption id="caption-attachment-11836" class="wp-caption-text">At the Executive away-day. Back Row: Ernie de Legh-Runciman, Andy Smith, David Smith (via skype), David Kirkcaldy, Phil Barnes. Front Row: Alison Everett, Mary Bone, Christopher O’Mahony, Caroline Stockmann, Carol Franklin.</figcaption></figure> 
 

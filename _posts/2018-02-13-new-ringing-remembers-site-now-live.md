@@ -1,17 +1,12 @@
 ---
-id: 12450
 title: New Ringing Remembers site now LIVE!
-date: 2018-02-13T10:29:05+00:00
+date: 2018-02-13 10:29:05.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12450
-permalink: /2018/02/13/new-ringing-remembers-site-now-live/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/12/RR-newsletterimage-v1-240x240.jpg
+permalink: "/2018/02/13/new-ringing-remembers-site-now-live/"
+image: "/wp-content/uploads/2017/12/RR-newsletterimage-v1-240x240.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The <a href="/ringingremembers/?rf=32" target="_blank" rel="noopener">Armistice 100 Ringing Remembers website</a> is now open.
 

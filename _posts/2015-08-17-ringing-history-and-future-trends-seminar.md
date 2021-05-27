@@ -1,23 +1,12 @@
 ---
-id: 157
 title: Ringing History and Future Trends Seminar
-date: 2015-08-17T16:23:41+00:00
+date: 2015-08-17 16:23:41.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=157
-permalink: /2015/08/17/ringing-history-and-future-trends-seminar/
-colormag_page_layout:
-  - default_layout
-  - default_layout
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450111"
-image: /wp-content/uploads/2015/08/wellesbourne-1.jpg
+permalink: "/2015/08/17/ringing-history-and-future-trends-seminar/"
+image: "/wp-content/uploads/2015/08/wellesbourne-1.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <h1 align="center">
   <strong>Ringing History and Future Trends</strong>

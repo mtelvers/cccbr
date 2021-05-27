@@ -1,20 +1,8 @@
 ---
-id: 23126
 title: 'Wales Guidance: moving to Alert Level 3 from 3 May onwards'
-date: 2021-04-29T11:47:05+00:00
+date: 2021-04-29 11:47:05.000000000 +00:00
 author: Mark Elvers
 layout: single
-guid: /?page_id=23126
-classic-editor-remember:
-  - block-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450523"
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

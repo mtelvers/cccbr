@@ -1,17 +1,12 @@
 ---
-id: 12165
 title: Revised CC Rules – Consultation Closes 12th January
-date: 2018-01-09T22:37:15+00:00
+date: 2018-01-09 22:37:15.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12165
-permalink: /2018/01/09/revised-cc-rules-consultation-closes-12th-january/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/09/ruleslogo.png
+permalink: "/2018/01/09/revised-cc-rules-consultation-closes-12th-january/"
+image: "/wp-content/uploads/2017/09/ruleslogo.png"
 categories:
-  - Latest News
+- Latest News
 ---
 The second draft of the Central Council’s revised rules (its constitution) were published for consultation on 15<sup>th</sup> December.
 

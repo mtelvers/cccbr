@@ -1,30 +1,19 @@
 ---
-id: 14527
 title: We Remember
-date: 2018-11-08T20:46:46+00:00
+date: 2018-11-08 20:46:46.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14527
-permalink: /2018/11/08/we-remember/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2018/11/08/we-remember/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449170"
-image: /wp-content/uploads/2018/09/rr_badge.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/09/rr_badge.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 **A message for change ringers everywhere**
 

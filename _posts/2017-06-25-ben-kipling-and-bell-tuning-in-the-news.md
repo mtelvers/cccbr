@@ -1,17 +1,12 @@
 ---
-id: 10631
 title: Ben Kipling and bell tuning in the news!
-date: 2017-06-25T23:16:19+00:00
+date: 2017-06-25 23:16:19.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10631
-permalink: /2017/06/25/ben-kipling-and-bell-tuning-in-the-news/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/06/Ben-Kipling.jpg
+permalink: "/2017/06/25/ben-kipling-and-bell-tuning-in-the-news/"
+image: "/wp-content/uploads/2017/06/Ben-Kipling.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Read this lovely interview with our very own Ben in the Spitalfields Life:
 

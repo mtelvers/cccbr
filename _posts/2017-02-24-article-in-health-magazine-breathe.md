@@ -1,17 +1,12 @@
 ---
-id: 9516
 title: Article in health magazine “Breathe”
-date: 2017-02-24T11:42:41+00:00
+date: 2017-02-24 11:42:41.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9516
-permalink: /2017/02/24/article-in-health-magazine-breathe/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/02/breathe.jpg
+permalink: "/2017/02/24/article-in-health-magazine-breathe/"
+image: "/wp-content/uploads/2017/02/breathe.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 An article in health magazine “Breathe” outlines the health benefits of ringing, saying “_While it’s historically been associated in the West as a means of calling the faithful to worship, campanology has also become a sociable way of getting fit”_.  Shame about the picture.
 

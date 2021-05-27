@@ -1,17 +1,12 @@
 ---
-id: 5141
-title: 'In Memoriam - Brian David Threlfall'
-date: 2016-06-03T17:24:52+00:00
+title: In Memoriam - Brian David Threlfall
+date: 2016-06-03 17:24:52.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=5141
-permalink: /2016/06/03/in-memoriam-brian-david-threlfall/
-catchbox-sidebarlayout:
-  - default
-  - default
-image: /wp-content/uploads/2016/05/inmemoriam.jpg
+permalink: "/2016/06/03/in-memoriam-brian-david-threlfall/"
+image: "/wp-content/uploads/2016/05/inmemoriam.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
   * Represented the Cambridge University Guild from 1954 - 1984,  
     Honorary Member 1984 - 1990,  

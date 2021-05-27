@@ -1,23 +1,18 @@
 ---
-id: 13890
 title: Government Announcement of Armistice plans
-date: 2018-07-13T10:19:27+00:00
+date: 2018-07-13 10:19:27.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=13890
-permalink: /2018/07/13/government-announcement-of-armistice-plans/
+permalink: "/2018/07/13/government-announcement-of-armistice-plans/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2018/04/WWI-soldiers-ringing_small.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/04/WWI-soldiers-ringing_small.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <p style="text-align: center;">
   <a href="https://cccbr.org.uk/wp-content/uploads/2018/07/dcms-logo.jpg"><img loading="lazy" class="alignnone size-medium wp-image-13891" src="https://cccbr.org.uk/wp-content/uploads/2018/07/dcms-logo-300x211.jpg" alt="" width="300" height="211" srcset="https://cccbr.org.uk/wp-content/uploads/2018/07/dcms-logo-300x211.jpg 300w, https://cccbr.org.uk/wp-content/uploads/2018/07/dcms-logo.jpg 322w" sizes="(max-width: 300px) 100vw, 300px" /></a>

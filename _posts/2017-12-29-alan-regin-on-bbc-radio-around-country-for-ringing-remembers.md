@@ -1,17 +1,12 @@
 ---
-id: 12077
 title: Alan Regin on BBC Radio around country for Ringing Remembers!
-date: 2017-12-29T20:20:47+00:00
+date: 2017-12-29 20:20:47.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12077
-permalink: /2017/12/29/alan-regin-on-bbc-radio-around-country-for-ringing-remembers/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/12/RR-newsletterimage-v1-240x240.jpg
+permalink: "/2017/12/29/alan-regin-on-bbc-radio-around-country-for-ringing-remembers/"
+image: "/wp-content/uploads/2017/12/RR-newsletterimage-v1-240x240.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Alan was interviewed for the following BBC radio stations this morning: Wiltshire, Northamptonshire, Channel Islands, Gloucestershire, 3 Counties (Bed, Herts, Bucks), Cornwall, Surrey & Sussex, Humberside, Leeds, Lincolnshire and Devon. Between 8-10am. Some live and some recorded and do not yet have links - but you may like to search your local station’s replay function.
 

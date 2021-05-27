@@ -1,23 +1,18 @@
 ---
-id: 13906
 title: Ringing Remembers on ITV Meridian News
-date: 2018-07-18T11:06:51+00:00
+date: 2018-07-18 11:06:51.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=13906
-permalink: /2018/07/18/ringing-remembers-on-itv-meridian-news/
+permalink: "/2018/07/18/ringing-remembers-on-itv-meridian-news/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2018/07/brede_1.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2018/07/brede_1.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 UPDATE: Clip now available to view: <a href="http://www.itv.com/news/meridian/2018-07-19/bells-will-ring-put-to-mark-100-years-since-armistice-day/" target="_blank" rel="noopener">http://www.itv.com/news/meridian/2018-07-19/bells-will-ring-put-to-mark-100-years-since-armistice-day/</a>
 

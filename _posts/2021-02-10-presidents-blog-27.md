@@ -1,29 +1,17 @@
 ---
-id: 22609
 title: 'President&apos;s Blog #27'
-date: 2021-02-10T08:01:54+00:00
+date: 2021-02-10 08:01:54.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22609
-permalink: /2021/02/10/presidents-blog-27/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"22612";}'
+permalink: "/2021/02/10/presidents-blog-27/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450380"
-image: /wp-content/uploads/2021/02/GB.png
+- '1'
+image: "/wp-content/uploads/2021/02/GB.png"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 People who know me know not to write anything important in the second paragraph of emails. Make your point early and don’t bother with the “How are you? Hope you are staying busy in these difficult times” section. So, to test you out I am going to ask a question in my opening paragraph and answer it at the very end, to check whether you have read that far. By how much can a bellframe move before it causes noticeable problems for the ringers?
 

@@ -1,18 +1,13 @@
 ---
-id: 10845
-title: 'President&apos;s Blog July 2017'
-date: 2017-07-31T12:18:53+00:00
+title: President&apos;s Blog July 2017
+date: 2017-07-31 12:18:53.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10845
-permalink: /2017/07/31/from-the-president-july-2017/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/07/CDO-Harrow-Bell.jpg
+permalink: "/2017/07/31/from-the-president-july-2017/"
+image: "/wp-content/uploads/2017/07/CDO-Harrow-Bell.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 The UK summer heatwave seems to have come and gone.  Royal Ascot and Wimbledon are well behind us, and the British weather has turned distinctly autumnal.  Meanwhile, the work of Central Council rumbles on, and this month’s blog highlights a few of the important items currently on the radar.
 

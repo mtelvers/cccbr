@@ -1,21 +1,17 @@
 ---
-id: 16571
 title: Ringing Remembers project comes to an end
-date: 2019-03-12T16:28:12+00:00
+date: 2019-03-12 16:28:12.000000000 +00:00
 author: Doug Davis
-excerpt: |
+excerpt: ''
 layout: single
-guid: /?p=15338
-permalink: /2019/03/12/ringing-remembers-project-comes-to-an-end/
+permalink: "/2019/03/12/ringing-remembers-project-comes-to-an-end/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-wp_featherlight_disable:
-  - ""
-image: /wp-content/uploads/2018/07/rrsmall-1.png
+- '0'
+image: "/wp-content/uploads/2018/07/rrsmall-1.png"
 categories:
-  - Latest News
+- Latest News
 ---
 It&apos;s safe to say that the Ringing Remembers project was more of a success than anyone could have imagined, with over 3,000 new ringers being recruited to ring on the centenary of the Armistice on 11th November 2018.
 

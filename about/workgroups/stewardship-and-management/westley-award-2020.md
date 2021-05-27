@@ -1,18 +1,8 @@
 ---
-id: 19283
-title: 'Westley Award for Church Bell Maintenance - 2020'
-date: 2020-02-28T19:16:34+00:00
+title: Westley Award for Church Bell Maintenance - 2020
+date: 2020-02-28 19:16:34.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=19283
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450449"
 ---
 <img loading="lazy" width="2560" height="698" src="https://cccbr.org.uk/wp-content/uploads/2020/03/westley2020-scaled.jpg" alt="" srcset="https://cccbr.org.uk/wp-content/uploads/2020/03/westley2020-scaled.jpg 2560w, https://cccbr.org.uk/wp-content/uploads/2020/03/westley2020-300x82.jpg 300w, https://cccbr.org.uk/wp-content/uploads/2020/03/westley2020-1024x279.jpg 1024w, https://cccbr.org.uk/wp-content/uploads/2020/03/westley2020-768x209.jpg 768w, https://cccbr.org.uk/wp-content/uploads/2020/03/westley2020-1536x419.jpg 1536w, https://cccbr.org.uk/wp-content/uploads/2020/03/westley2020-2048x558.jpg 2048w, https://cccbr.org.uk/wp-content/uploads/2020/03/westley2020-1200x327.jpg 1200w, https://cccbr.org.uk/wp-content/uploads/2020/03/westley2020-600x163.jpg 600w" sizes="(max-width: 2560px) 100vw, 2560px" /> 
 

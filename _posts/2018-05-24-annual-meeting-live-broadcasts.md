@@ -1,23 +1,18 @@
 ---
-id: 13551
 title: Annual Meeting Live Broadcasts
-date: 2018-05-24T15:57:40+00:00
+date: 2018-05-24 15:57:40.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=13551
-permalink: /2018/05/24/annual-meeting-live-broadcasts/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2018/05/24/annual-meeting-live-broadcasts/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-image: /wp-content/uploads/2017/06/CCCBR_Logo_col_rev.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2017/06/CCCBR_Logo_col_rev.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 As in previous years, we will hopefully be able to broadcast a number of sessions taking place at the Annual Meeting in Lancaster live over the web, starting with the Ringing World AGM on Sunday afternoon.
 

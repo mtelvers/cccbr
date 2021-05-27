@@ -1,17 +1,12 @@
 ---
-id: 5029
 title: Council Review Action Group -­ can you help?
-date: 2016-06-02T09:55:51+00:00
+date: 2016-06-02 09:55:51.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=5029
-permalink: '/2016/06/02/council-review-action-group-%c2%ad-can-you-help/'
-catchbox-sidebarlayout:
-  - default
-  - default
-image: /wp-content/uploads/2016/06/can-you-help-sign.jpg
+permalink: "/2016/06/02/council-review-action-group-%c2%ad-can-you-help/"
+image: "/wp-content/uploads/2016/06/can-you-help-sign.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The Central Council voted to initiate a review of the Council with the outcome of concrete proposals next year, and is now looking for a number of ringers to volunteer for the **Action Group**.
 

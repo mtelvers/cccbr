@@ -1,20 +1,12 @@
 ---
-id: 6331
 title: York Minster and Central Council – a message from the Vice President
-date: 2016-10-19T19:08:19+00:00
+date: 2016-10-19 19:08:19.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=6331
-permalink: /2016/10/19/york-minster-and-central-council-a-message-from-the-vice-president/
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450170"
-image: /wp-content/uploads/2015/10/latest_news-e1488532238309.jpg
+permalink: "/2016/10/19/york-minster-and-central-council-a-message-from-the-vice-president/"
+image: "/wp-content/uploads/2015/10/latest_news-e1488532238309.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 The public and media spotlight focused on York Minster and its bellringers in the days since Tuesday 11 October has brought a number of ringing-related matters into sharp relief.
 

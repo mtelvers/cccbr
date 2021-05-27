@@ -1,17 +1,12 @@
 ---
-id: 10908
-title: 'Big Ben replacement - Christopher O&apos;Mahony speaks to media'
-date: 2017-08-16T23:15:41+00:00
+title: Big Ben replacement - Christopher O&apos;Mahony speaks to media
+date: 2017-08-16 23:15:41.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10908
-permalink: /2017/08/16/big-ben-replacement-christopher-omahony-speaks-to-media/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/07/CDO-Harrow-Bell.jpg
+permalink: "/2017/08/16/big-ben-replacement-christopher-omahony-speaks-to-media/"
+image: "/wp-content/uploads/2017/07/CDO-Harrow-Bell.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 A flurry of activity last two days as media getting in touch with the CCCBR press office to get some &#8216;insider knowledge&apos; on Big Ben replacement ideas&#8230;Thanks to our President, Christopher O&apos;Mahony, for his immediate availability and great interview skills!
 

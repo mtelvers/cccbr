@@ -1,17 +1,12 @@
 ---
-id: 11662
-title: 'Round-up of news this weekend re Armistice100 - BBC only available today!'
-date: 2017-11-12T15:44:12+00:00
+title: Round-up of news this weekend re Armistice100 - BBC only available today!
+date: 2017-11-12 15:44:12.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11662
-permalink: /2017/11/12/round-up-of-news-this-weekend-re-armistice100-bbc-only-available-today/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/11/armistice_web-version.png
+permalink: "/2017/11/12/round-up-of-news-this-weekend-re-armistice100-bbc-only-available-today/"
+image: "/wp-content/uploads/2017/11/armistice_web-version.png"
 categories:
-  - Latest News
+- Latest News
 ---
 Here is a selection of links to TV/articles around Ringing Remembers and the Armistice100 activity.  Note the BBC Breakfast feature with Alan Regin is only available today!
 

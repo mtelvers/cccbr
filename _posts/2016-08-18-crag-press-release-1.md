@@ -1,17 +1,12 @@
 ---
-id: 5168
 title: 'CRAG press release #1'
-date: 2016-08-18T09:32:18+00:00
+date: 2016-08-18 09:32:18.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=5168
-permalink: /2016/08/18/crag-press-release-1/
-catchbox-sidebarlayout:
-  - default
-  - default
-image: /wp-content/uploads/2016/08/CRAG.jpg
+permalink: "/2016/08/18/crag-press-release-1/"
+image: "/wp-content/uploads/2016/08/CRAG.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 **C**entral Council of Church Bell Ringers  
 **R**eview  

@@ -1,17 +1,12 @@
 ---
-id: 5146
 title: Society PROs Day
-date: 2016-06-09T17:31:16+00:00
+date: 2016-06-09 17:31:16.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: http:///?p=5146
-permalink: /2016/06/09/society-pros-day/
-catchbox-sidebarlayout:
-  - default
-  - default
-image: /wp-content/uploads/2015/10/latest_news-e1488532238309.jpg
+permalink: "/2016/06/09/society-pros-day/"
+image: "/wp-content/uploads/2015/10/latest_news-e1488532238309.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 **PR Officers – Save the date! - Saturday 25 February 2017**
 

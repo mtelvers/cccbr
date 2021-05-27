@@ -1,22 +1,19 @@
 ---
-id: 17807
 title: Introducing the new Public Relations Officer
-date: 2019-07-21T11:55:28+00:00
+date: 2019-07-21 11:55:28.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=17807
-permalink: /2019/07/21/introducing-the-new-public-relations-officer/
+permalink: "/2019/07/21/introducing-the-new-public-relations-officer/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"17233";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2019/05/20190416-Vicki-Chapman-VLC_16_9s-SQUARE.jpeg
+- '0'
+image: "/wp-content/uploads/2019/05/20190416-Vicki-Chapman-VLC_16_9s-SQUARE.jpeg"
 categories:
-  - Latest News
+- Latest News
 ---
 I am one of the CC Reps for Essex and have served on the Essex Management Committee for over 25 years.  During that time some of the roles I’ve held include Association Secretary, Education Officer and Convenor of the Essex Ringing Course.  Since joining the CC in 2016 I have been an active member of the former PR Committee and latterly the Comms & Marketing and the Volunteering & Leadership Workgroups.
 

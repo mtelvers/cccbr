@@ -1,35 +1,22 @@
 ---
-id: 22416
 title: 'President&apos;s Blog #25'
-date: 2021-01-13T00:01:05+00:00
+date: 2021-01-13 00:01:05.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22416
-permalink: /2021/01/13/presidents-blog-25-2/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"22418";}'
+permalink: "/2021/01/13/presidents-blog-25-2/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
+- '1'
 enclosure:
-  - |
-    https://cccbr.org.uk/wp-content/uploads/2021/01/York-Minster-video.mp4
-    16784337
-    video/mp4
-    
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450401"
-image: /wp-content/uploads/2021/01/swapshop.jpg
+- |
+  https://cccbr.org.uk/wp-content/uploads/2021/01/York-Minster-video.mp4
+  16784337
+  video/mp4
+image: "/wp-content/uploads/2021/01/swapshop.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 I’ll start with two different levels of good news and bad news. The first bit of good news is that it is mid-January and we are still eating Christmas cake. I might actually finish reading the Christmas Ringing World before running out of Christmas cake. Tempering that joy is the fact that there still seems to be a bag of sprouts in the fridge. There are some good things to have come out of Bedfordshire, but Brussels Sprouts are not included.
 

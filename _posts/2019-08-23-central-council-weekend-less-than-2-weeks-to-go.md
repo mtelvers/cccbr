@@ -1,22 +1,19 @@
 ---
-id: 18069
-title: 'Central Council weekend - less than 2 weeks to go!'
-date: 2019-08-23T07:00:17+00:00
+title: Central Council weekend - less than 2 weeks to go!
+date: 2019-08-23 07:00:17.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=18069
-permalink: /2019/08/23/central-council-weekend-less-than-2-weeks-to-go/
+permalink: "/2019/08/23/central-council-weekend-less-than-2-weeks-to-go/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"17067";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2019/05/london2019_logo.jpg
+- '0'
+image: "/wp-content/uploads/2019/05/london2019_logo.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <p style="text-align: center;">
   <a href="https://cccbr.org.uk/wp-content/uploads/2019/08/supplement.png"><img loading="lazy" class="wp-image-18009 size-thumbnail aligncenter" src="https://cccbr.org.uk/wp-content/uploads/2019/08/supplement-150x150.png" alt="" width="150" height="150" srcset="https://cccbr.org.uk/wp-content/uploads/2019/08/supplement-150x150.png 150w, https://cccbr.org.uk/wp-content/uploads/2019/08/supplement-300x300.png 300w, https://cccbr.org.uk/wp-content/uploads/2019/08/supplement-768x768.png 768w, https://cccbr.org.uk/wp-content/uploads/2019/08/supplement-1024x1024.png 1024w, https://cccbr.org.uk/wp-content/uploads/2019/08/supplement-1200x1200.png 1200w, https://cccbr.org.uk/wp-content/uploads/2019/08/supplement-600x600.png 600w, https://cccbr.org.uk/wp-content/uploads/2019/08/supplement-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>

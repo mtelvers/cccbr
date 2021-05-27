@@ -1,18 +1,13 @@
 ---
-id: 10718
-title: 'President&apos;s blog - June 2017'
-date: 2017-07-04T08:23:02+00:00
+title: President&apos;s blog - June 2017
+date: 2017-07-04 08:23:02.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10718
-permalink: /2017/07/04/presidents-blog-june-2017/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/07/blog.jpg
+permalink: "/2017/07/04/presidents-blog-june-2017/"
+image: "/wp-content/uploads/2017/07/blog.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Have you ever experienced that sensation, having been hired to do a job, of then discovering all the scary bits that they never dared to tell you at the job interview?  And the consequent feeling of overwhelming doom?  One could be forgiven for thinking that musings like these crossed my mind when coming away from the CCCBR meeting in Edinburgh at the end of May.
 

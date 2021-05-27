@@ -1,17 +1,12 @@
 ---
-id: 9753
 title: VolitionRx Ltd ringing in New York
-date: 2017-03-14T16:19:01+00:00
+date: 2017-03-14 16:19:01.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9753
-permalink: /2017/03/14/volitionrx-ltd-ringing-in-new-york/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/trinity-wall-street-exterior.jpg
+permalink: "/2017/03/14/volitionrx-ltd-ringing-in-new-york/"
+image: "/wp-content/uploads/2017/03/trinity-wall-street-exterior.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Following the press release detailed below, a peal of Nu.Q™ Alliance Maximus was scored at Holy Trinity, Wall Street, New York. Details can be found on BellBoard <a href="http://bb.ringingworld.co.uk/view.php?id=1165546" target="_blank">here</a>.
 

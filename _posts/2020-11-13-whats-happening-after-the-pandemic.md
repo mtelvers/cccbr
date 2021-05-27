@@ -1,28 +1,16 @@
 ---
-id: 21852
-title: 'What&apos;s happening after the pandemic?'
-date: 2020-11-13T08:07:11+00:00
+title: What&apos;s happening after the pandemic?
+date: 2020-11-13 08:07:11.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=21852
-permalink: /2020/11/13/whats-happening-after-the-pandemic/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"19434";}'
+permalink: "/2020/11/13/whats-happening-after-the-pandemic/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450310"
-image: /wp-content/uploads/2020/03/coronavirus.jpg
+- '1'
+image: "/wp-content/uploads/2020/03/coronavirus.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 </p> At the start of the first lockdown we were still looking forward to ringing events in the summer. There were plans for a grand “Ringing Returns” festival to mark the end of the almost unprecedented few months off ringing. Three months without ringing would be painful but not seismic. We would get a bit rusty, but we could recover.   It now looks clear that by the time ringing returns to ‘normal’ we will have missed at least a year. A year without ringing, a year without recruitment, a year without training, a year without the social intercourse that makes ringing what it is. Not only that, but we have months more in which to try and cope without the activity that some of us live for. 
 

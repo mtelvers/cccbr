@@ -1,28 +1,16 @@
 ---
-id: 21971
-title: 'Covid Winter Plan - updated guidance for England Wales and Scotland'
-date: 2020-11-30T17:46:51+00:00
+title: Covid Winter Plan - updated guidance for England Wales and Scotland
+date: 2020-11-30 17:46:51.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=21971
-permalink: /2020/11/30/covid-winter-plan-updated-guidance-for-england-wales-and-scotland/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"19434";}'
+permalink: "/2020/11/30/covid-winter-plan-updated-guidance-for-england-wales-and-scotland/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450417"
-image: /wp-content/uploads/2020/03/coronavirus.jpg
+- '1'
+image: "/wp-content/uploads/2020/03/coronavirus.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 England comes out of lockdown on Wednesday this week and enters the three Tiers system. The rules in Wales have not changed since 9<sup>th</sup> November and the Tiers will not apply. In Scotland, Covid restrictions are governed by five Protection Levels. Central Council guidance is now moving to respond to the Tiers and Protection Levels and so will now be different in England, Wales and Scotland.
 

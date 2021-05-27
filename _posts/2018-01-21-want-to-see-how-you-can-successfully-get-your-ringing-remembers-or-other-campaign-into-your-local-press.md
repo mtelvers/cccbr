@@ -1,17 +1,13 @@
 ---
-id: 12240
-title: Want to see how you can successfully get your Ringing Remembers or other campaign into your local press?
-date: 2018-01-21T23:59:40+00:00
+title: Want to see how you can successfully get your Ringing Remembers or other campaign
+  into your local press?
+date: 2018-01-21 23:59:40.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12240
-permalink: /2018/01/21/want-to-see-how-you-can-successfully-get-your-ringing-remembers-or-other-campaign-into-your-local-press/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2018/01/Memorial-Photo.jpg
+permalink: "/2018/01/21/want-to-see-how-you-can-successfully-get-your-ringing-remembers-or-other-campaign-into-your-local-press/"
+image: "/wp-content/uploads/2018/01/Memorial-Photo.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Well, here is what Jason Crouch has done in Sussex.  He has built up a story for the press in one of the documents attached, and then you can see the end result here:
 

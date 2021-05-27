@@ -1,18 +1,10 @@
 ---
-id: 9217
 title: Biographies Help
-date: 2017-01-31T14:08:45+00:00
+date: 2017-01-31 14:08:45.000000000 +00:00
 author: Andrew Hall
 layout: single
-guid: /?page_id=9217
 xyz_fbap:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449604"
+- '1'
 ---
 The **Biographies/Prolific Peals** dataset is an index to biographical and prolific peals data. The upload facility is intended to reflect current output requirements. For biographies, it is suggested that future records are entered as individual pages (using the Detail Page URL), as this allows a more flexible approach, particular where an addendum has to be made. The addenda have been uploaded for legacy records, but have not been enabled for update in this release.
 

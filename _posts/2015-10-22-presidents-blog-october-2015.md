@@ -1,18 +1,13 @@
 ---
-id: 9972
-title: 'President&apos;s Blog - October 2015'
-date: 2015-10-22T17:08:23+00:00
+title: President&apos;s Blog - October 2015
+date: 2015-10-22 17:08:23.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9972
-permalink: /2015/10/22/presidents-blog-october-2015/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2015/10/22/presidents-blog-october-2015/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 I think this is September running late due to leaf fall season!
 

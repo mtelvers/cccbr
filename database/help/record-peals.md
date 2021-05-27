@@ -1,20 +1,10 @@
 ---
-id: 8658
 title: Record Peals
-date: 2016-11-17T16:50:54+00:00
+date: 2016-11-17 16:50:54.000000000 +00:00
 author: Andrew Hall
 layout: single
-guid: http:///?page_id=8658
-wp_featherlight_disable:
-  - ""
 xyz_fbap:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450467"
+- '1'
 ---
 **Record Peals** are held in two underlying tables (+ one reference table), maintained by a single form. The data originates from that displayed on the original CCCBR site, which lacks structure and consistency. It is hoped that this can be improved over the course of time.
 

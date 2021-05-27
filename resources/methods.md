@@ -1,16 +1,8 @@
 ---
-id: 14659
 title: Methods
-date: 2018-11-24T17:02:52+00:00
+date: 2018-11-24 17:02:52.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=14659
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450525"
 ---
 The Central Council maintains and publishes records of methods which have been rung in peals and quarters, and provides advice to ringers about methods, method extension and other technical matters. The online CCCBR Methods Library contains over 20,000 methods, and is maintained by the [Technical and Taxonomy Workgroup](/about/workgroups/technical-and-taxonomy).&nbsp;
 

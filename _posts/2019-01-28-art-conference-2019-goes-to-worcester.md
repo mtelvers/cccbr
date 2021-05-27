@@ -1,20 +1,16 @@
 ---
-id: 15241
 title: ART Conference 2019 – Goes to Worcester!
-date: 2019-01-28T13:13:45+00:00
+date: 2019-01-28 13:13:45.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14877
-permalink: /2019/01/28/art-conference-2019-goes-to-worcester/
+permalink: "/2019/01/28/art-conference-2019-goes-to-worcester/"
 xyz_fbap_insert_og:
-  - "0"
-wp_featherlight_disable:
-  - ""
+- '0'
 xyz_fbap:
-  - "1"
-image: /wp-content/uploads/2018/11/cc_art.png
+- '1'
+image: "/wp-content/uploads/2018/11/cc_art.png"
 categories:
-  - Latest News
+- Latest News
 ---
 <p style="text-align: center;">
   <a href="https://cccbr.org.uk/wp-content/uploads/2018/11/cc_art.png"><img loading="lazy" class="alignnone wp-image-14637 size-full" src="https://cccbr.org.uk/wp-content/uploads/2018/11/cc_art.png" alt="" width="366" height="257" /></a>

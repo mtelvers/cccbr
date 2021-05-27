@@ -1,16 +1,8 @@
 ---
-id: 19938
 title: 1939-1945 War Memorial Book II
-date: 2020-05-04T10:20:57+00:00
+date: 2020-05-04 10:20:57.000000000 +00:00
 author: Andrew Hall
 layout: single
-guid: /?page_id=19938
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450433"
 ---
  
 

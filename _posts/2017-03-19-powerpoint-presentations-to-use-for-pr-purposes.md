@@ -1,23 +1,12 @@
 ---
-id: 9807
 title: Powerpoint presentations to use for PR purposes
-date: 2017-03-19T22:05:18+00:00
+date: 2017-03-19 22:05:18.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=9807
-permalink: /2017/03/19/powerpoint-presentations-to-use-for-pr-purposes/
-wp_featherlight_disable:
-  - ""
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450230"
-image: /wp-content/uploads/2017/03/latest_news.jpg
+permalink: "/2017/03/19/powerpoint-presentations-to-use-for-pr-purposes/"
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Want to tell other people about bell ringing?  Not sure how to get the facts together in the best way?  Or don&apos;t have the time to create your own presentation?
 

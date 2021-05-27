@@ -1,18 +1,13 @@
 ---
-id: 10297
-title: 'President&apos;s Blog - May 2017'
-date: 2017-05-18T09:27:47+00:00
+title: President&apos;s Blog - May 2017
+date: 2017-05-18 09:27:47.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10297
-permalink: /2017/05/18/presidents-blog-may-2017/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2016/01/blog-1.jpg
+permalink: "/2017/05/18/presidents-blog-may-2017/"
+image: "/wp-content/uploads/2016/01/blog-1.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Writing this just before the Central Council meeting in Edinburgh, I am aware that those involved will be considering the business in hand. The proposals to restructure the Council and the future membership are all contained in the report of the CRAG review group and if you haven’t read it, it can be accessed via the Council website. There have already been diverse views expressed in the Ringing World and via social media and it is not too late for ringers to make their views known to their own CC representatives. I am sure that all will strive to achieve an improved service for ringers and work to secure a healthy future for our art.
 

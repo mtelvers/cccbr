@@ -1,29 +1,18 @@
 ---
-id: 11638
 title: 'Ringing for Peace: Armistice100, what you need to know for 2018'
-date: 2017-11-11T18:44:37+00:00
+date: 2017-11-11 18:44:37.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11638
-permalink: /2017/11/11/ringing-for-peace-armistice100-in-2018-what-you-need-to-know/
-wp_featherlight_disable:
-  - ""
-  - ""
+permalink: "/2017/11/11/ringing-for-peace-armistice100-in-2018-what-you-need-to-know/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449452"
-image: /wp-content/uploads/2017/11/armistice_web-version.png
+- '0'
+- '0'
+image: "/wp-content/uploads/2017/11/armistice_web-version.png"
 categories:
-  - Latest News
+- Latest News
 ---
 <img loading="lazy" class="aligncenter wp-image-11652 size-full" src="https://cccbr.org.uk/wp-content/uploads/2017/11/RFP-v27.png" alt="" width="2600" height="702" srcset="https://cccbr.org.uk/wp-content/uploads/2017/11/RFP-v27.png 2600w, https://cccbr.org.uk/wp-content/uploads/2017/11/RFP-v27-300x81.png 300w, https://cccbr.org.uk/wp-content/uploads/2017/11/RFP-v27-768x207.png 768w, https://cccbr.org.uk/wp-content/uploads/2017/11/RFP-v27-1024x276.png 1024w, https://cccbr.org.uk/wp-content/uploads/2017/11/RFP-v27-600x162.png 600w" sizes="(max-width: 2600px) 100vw, 2600px" />
 

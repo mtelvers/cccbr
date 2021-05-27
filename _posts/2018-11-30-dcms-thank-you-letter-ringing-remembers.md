@@ -1,19 +1,15 @@
 ---
-id: 15237
-title: 'DCMS Thank You Letter - Ringing Remembers'
-date: 2018-11-30T10:31:32+00:00
+title: DCMS Thank You Letter - Ringing Remembers
+date: 2018-11-30 10:31:32.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=14657
-permalink: /2018/11/30/dcms-thank-you-letter-ringing-remembers/
+permalink: "/2018/11/30/dcms-thank-you-letter-ringing-remembers/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-wp_featherlight_disable:
-  - ""
+- '0'
 categories:
-  - Latest News
+- Latest News
 ---
 The below letter was recently received from Lord Ashton of Hyde on behalf of the Department for Digital, Culture, Media and Sport:
 

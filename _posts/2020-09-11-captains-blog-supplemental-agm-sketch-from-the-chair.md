@@ -1,29 +1,17 @@
 ---
-id: 21380
-title: 'Captain&apos;s Blog - Supplemental (AGM sketch from the Chair)'
-date: 2020-09-11T10:24:57+00:00
+title: Captain&apos;s Blog - Supplemental (AGM sketch from the Chair)
+date: 2020-09-11 10:24:57.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=21380
-permalink: /2020/09/11/captains-blog-supplemental-agm-sketch-from-the-chair/
-classic-editor-remember:
-  - block-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"21382";}'
+permalink: "/2020/09/11/captains-blog-supplemental-agm-sketch-from-the-chair/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450179"
-image: /wp-content/uploads/2020/09/CC-meeting-scaled.jpg
+- '1'
+image: "/wp-content/uploads/2020/09/CC-meeting-scaled.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 I nearly got off to a bad start. At 10am someone asked on Facebook what time the meeting started and I replied “11”. Then I thought I had better check and it’s just as well I did …  I hastily deleted my Facebook answer lest it made anyone think I didn’t know what I was doing, and accelerated my preparations!
 

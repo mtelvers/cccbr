@@ -1,23 +1,18 @@
 ---
-id: 12810
 title: Chimes feature in Telegraph
-date: 2018-03-26T09:03:47+00:00
+date: 2018-03-26 09:03:47.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=12810
-permalink: /2018/03/26/chimes-feature-in-telegraph/
+permalink: "/2018/03/26/chimes-feature-in-telegraph/"
 xyz_fbap:
-  - "1"
-  - "1"
+- '1'
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-  - "0"
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+- '0'
+- '0'
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Link to article Sun 25th here:
 

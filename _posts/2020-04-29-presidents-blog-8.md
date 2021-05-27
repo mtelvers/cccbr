@@ -1,27 +1,17 @@
 ---
-id: 19867
 title: 'President&apos;s Blog #8'
-date: 2020-04-29T06:33:23+00:00
+date: 2020-04-29 06:33:23.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=19867
-permalink: /2020/04/29/presidents-blog-8/
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"19872";}'
+permalink: "/2020/04/29/presidents-blog-8/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450307"
-image: /wp-content/uploads/2020/04/Abel.jpg
+- '1'
+image: "/wp-content/uploads/2020/04/Abel.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Quizzes, coffee mornings, Zoom pub sessions, ringingroom practices – ringers are trying to retain at least some sense of normality. In the absence of practical ringing, more and more associations are running online training sessions, with topics around learning and construction of methods being particularly popular. My online production for the St Martin’s Guild this week is going to be called “Why do we need bobs?”  I have even cut my own hair specially (it’s not a bob).
 

@@ -1,29 +1,17 @@
 ---
-id: 22925
 title: 'President&apos;s Blog #30'
-date: 2021-03-23T23:05:13+00:00
+date: 2021-03-23 23:05:13.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=22925
-permalink: /2021/03/23/presidents-blog-30/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450380"
+permalink: "/2021/03/23/presidents-blog-30/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-image: /wp-content/uploads/2021/03/VR.jpg
+- '1'
+image: "/wp-content/uploads/2021/03/VR.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Google Glass was a piece of wearable tech which could have had implications for ringing but never did. Launched in 2013, these clever glasses had the capability of projecting content onto the back of your retina to present head-up information to the wearer. In a ringing context it would for instance have enabled the wearer to see the line of the method, or the composition, while ringing. Imagine the possibilities! And the suspicion of anyone wearing them. That was the problem - the consumer product was dropped over privacy concerns.
 

@@ -1,27 +1,17 @@
 ---
-id: 17283
-title: 'This week in The Ringing World - 7th June'
-date: 2019-06-04T15:41:03+00:00
+title: This week in The Ringing World - 7th June
+date: 2019-06-04 15:41:03.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=17283
-permalink: /2019/06/04/this-week-in-the-ringing-world-7th-june/
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"17238";}'
+permalink: "/2019/06/04/this-week-in-the-ringing-world-7th-june/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449512"
-image: /wp-content/uploads/2019/05/RW-Facebook-logo-1.jpg
+- '0'
+image: "/wp-content/uploads/2019/05/RW-Facebook-logo-1.jpg"
 categories:
-  - Latest News
-  - Ringing World
+- Latest News
+- Ringing World
 ---
 Coming in this week’s edition of <a href="https://www.ringingworld.co.uk/" target="_blank" rel="noopener noreferrer">The Ringing World</a> on Friday 7th June:
 

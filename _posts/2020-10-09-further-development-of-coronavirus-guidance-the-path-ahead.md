@@ -1,27 +1,15 @@
 ---
-id: 21618
-title: 'Further development of Coronavirus guidance - the Path Ahead'
-date: 2020-10-09T06:22:40+00:00
+title: Further development of Coronavirus guidance - the Path Ahead
+date: 2020-10-09 06:22:40.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=21618
-permalink: /2020/10/09/further-development-of-coronavirus-guidance-the-path-ahead/
-classic-editor-remember:
-  - classic-editor
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:0:"";}'
+permalink: "/2020/10/09/further-development-of-coronavirus-guidance-the-path-ahead/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450304"
+- '1'
 categories:
-  - Latest News
+- Latest News
 ---
 Last Friday lunchtime, I was notified by my daughter’s school that one person in her year group had tested positive for Coronavirus and the entire year group was being sent home to self-isolate for 10 days. One of the first things she did on getting home was to say that she wouldn’t be able to fulfil either of her Sunday ringing commitments, and she informed both tower captains. Such is life at the moment.
 

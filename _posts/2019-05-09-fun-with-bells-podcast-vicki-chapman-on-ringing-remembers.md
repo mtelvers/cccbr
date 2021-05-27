@@ -1,20 +1,16 @@
 ---
-id: 15577
-title: 'Fun With Bells podcast - Vicki Chapman on Ringing Remembers'
-date: 2019-05-09T13:30:09+00:00
+title: Fun With Bells podcast - Vicki Chapman on Ringing Remembers
+date: 2019-05-09 13:30:09.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=15577
-permalink: /2019/05/09/fun-with-bells-podcast-vicki-chapman-on-ringing-remembers/
+permalink: "/2019/05/09/fun-with-bells-podcast-vicki-chapman-on-ringing-remembers/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-wp_featherlight_disable:
-  - ""
-image: /wp-content/uploads/2019/05/fun_with_bells_for_news-1.png
+- '0'
+image: "/wp-content/uploads/2019/05/fun_with_bells_for_news-1.png"
 categories:
-  - Latest News
+- Latest News
 ---
 <a href="https://funwithbells.com" target="_blank" rel="noopener noreferrer">Fun With Bells</a> is a relatively new addition to the ringing media, a weekly podcast covering various aspects of the hobby we all know and love.
 

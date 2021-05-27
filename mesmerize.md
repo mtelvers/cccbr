@@ -1,16 +1,10 @@
 ---
-id: 9
 title: Home
-date: 2018-11-08T09:49:10+00:00
+date: 2018-11-08 09:49:10.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /mesmerize/
 is_mesmerize_front_page:
-  - "1"
-ep_tilt_migration:
-  - "1"
-classic-editor-remember:
-  - classic-editor
+- '1'
 ---
 What do we do?We represent the interests of bell ringers and ensure a sustainable future for the traditional art of bell ringing[Find out more](/about/)What is bell ringing?Bell ringing means different things to different people, but is accessible to all[Find out more](/bellringing/what-is-bell-ringing/)Want to learn to ring?Anyone can learn to ring regardless of age, strength or social background[Find out more](/bellringing/learn/)  
 Previous  

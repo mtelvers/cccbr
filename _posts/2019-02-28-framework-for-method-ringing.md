@@ -1,27 +1,17 @@
 ---
-id: 15192
 title: Framework for Method Ringing
-date: 2019-02-28T16:17:03+00:00
+date: 2019-02-28 16:17:03.000000000 +00:00
 author: Doug Davis
-excerpt: |
+excerpt: ''
 layout: single
-guid: /?p=15192
-permalink: /2019/02/28/framework-for-method-ringing/
+permalink: "/2019/02/28/framework-for-method-ringing/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-wp_featherlight_disable:
-  - ""
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450449"
-image: /wp-content/uploads/2017/06/CCCBR_Logo_col.jpg
+- '0'
+image: "/wp-content/uploads/2017/06/CCCBR_Logo_col.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 As you may recall, CRAG&apos;s Proposal H, which was passed at the May 2017 Central Council meeting, called for the Decisions of the Council to be replaced with a simple, permissive and descriptive framework for ringing with only the minimal detail required to maintain the historical record.
 

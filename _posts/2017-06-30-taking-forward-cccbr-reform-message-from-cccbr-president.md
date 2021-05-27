@@ -1,17 +1,12 @@
 ---
-id: 10668
 title: Taking forward CCCBR reform (message from CCCBR President)
-date: 2017-06-30T01:41:31+00:00
+date: 2017-06-30 01:41:31.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=10668
-permalink: /2017/06/30/taking-forward-cccbr-reform-message-from-cccbr-president/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/03/latest_news.jpg
+permalink: "/2017/06/30/taking-forward-cccbr-reform-message-from-cccbr-president/"
+image: "/wp-content/uploads/2017/03/latest_news.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 <p style="text-align: left;">
   <strong>Calling all ringers!</strong>

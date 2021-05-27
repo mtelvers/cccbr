@@ -1,29 +1,17 @@
 ---
-id: 19756
 title: 'President&apos;s Blog #7'
-date: 2020-04-14T21:09:24+00:00
+date: 2020-04-14 21:09:24.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=19756
-permalink: /2020/04/14/presidents-blog-7/
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"19761";}'
+permalink: "/2020/04/14/presidents-blog-7/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "449530"
-classic-editor-remember:
-  - classic-editor
-image: /wp-content/uploads/2020/04/Ringingroom.jpg
+- '1'
+image: "/wp-content/uploads/2020/04/Ringingroom.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 I would be flattering myself if I thought anyone missed the arrival of my blog every other Saturday. One or two might have thought “ah I knew he wouldn’t be able to keep up a two-weekly blog”, and a few others who would have blamed t’interweb. Well actually ‘publication date’ has just moved so that arrival on social media, and publication in _The Ringing World,_ are closer together.
 

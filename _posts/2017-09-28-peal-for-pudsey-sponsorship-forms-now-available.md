@@ -1,17 +1,12 @@
 ---
-id: 11302
-title: 'Peal for Pudsey - sponsorship forms now available!'
-date: 2017-09-28T14:16:11+00:00
+title: Peal for Pudsey - sponsorship forms now available!
+date: 2017-09-28 14:16:11.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=11302
-permalink: /2017/09/28/peal-for-pudsey-sponsorship-forms-now-available/
-wp_featherlight_disable:
-  - ""
-  - ""
-image: /wp-content/uploads/2017/08/Pudsey-thumbnail-web-version.jpg
+permalink: "/2017/09/28/peal-for-pudsey-sponsorship-forms-now-available/"
+image: "/wp-content/uploads/2017/08/Pudsey-thumbnail-web-version.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Don&apos;t miss this opportunity to join ringers around the UK between now and Children in Need night (Nov 17th), raising funds for a good cause.  Pick anything you like, whether the method Pudsey or rounds and call changes, as long as has a bit of challenge in it, and get friends, colleagues and family to sponsor you to raise funds for Children in Need.  No doubt this initiative will further raise (positive) awareness of ringing in our communities.
 

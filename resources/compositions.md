@@ -1,16 +1,8 @@
 ---
-id: 16606
 title: Compositions
-date: 2019-03-27T07:27:05+00:00
+date: 2019-03-27 07:27:05.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?page_id=16606
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450517"
 ---
 The Central Council maintains and publishes collections of compositions, encourages an interest in ringing theory and composition through articles and seminars, and provides advice to ringers about compositions.
 

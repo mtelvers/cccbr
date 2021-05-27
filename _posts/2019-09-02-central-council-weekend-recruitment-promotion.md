@@ -1,22 +1,19 @@
 ---
-id: 18123
-title: 'Central Council Weekend - Recruitment & Promotion'
-date: 2019-09-02T21:34:29+00:00
+title: Central Council Weekend - Recruitment & Promotion
+date: 2019-09-02 21:34:29.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=18123
-permalink: /2019/09/02/central-council-weekend-recruitment-promotion/
+permalink: "/2019/09/02/central-council-weekend-recruitment-promotion/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"18126";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "0"
-image: /wp-content/uploads/2019/09/london2019_orange.jpg
+- '0'
+image: "/wp-content/uploads/2019/09/london2019_orange.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Recruitment is all fine and dandy but we need to retain our recruits for the long term.  At the mini roadshow we have a number of expert speakers on the subject and materials that support promoting ringing, recruitment and retention.
 

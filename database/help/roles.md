@@ -1,20 +1,10 @@
 ---
-id: 6326
 title: Roles Help
-date: 2016-10-19T19:03:19+00:00
+date: 2016-10-19 19:03:19.000000000 +00:00
 author: Andrew Hall
 layout: single
-guid: http:///?page_id=6326
-wp_featherlight_disable:
-  - ""
 xyz_fbap:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450416"
+- '1'
 ---
 The **Roles** table defines the roles that may be applied to a particular entity in the Organisation structure, such as President or Committee Member. Members of Council may be assigned to one or more roles via the Role Assignment pages.
 

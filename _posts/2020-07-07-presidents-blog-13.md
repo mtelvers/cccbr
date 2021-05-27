@@ -1,27 +1,17 @@
 ---
-id: 20731
 title: 'President&apos;s Blog #13'
-date: 2020-07-07T22:10:17+00:00
+date: 2020-07-07 22:10:17.000000000 +00:00
 author: Simon Linford
 layout: single
-guid: /?p=20731
-permalink: /2020/07/07/presidents-blog-13/
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"20737";}'
+permalink: "/2020/07/07/presidents-blog-13/"
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450179"
-image: /wp-content/uploads/2020/07/Bournville.jpg
+- '1'
+image: "/wp-content/uploads/2020/07/Bournville.jpg"
 categories:
-  - Blog
-  - Latest News
+- Blog
+- Latest News
 ---
 Last Friday was definitely a low point. There was much swearing in Moseley, Worcester and Wrotham when an ever-so-polite email dropped in from the Church of England Recovery Group asking us not to ring that Sunday after all. Then my computer crashed just to add to the misery. The next morning, we had a call with Mark and Brendan but it was clear that they wanted us to change our guidance and wait a bit longer.
 

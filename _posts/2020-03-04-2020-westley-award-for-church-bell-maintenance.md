@@ -1,28 +1,19 @@
 ---
-id: 19326
 title: 2020 Westley Award for Church Bell Maintenance
-date: 2020-03-04T11:05:45+00:00
+date: 2020-03-04 11:05:45.000000000 +00:00
 author: Doug Davis
 layout: single
-guid: /?p=19326
-permalink: /2020/03/04/2020-westley-award-for-church-bell-maintenance/
+permalink: "/2020/03/04/2020-westley-award-for-church-bell-maintenance/"
 xyz_fbap_future_to_publish:
-  - 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
-complete_open_graph:
-  - 'a:7:{s:14:"og:description";s:0:"";s:8:"og:title";s:0:"";s:7:"og:type";s:0:"";s:12:"twitter:card";s:7:"summary";s:15:"twitter:creator";s:0:"";s:19:"twitter:description";s:0:"";s:8:"og:image";s:5:"16738";}'
+- 'a:3:{s:18:"post_fb_permission";i:1;s:18:"xyz_fbap_po_method";s:1:"2";s:16:"xyz_fbap_message";s:62:"News
+  item added to the CCCBR website: {POST_TITLE} {PERMALINK}";}'
 xyz_fbap:
-  - "1"
+- '1'
 xyz_fbap_insert_og:
-  - "1"
-ssb_old_counts:
-  - 'a:5:{s:7:"twitter";i:0;s:9:"pinterest";i:0;s:7:"fbshare";i:0;s:6:"reddit";i:0;s:6:"tumblr";N;}'
-ssb_total_counts:
-  - "0"
-ssb_cache_timestamp:
-  - "450067"
-image: /wp-content/uploads/2019/04/westley-group-250x250.jpg
+- '1'
+image: "/wp-content/uploads/2019/04/westley-group-250x250.jpg"
 categories:
-  - Latest News
+- Latest News
 ---
 Ringers are all dependent on the bells that they ring.  Towers and bells in good condition will usually make it easier for ringers to develop their skills and, in particular, help retain new recruits.  So have you or one of your band become involved in belfry maintenance relatively recently?
 
