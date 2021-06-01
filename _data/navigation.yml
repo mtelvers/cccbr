@@ -55,7 +55,7 @@ bellringing:
         url: /bellringing/things-to-ring-for/ttrf-church-festivals
 
 resources:
-  - title: Resources5
+  - title: Resources
     children:
       - title: Volunteering with the Council
         url: /resources/volunteering-with-the-council
