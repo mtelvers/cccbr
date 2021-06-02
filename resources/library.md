@@ -6,6 +6,7 @@ layout: single
 sidebar:
   nav: resources
 toc: true
+toc_sticky: true
 ---
 <header></header> 
 

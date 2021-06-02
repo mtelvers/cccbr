@@ -3,6 +3,8 @@ title: Frequently asked questions on COVID-19 Guidance
 date: 2020-07-03 08:32:30.000000000 +00:00
 author: Mark Elvers
 layout: single
+toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

@@ -3,6 +3,8 @@ title: Annual Reports
 date: 2020-09-14 18:17:31.000000000 +00:00
 author: Doug Davis
 layout: single
+toc: true
+toc_sticky: true
 ---
 The Annual Reports of the Central Council, including the Accounts and old Committee Reports, are now available online for the following years:
 

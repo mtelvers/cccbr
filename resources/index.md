@@ -6,5 +6,6 @@ layout: single
 sidebar:
   nav: resources
 toc: true
+toc_sticky: true
 ---
 Resources available on the left

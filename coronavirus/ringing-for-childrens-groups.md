@@ -3,6 +3,8 @@ title: Ringing for children’s groups - Tiers 1-3
 date: 2020-12-14 18:18:22.000000000 +00:00
 author: Mark Elvers
 layout: single
+toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

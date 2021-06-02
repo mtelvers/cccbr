@@ -6,6 +6,7 @@ layout: single
 sidebar:
   nav: resources
 toc: true
+toc_sticky: true
 ---
 The Central Council Rolls of Honour commemorate those ringers who fell in the Great War 1914 - 1918 and 1939-1945 War.
 

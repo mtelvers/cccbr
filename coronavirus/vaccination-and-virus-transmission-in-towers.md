@@ -3,6 +3,8 @@ title: Vaccination, and Virus Transmission in Towers
 date: 2021-03-13 09:46:16.000000000 +00:00
 author: Mark Elvers
 layout: single
+toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

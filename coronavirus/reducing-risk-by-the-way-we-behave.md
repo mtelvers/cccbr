@@ -3,6 +3,8 @@ title: Reducing risk by the way we behave
 date: 2020-10-23 17:02:15.000000000 +00:00
 author: Mark Elvers
 layout: single
+toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

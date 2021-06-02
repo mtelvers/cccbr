@@ -3,6 +3,8 @@ title: Continuing CCCBR Reforms - 18 November 2020 Update
 date: 2020-12-31 07:51:12.000000000 +00:00
 author: Mark Elvers
 layout: single
+toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

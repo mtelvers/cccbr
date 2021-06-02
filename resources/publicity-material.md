@@ -6,6 +6,7 @@ layout: single
 sidebar:
   nav: resources
 toc: true
+toc_sticky: true
 ---
 The information on this page is available for guilds, associations and groups who wish to promote bell ringing. 
 

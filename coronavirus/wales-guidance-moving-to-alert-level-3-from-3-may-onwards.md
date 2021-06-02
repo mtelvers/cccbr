@@ -2,6 +2,8 @@
 title: 'Wales Guidance: moving to Alert Level 3 from 3 May onwards'
 date: 2021-04-29 11:47:05.000000000 +00:00
 author: Mark Elvers
+toc: true
+toc_sticky: true
 layout: single
 ---
 <div class="wp-block-getwid-section">

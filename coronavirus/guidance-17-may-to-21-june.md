@@ -3,6 +3,8 @@ title: Guidance 17 May to 21 June
 date: 2021-04-21 09:20:51.000000000 +00:00
 author: Mark Elvers
 layout: single
+toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

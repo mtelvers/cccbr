@@ -3,6 +3,8 @@ title: Making your tower as safe as possible
 date: 2020-06-23 14:24:52.000000000 +00:00
 author: Mark Elvers
 layout: single
+toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section getwid-section-content-custom-width">
   <div class="wp-block-getwid-section__wrapper">

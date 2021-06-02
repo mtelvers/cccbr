@@ -3,6 +3,8 @@ title: Running safe ringing sessions
 date: 2020-06-23 14:38:25.000000000 +00:00
 author: Mark Elvers
 layout: single
+toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

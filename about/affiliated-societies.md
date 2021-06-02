@@ -3,6 +3,8 @@ title: Members and Affiliated Societies
 date: 2018-11-24 16:52:32.000000000 +00:00
 author: Doug Davis
 layout: single
+toc: true
+toc_sticky: true
 ---
 Below is a list of Fellows, Ex-Officio Officers and all ringing societies affiliated to the Central Council, with the number of representatives for each society listed beside it:
 

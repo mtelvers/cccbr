@@ -1,5 +1,6 @@
 ---
 layout: home
+entries_layout: grid
 excerpt: We represent the interests of bell ringers and ensure a sustainable future
   for the traditional art of bell ringing
 header:

@@ -6,6 +6,7 @@ layout: single
 sidebar:
   nav: resources
 toc: true
+toc_sticky: true
 ---
 The Stewardship and Management workgroup regularly reviews all aspects of Tower Stewardship and can offer advice and recommendations on matters including insurance, tower management, safeguarding, risk assessments, church law, health & safety, fire risk, complaints, etc.
 

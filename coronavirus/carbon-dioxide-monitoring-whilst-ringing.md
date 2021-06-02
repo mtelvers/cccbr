@@ -4,6 +4,7 @@ date: 2021-05-07 15:46:50.000000000 +00:00
 author: Mark Elvers
 layout: single
 toc: true
+toc_sticky: true
 sidebar:
   nav: covid
 ---

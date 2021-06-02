@@ -6,6 +6,7 @@ layout: single
 sidebar:
   nav: about
 toc: true
+toc_sticky: true
 ---
 [Structure]()  
 [Rules]()  

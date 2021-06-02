@@ -3,6 +3,8 @@ title: Our priorities
 date: 2018-11-24 16:47:36.000000000 +00:00
 author: Doug Davis
 layout: single
+toc: true
+toc_sticky: true
 ---
 ![vllogo](https://cccbr.org.uk/wp-content/uploads/elementor/thumbs/vllogo-o02l2w9cpaielutj3t4vk90nztm3fnzav02os4pnhc.png "vllogo") 
 

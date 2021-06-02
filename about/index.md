@@ -6,6 +6,7 @@ layout: single
 sidebar:
   nav: about
 toc: true
+toc_sticky: true
 ---
 The Council is the representative body for all who ring bells in the English tradition with rope and wheel. Founded in 1891, the Council today represents 65 [affiliated societies](/about/affiliated-societies/), which cover all parts of the British Isles as well as centres of ringing in Australia, New Zealand, Canada, the USA, South Africa and Italy. These societies in turn comprise the members of the local companies of ringers in their areas.
 

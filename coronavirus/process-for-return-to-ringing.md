@@ -3,6 +3,8 @@ title: Process for return to Ringing
 date: 2020-10-23 16:53:49.000000000 +00:00
 author: Mark Elvers
 layout: single
+toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

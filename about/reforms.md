@@ -6,6 +6,7 @@ layout: single
 sidebar:
   nav: about
 toc: true
+toc_sticky: true
 ---
 <div class="wp-block-getwid-section">
   <div class="wp-block-getwid-section__wrapper">

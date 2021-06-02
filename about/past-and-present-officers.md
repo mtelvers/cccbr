@@ -3,6 +3,8 @@ title: Past and Present Officers
 date: 2019-05-08 19:33:19.000000000 +00:00
 author: Doug Davis
 layout: single
+toc: true
+toc_sticky: true
 ---
 #### Presidents
 

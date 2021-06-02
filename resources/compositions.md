@@ -6,6 +6,7 @@ layout: single
 sidebar:
   nav: resources
 toc: true
+toc_sticky: true
 ---
 The Central Council maintains and publishes collections of compositions, encourages an interest in ringing theory and composition through articles and seminars, and provides advice to ringers about compositions.
 
